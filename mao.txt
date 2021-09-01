@@ -350,14 +350,14 @@
         {
             "key": "09蓝光影视",
             "name": "09蓝光影视",
-            "type": 0,
+            "type": 1,
             "api": "https://09tv.top/api.php/provide/vod/at/xml",
             "playUrl": ""
         },
         {
             "key": "yunboys.TV",
             "name": "yunboys.TV",
-            "type": 0,
+            "type": 1,
             "api": "http://api.yunboys.cn/api.php/provide/vod/at/xml",
             "playUrl": ""
         },
@@ -385,28 +385,28 @@
         {
             "key": "白熊影视",
             "name": "白熊影视",
-            "type": 0,
+            "type": 1,
             "api": "https://www.bxyy5.com/api.php/provide/vod/at/xml",
             "playUrl": ""
         },
         {
             "key": "飞鱼影视",
             "name": "飞鱼影视",
-            "type": 0,
+            "type": 1,
             "api": "https://app.feiyu5.com/api.php/provide/vod/",
             "playUrl": ""
         },
         {
             "key": "293影院",
             "name": "293影院",
-            "type": 0,
+            "type": 1,
             "api": "http://app.wangweizhushou.com:2020/api.php/provide/vod/at/xml",
             "playUrl": "https://vip.bljiex.com/?v="
         },
         {
             "key": "8090资源",
             "name": "8090资源",
-            "type": 0,
+            "type": 1,
             "api": "http://zy.yilans.net:8090/api.php/provide/vod/at/xml/",
             "playUrl": ""
         }

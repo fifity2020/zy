@@ -11,7 +11,7 @@
 {"key":"csp_Cokemv","name":"Cokemv(爬虫)","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_appysv2_虎猫视频","name":"虎猫视频_M2","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"虎猫视频###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
 {"key":"csp_appysv2_神马影视","name":"神马影视_M2","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"神马影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
-{"key":"csp_appysv2_饭团影视","name":"饭团影视_M2","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"饭团影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
+{"key":"csp_appysv2_饭团影视","name":"饭团影视_M,"type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"饭团影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
 {"key":"csp_appysv2_莫扎兔","name":"莫扎兔_M2","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"莫扎兔###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
 {"key":"csp_appysv2_躺平影视","name":"躺平影视_M2","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"躺平影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},
 {"key":"csp_appysv2_无名影视","name":"无名影视_M2","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"无名影视###https://litecucumber.coding.net/p/cat/d/config/git/raw/master/appysv2.json"},

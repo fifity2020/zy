@@ -1,8 +1,10 @@
 {
-"sites":[{"key":"csp_Kmys","name":"小草🐞🍉","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"酷云77 ","name":"酷云77 📽🍉","type":3,"api":"csp_AppYs2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://api.kunyu77.com/api.php/provide/"},
-{"key":"csp_SP360","name":"360影视🐞","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_SPSogou","name":"搜狗影视🐞","type":3,"api":"csp_SPSogou","searchable":1,"quickSearch":1,"filterable":1},
+"sites":
+[
+//{"key":"csp_Kmys","name":"小草🐞🍉","type":3,"api":"csp_Kmys","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"酷云77 ","name":"酷云77 📽🍉","type":3,"api":"csp_AppYs2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://api.kunyu77.com/api.php/provide/"},
+//{"key":"csp_SP360","name":"360影视🐞","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_SPSogou","name":"搜狗影视🐞","type":3,"api":"csp_SPSogou","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_appys_暖光影视","name":"暖光影视📽","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://app.bl210.com/api.php/v1.vod"},
 {"key":"csp_appys_粉象视界","name":"粉象视界📽","type":3,"api":"csp_AppYs","searchable":0,"quickSearch":1,"filterable":1,"ext":"http://42.157.129.15:34444/lvdou_api.php/v1.vod"},
 {"key":"csp_Auete","name":"Auete🐞","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},

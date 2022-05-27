@@ -24,7 +24,8 @@
 //"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/Biubiu/XBiubiu.jar",
 //"spider":"https://notabug.org/hstsws/dizhi/raw/master/zy/XBiubiu.jar",
 //"spider":"https://notabug.org/hstsws/mao1/raw/main/0526B.jar",
-"spider":"https://github.com/fifity2020/zy/blob/main/0526B.jar",
+//"spider":"https://github.com/fifity2020/zy/blob/main/0526B.jar",
+"spider":"img+https://inews.gtimg.com/newsapp_ls/0/14940316852/0.jiketuchuang.png",
 # 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL1l1YW5Ic2luZy9mcmVlZC9yYXcvbWFzdGVyL3R2L2xpdmUudHh0"]}]}],
 

@@ -1,8 +1,8 @@
 {
 	"wallpaper": "https://picsum.photos/1280/720/?blur=10",
 	//"spider":"img+https://inews.gtimg.com/newsapp_ls/0/14940316852/0.jiketuchuang.png",
-	"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spriederdd.jar",
-	//"spider":"img+https://github.com/fifity2020/tu/blob/main/tuchuang.png",
+	//"spider":"https://yangyang1975.coding.net/p/free/d/mao/git/raw/master/spriederdd.jar",
+	"spider":"img+https://github.com/fifity2020/tu/blob/main/tuchuang.png",
 	"sites": [{
 			"key": "*523资源",
 			"name": "*523资源",

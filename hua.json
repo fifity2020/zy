@@ -6,55 +6,13 @@
 	//"spider":"https://github.com/fifity2020/zy/blob/main/xm.jar",
 	"spider":"https://github.com/fifity2020/zy/blob/main/spriederdd.jar",
 	"sites": [
-		//{"key": "*523资源","name": "*523资源","type": 1,"api": "https://caiji.523zyw.com/inc/apijson_vod.php","searchable": 0,"quickSearch": 0},
-		//{
-			"key": "*丝袜资源",
-			"name": "*丝袜资源",
-			"type": 1,
-			"api": "https://siwazyw.cc/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		//{
-			"key": "*芒果资源",
-			"name": "*芒果资源",
-			"type": 1,
-			"api": "https://mgzyz1.com/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
-			"key": "*乐鱼资源",
-			"name": "*乐鱼资源",
-			"type": 1,
-			"api": "https://www.leyuzyapi.com/inc/apijson_vod.php",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		//{
-			"key": "*水蜜桃",
-			"name": "*水蜜桃",
-			"type": 1,
-			"api": "http://51smt4.xyz/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		{
-			"key": "*秀色资源",
-			"name": "*秀色资源",
-			"type": 1,
-			"api": "https://api.xiuseapi.com/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
-		//{
-			"key": "*探探资源",
-			"name": "*探探资源",
-			"type": 1,
-			"api": "https://apittzy.com/api.php/provide/vod/",
-			"searchable": 0,
-			"quickSearch": 0
-		},
+	//{"key": "*523资源","name": "*523资源","type": 1,"api": "https://caiji.523zyw.com/inc/apijson_vod.php","searchable": 0,"quickSearch": 0},
+	//{"key": "*丝袜资源","name": "*丝袜资源","type": 1,"api": "https://siwazyw.cc/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
+	//{"key": "*芒果资源","name": "*芒果资源","type": 1,"api": "https://mgzyz1.com/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
+	{"key": "*乐鱼资源","name": "*乐鱼资源","type": 1,"api": "https://www.leyuzyapi.com/inc/apijson_vod.php","searchable": 0,"quickSearch": 0},
+	//{"key": "*水蜜桃","name": "*水蜜桃","type": 1,"api": "http://51smt4.xyz/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
+	{"key": "*秀色资源","name": "*秀色资源","type": 1,"api": "https://api.xiuseapi.com/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
+	//{"key": "*探探资源","name": "*探探资源","type": 1,"api": "https://apittzy.com/api.php/provide/vod/","searchable": 0,"quickSearch": 0},
 		{
 			"key": "*色猫资源",
 			"name": "*色猫资源",

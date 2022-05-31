@@ -449,6 +449,5 @@
     "cdnjs.hnfenxun.com",
     "cms.qdwght.com"
   ],
-  //"spider": "https://tangsan99999.github.io/custom_spider.jar"
-  "spider": "https://github.com/fifity2020/zy/blob/main/custom_spider.jar"
+  "spider": "https://tangsan99999.github.io/custom_spider.jar"  
 }

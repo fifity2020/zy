@@ -6,14 +6,7 @@
 	//"spider":"https://github.com/fifity2020/zy/blob/main/xm.jar",
 	"spider":"https://github.com/fifity2020/zy/blob/main/spriederdd.jar",
 	"sites": [
-		//{
-			"key": "*523资源",
-			"name": "*523资源",
-			"type": 1,
-			"api": "https://caiji.523zyw.com/inc/apijson_vod.php",
-			"searchable": 0,
-			"quickSearch": 0
-		},
+		//{"key": "*523资源","name": "*523资源","type": 1,"api": "https://caiji.523zyw.com/inc/apijson_vod.php","searchable": 0,"quickSearch": 0},
 		//{
 			"key": "*丝袜资源",
 			"name": "*丝袜资源",

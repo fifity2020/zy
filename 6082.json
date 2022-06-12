@@ -385,70 +385,7 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://gitea.com/99/x/raw/branch/main/519-dingzidy.json"
-		}, {
-			"key": "csp_xpath_网络搜集源21",
-			"name": "樱花",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://gitea.com/99/x/raw/branch/main/605-yhdm.js"
-		}, {
-			"key": "csp_xpath_A32",
-			"name": "动漫",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://gitea.com/99/x/raw/branch/main/604-dmd.js"
-		}, {
-			"key": "csp_xpath_网络搜集源22",
-			"name": "巴士",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://gitea.com/99/x/raw/branch/main/604-dm84.js"
-		}, {
-			"key": "csp_xpath_网络搜集源23",
-			"name": "AGE",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://gitea.com/99/x/raw/branch/main/604-age.js"
-		}, {
-			"key": "csp_biubiu_风车动漫",
-			"name": "风车",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://gitea.com/99/b/raw/branch/main/xb/d05-fcdm.js"
-		}, {
-			"key": "csp_biubiu_森屋新番",
-			"name": "森屋",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://gitea.com/99/b/raw/branch/main/xb/d02-swxf.js"
-		}, {
-			"key": "csp_biubiu_维奇动漫",
-			"name": "维奇",
-			"type": 3,
-			"api": "csp_XBiubiu",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://gitea.com/99/b/raw/branch/main/xb/d03-wqdm.js"
-		}, {
+		},  {
 			"key": "push_agent",
 			"name": "推送",
 			"type": 3,

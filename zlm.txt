@@ -1,14 +1,5 @@
 {
 	"sites": [{
-			"key": "csp_77",
-			"name": "000--77(SP)家人专用接口",
-			"type": 3,
-			"api": "csp_Kunyu77",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
 			"key": "LiteApple",
 			"name": "001--小苹果(SP)",
 			"type": 3,

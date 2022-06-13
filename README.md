@@ -6,10 +6,8 @@ XBiubiuLA.jar  缝合biubiu & little apple
 
 w11g85jx.json  小明遗物   ，----xm.jar
 
-mishubao。jar tg群的大缝合
-
 muj.jar  缝合，含阿里
 
 6082 badychen的iar及其简化
 
-zlm感觉还好--m0601.jar
+zlm感觉还好--m0601.jar(tg群的大缝合)

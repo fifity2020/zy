@@ -1,24 +1,22 @@
 {
-
 	"spider": "https://github.com/fifity2020/zy/blob/main/muj.jar?raw=true",
-	"sites": [{
-			"name": "爬虫"
-		},
-		{
+	"sites": [
+		//{"name": "爬虫"},
+		{	
 			"api": "csp_Kmys",
 			"key": "csp_Kmys",
 			"filterable": 1,
 			"name": "酷猫",
 			"type": 3
 		},
-		{
+		{	
 			"api": "csp_Kunyu77",
 			"key": "csp_Kunyu77",
 			"filterable": 1,
 			"name": "77",
 			"type": 3
 		},
-		{
+		{	
 			"api": "csp_LiteApple",
 			"key": "csp_LiteApple",
 			"filterable": 1,
@@ -61,9 +59,7 @@
 			"quickSearch": 1,
 			"filterable": 0
 		},
-		{
-			"name": "资源站"
-		},
+		//{"name": "资源站"},
 		{
 			"key": "8090资源(含官采)",
 			"name": "8090资源网(含官采)",
@@ -91,12 +87,8 @@
 			"quickSearch": 1,
 			"filterable": 0
 		},
-		{
-			"name": "XPath"
-		},
-		{
-			"name": "M"
-		},
+		//{"name": "XPath"},
+		//{"name": "M"},
 		{
 			"key": "csp_appysv2_兄弟影视",
 			"name": "兄弟影视",
@@ -108,9 +100,7 @@
 			"ext": "http://103.91.211.252:88/xgapp.php/v2/"
 		},
 
-		{
-			"name": "BiuBiu"
-		},
+		//{"name": "BiuBiu"},
 		{
 			"key": "csp_biubiu_ssdy",
 			"name": "双十电影",
@@ -151,9 +141,7 @@
 			"filterable": 0,
 			"ext": "https://raw.iqiq.io/ivancorn/OneClickRun/master/xb/厂长资源-蓝光.json"
 		},
-		{
-			"name": "推送"
-		},
+		//{"name": "推送"},
 		{
 			"key": "push_agent",
 			"name": "推送",

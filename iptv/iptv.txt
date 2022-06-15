@@ -1,0 +1,213 @@
+[
+  {
+    "group": "卫视",
+    "channels": [
+      {
+        "name": "湖南卫视",
+        "urls": [
+          "http://117.148.179.135/PLTV/88888888/224/3221230206/index.m3u8",
+          "http://117.148.179.148/PLTV/88888888/224/3221230824/index.m3u8",
+          "http://117.148.179.37/PLTV/88888888/224/3221228824/index.m3u8",
+          "http://iptv.tvfix.org/hls/hunanhd.m3u8"
+        ]
+      },
+      {
+        "name": "浙江卫视",
+        "urls": [
+          "http://117.148.179.24/PLTV/88888888/224/3221230035/index.m3u8",
+          "http://117.148.179.140/PLTV/88888888/224/3221229352/index.m3u8",
+          "http://117.148.179.136/PLTV/88888888/224/3221231567/index.m3u8",
+          "http://iptv.tvfix.org/hls/zjhd.m3u8"
+        ]
+      },
+      {
+        "name": "江苏卫视",
+        "urls": [
+          "http://117.148.179.175/PLTV/88888888/224/3221231447/index.m3u8",
+          "http://117.148.179.37/PLTV/88888888/224/3221228821/index.m3u8",
+          "http://iptv.tvfix.org/hls/jshd.m3u8"
+        ]
+      },
+      {
+        "name": "东方卫视",
+        "urls": [
+          "http://117.148.179.160/PLTV/88888888/224/3221231738/index.m3u8",
+          "http://117.148.179.167/PLTV/88888888/224/3221231450/index.m3u8",
+          "http://iptv.tvfix.org/hls/dfhd.m3u8"
+        ]
+      },
+      {
+        "name": "北京卫视",
+        "urls": [
+          "http://117.148.179.168/PLTV/88888888/224/3221231732/index.m3u8",
+          "http://117.148.179.37/PLTV/88888888/224/3221228828/index.m3u8",
+          "http://iptv.tvfix.org/hls/brtv1hd.m3u8"
+        ]
+      }
+    ]
+  },
+  {
+    "group": "香港",
+    "channels": [
+      {
+        "name": "翡翠台",
+        "urls": [
+          "http://iptv.tvfix.org/hls/jade2.m3u8"
+        ]
+      },
+      {
+        "name": "J2",
+        "urls": [
+          "http://iptv.tvfix.org/hls/j2.m3u8"
+        ]
+      },
+      {
+        "name": "viuTV",
+        "urls": [
+          "http://iptv.tvfix.org/hls/viutv.m3u8"
+        ]
+      },
+      {
+        "name": "viuTV6",
+        "urls": [
+          "http://iptv.tvfix.org/hls/viutv6.m3u8"
+        ]
+      },      
+      {
+        "name": "明珠台",
+        "urls": [
+          "http://iptv.tvfix.org/hls/pearl.m3u8"
+        ]
+      }
+    ]
+  },
+  {
+    "group": "台湾",
+    "channels": [
+      {
+        "name": "TVBS亚洲台",
+        "urls": [
+          "http://iptv.tvfix.org/hls/tvbs.m3u8"
+        ]
+      },
+      {
+        "name": "中天新闻",
+        "urls": [
+          "http://iptv.tvfix.org/hls/ztxw.m3u8"
+        ]
+      },
+      {
+        "name": "东森新闻",
+        "urls": [
+          "http://iptv.tvfix.org/hls/dsxw.m3u8"
+        ]
+      },
+      {
+        "name": "Discovery",
+        "urls": [
+          "http://iptv.tvfix.org/hls/discovery.m3u8"
+        ]
+      },
+      {
+        "name": "Animal Planet",
+        "urls": [
+          "http://iptv.tvfix.org/hls/animal.m3u8"
+        ]
+      },
+      {
+        "name": "NatGeo",
+        "urls": [
+          "http://iptv.tvfix.org/hls/natlgeo.m3u8"
+        ]
+      },      
+      {
+        "name": "Test",
+        "urls": [
+          "http://50.7.61.147:30080/Entry/vljp"
+        ]
+      }
+    ]
+  },  
+  {
+    "group": "新加坡",
+    "channels": [
+      {
+        "name": "Channel 5",
+        "urls": [
+          "https://dlau142f16b92.cloudfront.net/hls/clr4ctv_ch5/master.m3u8"
+        ]
+      },
+      {
+        "name": "Channel 8",
+        "urls": [
+          "https://d34e90s3s13i7n.cloudfront.net/hls/clr4ctv_ch8/master.m3u8"
+        ]
+      },
+      {
+        "name": "Channel U",
+        "urls": [
+          "https://d3inlz9elsutjl.cloudfront.net/hls/clr4ctv_chu/master.m3u8"
+        ]
+      },
+      {
+        "name": "CNA",
+        "urls": [
+          "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8"
+        ]
+      },
+      {
+        "name": "AXN",
+        "urls": [
+          "http://211.23.114.106:8558/http/116.50.42.19:8081/hls/71/813/ch43.m3u8"
+        ]
+      },
+      {
+        "name": "HBO",
+        "urls": [
+          "http://211.23.114.106:8511/http/116.50.42.19:8081/hls/71/813/ch41.m3u8"
+        ]
+      },      
+      {
+        "name": "Thrill",
+        "urls": [
+          "http://iptv.tvfix.org/hls/thrill.m3u8"
+        ]
+      },      
+      {
+        "name": "天映频道",
+        "urls": [
+          "http://iptv.tvfix.org/hls/typd.m3u8"
+        ]
+      }
+    ]
+  },
+  {
+    "group": "日本",
+    "channels": [
+       {
+           "name": "NHK",
+        "urls": [
+          "http://58.99.33.16:1935/liveedge17/live_108_3.stream/chunklist.m3u8"
+        ]
+      },
+      {
+        "name": "NHKWorld",
+        "urls": [
+          "https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_2M.m3u8"
+        ]
+      },
+      {
+        "name": "NHK 华语",
+        "urls": [
+          "https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8"
+        ]
+      },
+      {
+        "name": "",
+        "urls": [
+          ""
+        ]
+      }
+    ]
+  }
+]

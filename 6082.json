@@ -17,7 +17,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/603-qiyou.js"
+      "ext": "https://raw.githubusercontent.com/fifity2020/zy/main/sub/xpath/%E5%A5%87%E4%BC%98%E5%BD%B1%E9%99%A2%EF%BC%88%E4%B8%8D%E6%94%AF%E6%8C%81%E6%90%9C%EF%BC%89.json"
     },
     {
       "key": "csp_77",
@@ -36,7 +36,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/huya.js"
+      "ext": "https://raw.githubusercontent.com/fifity2020/zy/main/sub/xpath/huya.js"
     },
     {
       "key": "csp_xpath_网络搜集库qiumi",
@@ -46,7 +46,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/516-qiumi.js"
+      "ext": "https://raw.githubusercontent.com/fifity2020/zy/main/sub/xpath/516-qiumi.js"
     },
     {
       "key": "csp_xpath_A33",
@@ -56,7 +56,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/mtv"
+      "ext": "https://raw.githubusercontent.com/fifity2020/zy/main/sub/xpath/mtv"
     },
     {
       "key": "csp_CZSPP",
@@ -111,7 +111,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/99/b/raw/branch/main/xb/b02-lgys.js"
+      "ext": "https://raw.githubusercontent.com/fifity2020/zy/main/sub/BIUBIU/%E8%93%9D%E5%85%89%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "csp_GitCafe",
@@ -167,7 +167,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/519-gongreng.json"
+      "ext": "https://raw.githubusercontent.com/fifity2020/zy/main/sub/xpath/519-gongreng.json"
     },
     {
       "key": "csp_xpath_网络搜集源03",
@@ -177,7 +177,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/zxzj.js"
+      "ext": "https://raw.githubusercontent.com/fifity2020/zy/main/sub/xpath/zxzj.js"
     },
     {
       "key": "csp_xpath_01-网络搜集源00",
@@ -187,7 +187,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/99/x/raw/branch/main/saohuo.json"
+      "ext": "https://raw.githubusercontent.com/fifity2020/zy/main/sub/xpath/saohuotv.json"
     },
     {
       "key": "csp_XBiubiubiubiu_libvio",
@@ -197,7 +197,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/99/b/raw/branch/main/xb/b14-libvio.js"
+      "ext": "https://raw.githubusercontent.com/fifity2020/zy/main/sub/BIUBIU/LIBVIO.json"
     },
     {
       "key": "csp_XBiubiubiubiu_lezhu",
@@ -207,7 +207,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/99/b/raw/branch/main/xb/b13-lezhu.js"
+      "ext": "https://raw.githubusercontent.com/fifity2020/zy/main/sub/BIUBIU/%E4%B9%90%E7%8C%AA%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "csp_XBiubiubiubiu_555",
@@ -217,7 +217,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/99/b/raw/branch/main/xb/b01-555dy.js"
+      "ext": "https://raw.githubusercontent.com/fifity2020/zy/main/sub/BIUBIU/555电影.json"
     },
     {
       "key": "csp_XBiubiubiubiu_ysgc",
@@ -227,7 +227,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/99/b/raw/branch/main/xb/b03-ysgc.js"
+      "ext": "https://raw.githubusercontent.com/fifity2020/zy/main/sub/BIUBIU/ysgc.json"
     },
     {
       "key": "csp_XBiubiubiubiu_city",
@@ -237,7 +237,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/99/b/raw/branch/main/xb/city.js"
+      "ext": "https://raw.githubusercontent.com/fifity2020/zy/main/sub/BIUBIU/city电影.json"
     },
     {
       "key": "csp_XBiubiubiubiu_手机看剧",
@@ -247,7 +247,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/99/b/raw/branch/main/xb/b06-sjkj.js"
+      "ext": "https://raw.githubusercontent.com/fifity2020/zy/main/sub/BIUBIU/b06-sjkj.js"
     },
     {
       "key": "csp_XBiubiubiubiu_口袋影院",

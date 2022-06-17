@@ -17,7 +17,7 @@
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
   "sousuoqian": "/index.php/vod/search.html?wd=",
-  "sousuohou": "",
+  "sousuohou": "&limit=500",
   "sousuohouzhui": "/index.php/vod/detail/id/",
   "ssmoshi": "1",
   "sousuoshifouercijiequ": "0",

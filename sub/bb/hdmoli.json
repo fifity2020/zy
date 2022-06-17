@@ -17,7 +17,7 @@
   "lianjieqian": "href=\"",
   "lianjiehou": "\"",
   "sousuoqian": "/search.php?searchword=",
-  "sousuohou": "",
+  "sousuohou": "&limit=500",
   "sousuohouzhui": "/movie/",
   "ssmoshi": "1",
   "sousuoshifouercijiequ": "0",

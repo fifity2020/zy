@@ -107,7 +107,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://tangsan99999.github.io/x/ysgc.bmp"
+			"ext": "https://github.com/fifity2020/zy/blob/main/sub/bb/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%8E%82.json"
 		},
 		{
 			"key": "csp_biubiu_555",
@@ -117,7 +117,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://tangsan99999.github.io/x/555.bmp"
+			"ext": "https://github.com/fifity2020/zy/blob/main/sub/bb/555.json"
 		},
 		{
 			"key": "csp_biubiu_lezhu",
@@ -127,7 +127,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://tangsan99999.github.io/x/lezhutv.bmp"
+			"ext": "https://github.com/fifity2020/zy/blob/main/sub/bb/lezhutv.json"
 		},
 		{
 			"key": "789看片",
@@ -137,7 +137,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://tangsan99999.github.io/s/x/789ba.bmp"
+			"ext": "https://github.com/fifity2020/zy/blob/main/sub/XP/789ba.json"
 		},
 		{
 			"key": "Gimy",
@@ -147,19 +147,9 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://tangsan99999.github.io/s/x/gimy.bmp"
+			"ext": "https://github.com/fifity2020/zy/blob/main/sub/XP/gimy.json"
 		},
-		{
-			"key": "Age动漫",
-			"name": "Age动漫(XP)",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "https://tangsan99999.github.io/s/x/agefans.bmp"
-		},
-		{
+				{
 			"key": "300看世界",
 			"name": "300看世界(v2)",
 			"type": 3,
@@ -189,23 +179,22 @@
 			"filterable": 1,
 			"ext": "https://meijuchong.com/api.php/v1.vod"
 		},
-	        { 
-		        "key": "csp_Alips",
-		        "name": "喵搜(只支持搜索)",
-		        "type“: 3,
-		        "api“: "csp_AliPanSou",
-		        "searchable": 1,
-		        "quickSearch": 1,
-		        "filterable": 0,
+		{   "key": "csp_Alips",
+		    "name": "喵搜(只支持搜索)",
+		    "type“: 3,
+		    "api“: "csp_AliPanSou",
+		    "searchable": 1,
+		    "quickSearch": 1,
+		    "filterable": 0,
 			"ext": ""
 		},
-                {
+        {
 			"key": "csp_GitCafe",
 			"name": "小纸杀",
 			"type": 3,
 			"api": "csp_GitCafe",
 			"searchable": 1,
-                        "quickSearch": 1,
+            "quickSearch": 1,
 			"filterable": 0
 		},
 		{
@@ -223,7 +212,7 @@
 		"channels": [{
 			"name": "redirect",
 			"urls": [
-				"proxy://do=live&type=txt&ext=aHR0cHM6Ly90YW5nc2FuOTk5OTkuZ2l0aHViLmlvL2wvbGl2ZS5ibXA="
+				"proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL2ZpZml0eTIwMjAvenkvYmxvYi9tYWluL2lwdHYvaXB0di50eHQ="
 			]
 		}]
 	}],

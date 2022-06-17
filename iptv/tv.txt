@@ -1,0 +1,442 @@
+央视频道,#genre#
+CCTV1[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
+CCTV1[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225642/index.m3u8
+CCTV1[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225762/index.m3u8
+CCTV1[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221226221/index.m3u8
+CCTV1[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221226225/index.m3u8
+CCTV1[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225918/index.m3u8
+CCTV2[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225643/index.m3u8
+CCTV2[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225619/index.m3u8
+CCTV3[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
+CCTV3[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225634/index.m3u8
+CCTV3[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225647/index.m3u8
+CCTV4[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225621/index.m3u8
+CCTV5[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225633/index.m3u8
+CCTV5+[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225649/index.m3u8
+CCTV5+[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225706/index.m3u8
+CCTV6[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225632/index.m3u8
+CCTV6[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225650/index.m3u8
+CCTV7[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225624/index.m3u8
+CCTV7[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225644/index.m3u8
+CCTV8[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225631/index.m3u8
+CCTV8[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225635/index.m3u8
+CCTV9[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225626/index.m3u8
+CCTV9[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225646/index.m3u8
+CCTV10[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225627/index.m3u8
+CCTV10[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225636/index.m3u8
+CCTV11[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225628/index.m3u8
+CCTV12[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225629/index.m3u8
+CCTV12[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225637/index.m3u8
+CCTV13[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
+CCTV13[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225638/index.m3u8
+CCTV14[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225639/index.m3u8
+CCTV14[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225640/index.m3u8
+CCTV15[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225641/index.m3u8
+CCTV16[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221226230/index.m3u8
+CCTV16[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221226233/index.m3u8
+CCTV17[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225907/index.m3u8
+CCTV17[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225908/index.m3u8
+CCTV17[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225909/index.m3u8
+#__#
+CCTV1[1920*1080],http://39.134.66.48/PLTV/88888888/224/3221225816/index.m3u8
+CCTV1[1920*1080],http://39.134.67.226/PLTV/88888888/224/3221225816/index.m3u8
+CCTV1[1920*1080],http://39.134.65.179/PLTV/88888888/224/3221225816/index.m3u8
+CCTV1[1920*1080],http://39.134.65.181/PLTV/88888888/224/3221225816/index.m3u8
+CCTV3[1920*1080],http://39.134.66.46/PLTV/88888888/224/3221225799/index.m3u8
+CCTV3[1920*1080],http://39.134.67.226/PLTV/88888888/224/3221225799/index.m3u8
+CCTV3[1920*1080],http://39.134.65.179/PLTV/88888888/224/3221225799/index.m3u8
+CCTV3[1920*1080],http://39.134.65.181/PLTV/88888888/224/3221225799/index.m3u8
+CCTV3[1920*1080],http://39.134.65.173/PLTV/88888888/224/3221225799/index.m3u8
+CCTV3[1920*1080],http://39.134.65.183/PLTV/88888888/224/3221225799/index.m3u8
+CCTV3[1920*1080],http://39.134.65.175/PLTV/88888888/224/3221225799/index.m3u8
+CCTV5[1920*1080],http://39.134.67.226/PLTV/88888888/224/3221225818/index.m3u8
+CCTV5[1920*1080],http://39.134.65.179/PLTV/88888888/224/3221225818/index.m3u8
+CCTV5[1920*1080],http://39.134.65.181/PLTV/88888888/224/3221225818/index.m3u8
+CCTV5[1920*1080],http://39.134.65.173/PLTV/88888888/224/3221225818/index.m3u8
+CCTV5[1920*1080],http://39.134.66.2/PLTV/88888888/224/3221225818/index.m3u8
+CCTV5+[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225507/index.m3u8
+CCTV5+[1920*1080],http://39.134.65.181/PLTV/88888888/224/3221225507/index.m3u8
+CCTV5+[1920*1080],http://39.134.65.173/PLTV/88888888/224/3221225507/index.m3u8
+CCTV5+[1920*1080],http://39.134.65.183/PLTV/88888888/224/3221225507/index.m3u8
+CCTV5+[1920*1080],http://39.134.65.175/PLTV/88888888/224/3221225507/index.m3u8
+CCTV5+[1920*1080],http://39.134.65.162/PLTV/88888888/224/3221225507/index.m3u8
+CCTV6[1920*1080],http://39.134.65.181/PLTV/88888888/224/3221225814/index.m3u8
+CCTV6[1920*1080],http://39.134.65.173/PLTV/88888888/224/3221225814/index.m3u8
+CCTV6[1920*1080],http://39.134.65.183/PLTV/88888888/224/3221225814/index.m3u8
+CCTV6[1920*1080],http://39.134.65.175/PLTV/88888888/224/3221225814/index.m3u8
+CCTV6[1920*1080],http://39.134.65.177/PLTV/88888888/224/3221225814/index.m3u8
+CCTV6[1920*1080],http://39.134.66.2/PLTV/88888888/224/3221225814/index.m3u8
+CCTV7[1920*1080],http://39.134.65.179/PLTV/88888888/224/3221225671/index.m3u8
+CCTV7[1920*1080],http://39.134.65.164/PLTV/88888888/224/3221225671/index.m3u8
+CCTV7[1920*1080],http://39.134.65.181/PLTV/88888888/224/3221225671/index.m3u8
+CCTV7[1920*1080],http://39.134.65.173/PLTV/88888888/224/3221225671/index.m3u8
+CCTV7[1920*1080],http://39.134.65.183/PLTV/88888888/224/3221225671/index.m3u8
+CCTV7[1920*1080],http://39.134.66.2/PLTV/88888888/224/3221225671/index.m3u8
+CCTV8[1920*1080],http://39.134.65.181/PLTV/88888888/224/3221225795/index.m3u8
+CCTV8[1920*1080],http://39.134.65.173/PLTV/88888888/224/3221225795/index.m3u8
+CCTV8[1920*1080],http://39.134.65.183/PLTV/88888888/224/3221225795/index.m3u8
+CCTV8[1920*1080],http://39.134.65.175/PLTV/88888888/224/3221225795/index.m3u8
+CCTV8[1920*1080],http://39.134.65.177/PLTV/88888888/224/3221225795/index.m3u8
+CCTV9[1920*1080],http://39.134.66.46/PLTV/88888888/224/3221225676/index.m3u8
+CCTV9[1920*1080],http://39.134.65.179/PLTV/88888888/224/3221225676/index.m3u8
+CCTV9[1920*1080],http://39.134.65.181/PLTV/88888888/224/3221225676/index.m3u8
+CCTV9[1920*1080],http://39.134.65.166/PLTV/88888888/224/3221225676/index.m3u8
+CCTV9[1920*1080],http://39.134.65.183/PLTV/88888888/224/3221225676/index.m3u8
+CCTV9[1920*1080],http://39.134.65.173/PLTV/88888888/224/3221225676/index.m3u8
+CCTV10[1920*1080],http://39.134.65.179/PLTV/88888888/224/3221225677/index.m3u8
+CCTV10[1920*1080],http://39.134.65.164/PLTV/88888888/224/3221225677/index.m3u8
+CCTV10[1920*1080],http://39.134.65.166/PLTV/88888888/224/3221225677/index.m3u8
+CCTV10[1920*1080],http://39.134.65.181/PLTV/88888888/224/3221225677/index.m3u8
+CCTV10[1920*1080],http://39.134.65.183/PLTV/88888888/224/3221225677/index.m3u8
+CCTV10[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225677/index.m3u8
+CCTV12[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225669/index.m3u8
+CCTV12[1920*1080],http://39.134.65.179/PLTV/88888888/224/3221225669/index.m3u8
+CCTV12[1920*1080],http://39.134.65.164/PLTV/88888888/224/3221225669/index.m3u8
+CCTV12[1920*1080],http://39.134.65.181/PLTV/88888888/224/3221225669/index.m3u8
+CCTV12[1920*1080],http://39.134.65.166/PLTV/88888888/224/3221225669/index.m3u8
+CCTV12[1920*1080],http://39.134.65.173/PLTV/88888888/224/3221225669/index.m3u8
+CCTV14[1920*1080],http://39.134.65.179/PLTV/88888888/224/3221225674/index.m3u8
+CCTV14[1920*1080],http://39.134.65.164/PLTV/88888888/224/3221225674/index.m3u8
+CCTV14[1920*1080],http://39.134.65.181/PLTV/88888888/224/3221225674/index.m3u8
+CCTV14[1920*1080],http://39.134.65.183/PLTV/88888888/224/3221225674/index.m3u8
+CCTV14[1920*1080],http://39.134.65.173/PLTV/88888888/224/3221225674/index.m3u8
+CCTV14[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225674/index.m3u8
+CCTV17[1920*1080],http://39.134.66.46/PLTV/88888888/224/3221225708/index.m3u8
+CCTV17[1920*1080],http://39.134.65.181/PLTV/88888888/224/3221225708/index.m3u8
+CCTV17[1920*1080],http://39.134.65.183/PLTV/88888888/224/3221225708/index.m3u8
+#__#
+CCTV1[1920*1080],http://117.148.179.155/PLTV/88888888/224/3221231468/1.m3u8
+CCTV2[1920*1080],http://117.148.179.147/PLTV/88888888/224/3221231678/1.m3u8
+CCTV3[1920*1080],http://117.148.179.183/PLTV/88888888/224/3221231682/1.m3u8
+CCTV4[1920*1080],http://117.148.179.160/PLTV/88888888/224/3221231726/1.m3u8
+CCTV4[1920*1080],http://117.148.179.182/PLTV/88888888/224/3221231726/1.m3u8
+CCTV4[1920*1080],http://117.148.179.162/PLTV/88888888/224/3221231615/1.m3u8
+CCTV4[1920*1080],http://117.148.179.160/PLTV/88888888/224/3221231654/1.m3u8
+CCTV5+[1920*1080],http://117.148.179.136/PLTV/88888888/224/3221231459/1.m3u8
+CCTV6[1920*1080],http://117.148.179.153/PLTV/88888888/224/3221231724/1.m3u8
+CCTV7[1920*1080],http://117.148.179.160/PLTV/88888888/224/3221231633/1.m3u8
+CCTV8[1920*1080],http://117.148.179.160/PLTV/88888888/224/3221231694/1.m3u8
+CCTV9[1920*1080],http://117.148.179.162/PLTV/88888888/224/3221231697/1.m3u8
+CCTV10[1920*1080],http://117.148.179.164/PLTV/88888888/224/3221232492/1.m3u8
+CCTV10[1920*1080],http://117.148.179.175/PLTV/88888888/224/3221231666/1.m3u8
+CCTV11[1920*1080],http://117.148.179.164/PLTV/88888888/224/3221231711/1.m3u8
+CCTV12[1920*1080],http://117.148.179.150/PLTV/88888888/224/3221231660/1.m3u8
+CCTV14[1920*1080],http://117.148.179.182/PLTV/88888888/224/3221231648/1.m3u8
+CCTV15[1920*1080],http://117.148.179.169/PLTV/88888888/224/3221231693/1.m3u8
+CCTV17[1920*1080],http://117.148.179.167/PLTV/88888888/224/3221231772/1.m3u8
+CCTV4EUO[1920*1080],http://117.148.179.162/PLTV/88888888/224/3221231615/1.m3u8
+CCTV4AME[1920*1080],http://117.148.179.160/PLTV/88888888/224/3221231654/1.m3u8
+CCTV8K[1920*1080],http://117.148.179.148/PLTV/88888888/224/3221233350/1.m3u8
+#__#
+CCTV1[1920*1080],http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+CCTV3[1920*1080],http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#__#
+CCTV4K[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233400/1.m3u8
+CCTV8K[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233350/1.m3u8
+CCTV8K[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233404/1.m3u8
+CCTV8K[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221233413/1.m3u8
+#__#
+CCTV4K[1920*1080],http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
+CCTV16[1920*1080],http://liveop.cctv.cn/hls/CCTV16HD/playlist.m3u8
+#__#
+CCTV3[1920*1080],http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+CCTV5[1920*1080],http://111.63.117.13:6060/030000001000/CCTV-5/CCTV-5.m3u8
+
+卫视频道,#genre#
+东方卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
+东方卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225659/index.m3u8
+江苏卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225743/index.m3u8
+江苏卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
+北京卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225673/index.m3u8
+北京卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
+湖南卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
+湖南卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225704/index.m3u8
+山东卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225738/index.m3u8
+山东卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
+东南卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
+广东卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225742/index.m3u8
+广东卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
+江西卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225746/index.m3u8
+江西卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
+安徽卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225737/index.m3u8
+安徽卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8
+浙江卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
+浙江卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225703/index.m3u8
+深圳卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
+深圳卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225700/index.m3u8
+天津卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225739/index.m3u8
+天津卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
+黑龙江卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225736/index.m3u8
+黑龙江卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
+湖北卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225740/index.m3u8
+湖北卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
+辽宁卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225735/index.m3u8
+辽宁卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8
+重庆卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225734/index.m3u8
+重庆卫视[1920*1080],http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
+#__#
+东方卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225659/index.m3u8
+江苏卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225702/index.m3u8
+北京卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225673/index.m3u8
+北京卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225673/index.m3u8
+湖南卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225704/index.m3u8
+山东卫视[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225738/index.m3u8
+东南卫视[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225657/index.m3u8
+广东卫视[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225742/index.m3u8
+江西卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225705/index.m3u8
+安徽卫视[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225691/index.m3u8
+浙江卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225703/index.m3u8
+浙江卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888910/224/3221225703/index.m3u8
+辽宁卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225696/index.m3u8
+重庆卫视[1920*1080],http://39.135.138.59:18890/PLTV/88888910/224/3221225734/index.m3u8
+湖南卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225704/index.m3u8
+湖南卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225745/index.m3u8
+江苏卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225702/index.m3u8
+江苏卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225743/index.m3u8
+浙江卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225703/index.m3u8
+浙江卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225744/index.m3u8
+东方卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225658/index.m3u8
+东方卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225659/index.m3u8
+广东卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225701/index.m3u8
+广东卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225742/index.m3u8
+深圳卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225700/index.m3u8
+深圳卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225741/index.m3u8
+北京卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225674/index.m3u8
+天津卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225698/index.m3u8
+天津卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225739/index.m3u8
+山东卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225697/index.m3u8
+山东卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225738/index.m3u8
+湖北卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225699/index.m3u8
+湖北卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225740/index.m3u8
+黑龙江卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225690/index.m3u8
+黑龙江卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225736/index.m3u8
+安徽卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225691/index.m3u8
+安徽卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225737/index.m3u8
+辽宁卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225696/index.m3u8
+辽宁卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225735/index.m3u8
+东南卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225657/index.m3u8
+江西卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225705/index.m3u8
+江西卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225746/index.m3u8
+重庆卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225692/index.m3u8
+重庆卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225734/index.m3u8
+广西卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221226211/index.m3u8
+四川卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225487/index.m3u8?fmt=ts2hls
+河北卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225610/index.m3u8?fmt=ts2hls
+河南卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225611/index.m3u8?fmt=ts2hls
+贵州卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225483/index.m3u8?fmt=ts2hls
+#__#
+东方卫视[1920*1080],http://117.148.179.160/PLTV/88888888/224/3221231738/1.m3u8
+江苏卫视[1920*1080],http://117.148.179.175/PLTV/88888888/224/3221231447/1.m3u8
+北京卫视[1920*1080],http://117.148.179.168/PLTV/88888888/224/3221231732/1.m3u8
+湖南卫视[1920*1080],http://117.148.179.172/PLTV/88888888/224/3221231729/1.m3u8
+湖南卫视[1920*1080],http://117.148.179.135/PLTV/88888888/224/3221230206/1.m3u8
+湖南卫视[1920*1080],http://117.148.179.148/PLTV/88888888/224/3221230824/1.m3u8
+广东卫视[1920*1080],http://117.148.179.141/PLTV/88888888/224/3221231891/1.m3u8
+江西卫视[1920*1080],http://117.148.179.141/PLTV/88888888/224/3221231964/1.m3u8
+浙江卫视[1920*1080],http://117.148.179.140/PLTV/88888888/224/3221229352/1.m3u8
+黑龙江卫视[1920*1080],http://117.148.179.141/PLTV/88888888/224/3221231967/1.m3u8
+湖北卫视[1920*1080],http://117.148.179.142/PLTV/88888888/224/3221231888/1.m3u8
+辽宁卫视[1920*1080],http://117.148.179.152/PLTV/88888888/224/3221231802/1.m3u8
+四川卫视[1920*1080],http://117.148.179.142/PLTV/88888888/224/3221231885/1.m3u8
+东方卫视[1920*1080],http://117.148.179.160/PLTV/88888888/224/3221231738/1.m3u8
+辽宁卫视[1920*1080],http://117.148.179.160/PLTV/88888888/224/3221231802/1.m3u8
+#__#
+湖南卫视[1920*1080],http://39.134.65.166/PLTV/88888888/224/3221225506/index.m3u8
+湖南卫视[1920*1080],http://39.134.65.181/PLTV/88888888/224/3221225506/index.m3u8
+江苏卫视[1920*1080],http://39.134.65.179/PLTV/88888888/224/3221225882/index.m3u8
+江苏卫视[1920*1080],http://39.134.65.181/PLTV/88888888/224/3221225503/index.m3u8
+浙江卫视[1920*1080],http://39.134.65.179/PLTV/88888888/224/3221225514/index.m3u8
+浙江卫视[1920*1080],http://39.134.65.173/PLTV/88888888/224/3221225514/index.m3u8
+浙江卫视[1920*1080],http://39.134.65.181/PLTV/88888888/224/3221225880/index.m3u8
+浙江卫视[1920*1080],http://39.134.65.175/PLTV/88888888/224/3221225514/index.m3u8
+浙江卫视[1920*1080],http://39.134.65.162/PLTV/88888888/224/3221225514/index.m3u8
+东方卫视[1920*1080],http://39.134.65.179/PLTV/88888888/224/3221225672/index.m3u8
+东方卫视[1920*1080],http://39.134.65.164/PLTV/88888888/224/3221225672/index.m3u8
+东方卫视[1920*1080],http://39.134.65.173/PLTV/88888888/224/3221225672/index.m3u8
+东方卫视[1920*1080],http://39.134.65.173/PLTV/88888888/224/3221225865/index.m3u8
+东方卫视[1920*1080],http://39.134.65.175/PLTV/88888888/224/3221225672/index.m3u8
+广东卫视[1920*1080],http://39.134.65.179/PLTV/88888888/224/3221225859/index.m3u8
+广东卫视[1920*1080],http://39.134.65.173/PLTV/88888888/224/3221225859/index.m3u8
+深圳卫视[1920*1080],http://39.134.65.164/PLTV/88888888/224/3221225668/index.m3u8
+深圳卫视[1920*1080],http://39.134.65.166/PLTV/88888888/224/3221225668/index.m3u8
+深圳卫视[1920*1080],http://39.134.65.181/PLTV/88888888/224/3221225886/index.m3u8
+深圳卫视[1920*1080],http://39.134.65.162/PLTV/88888888/224/3221225668/index.m3u8
+深圳卫视[1920*1080],http://39.134.65.177/PLTV/88888888/224/3221225886/index.m3u8
+北京卫视[1920*1080],http://39.134.65.179/PLTV/88888888/224/3221225678/index.m3u8
+北京卫视[1920*1080],http://39.134.65.164/PLTV/88888888/224/3221225678/index.m3u8
+北京卫视[1920*1080],http://39.134.65.166/PLTV/88888888/224/3221225678/index.m3u8
+北京卫视[1920*1080],http://39.134.65.166/PLTV/88888888/224/3221225855/index.m3u8
+天津卫视[1920*1080],http://39.134.65.166/PLTV/88888888/224/3221225665/index.m3u8
+天津卫视[1920*1080],http://39.134.65.166/PLTV/88888888/224/3221225878/index.m3u8
+天津卫视[1920*1080],http://39.134.65.181/PLTV/88888888/224/3221225878/index.m3u8
+天津卫视[1920*1080],http://39.134.65.162/PLTV/88888888/224/3221225665/index.m3u8
+天津卫视[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225665/index.m3u8
+山东卫视[1920*1080],http://39.134.67.226/PLTV/88888888/224/3221225857/index.m3u8
+山东卫视[1920*1080],http://39.134.65.183/PLTV/88888888/224/3221225857/index.m3u8
+湖北卫视[1920*1080],http://39.134.65.164/PLTV/88888888/224/3221225871/index.m3u8
+湖北卫视[1920*1080],http://39.134.65.177/PLTV/88888888/224/3221225871/index.m3u8
+湖北卫视[1920*1080],http://39.134.65.183/PLTV/88888888/224/3221225871/index.m3u8
+湖北卫视[1920*1080],http://39.134.65.162/PLTV/88888888/224/3221225569/index.m3u8
+湖北卫视[1920*1080],http://39.134.65.164/PLTV/88888888/224/3221225569/index.m3u8
+湖北卫视[1920*1080],http://39.134.66.66/PLTV/88888888/224/3221225569/index.m3u8
+黑龙江卫视[1920*1080],http://39.134.67.226/PLTV/88888888/224/3221225847/index.m3u8
+黑龙江卫视[1920*1080],http://39.134.65.179/PLTV/88888888/224/3221225847/index.m3u8
+黑龙江卫视[1920*1080],http://39.134.65.177/PLTV/88888888/224/3221225847/index.m3u8
+安徽卫视[1920*1080],http://39.134.65.179/PLTV/88888888/224/3221225851/index.m3u8
+安徽卫视[1920*1080],http://39.134.65.183/PLTV/88888888/224/3221225851/index.m3u8
+东南卫视[1920*1080],http://39.134.65.175/PLTV/88888888/224/3221225863/index.m3u8
+江西卫视[1920*1080],http://39.134.65.173/PLTV/88888888/224/3221225884/index.m3u8
+重庆卫视[1920*1080],http://39.134.65.181/PLTV/88888888/224/3221225873/index.m3u8
+河南卫视[1920*1080],http://39.134.65.166/PLTV/88888888/224/3221225890/index.m3u8
+贵州卫视[1920*1080],http://39.134.65.149/PLTV/88888888/224/3221225974/index.m3u8
+海南卫视[1920*1080],http://39.134.65.164/PLTV/88888888/224/3221225869/index.m3u8
+海南卫视[1920*1080],http://39.134.65.183/PLTV/88888888/224/3221225869/index.m3u8
+贵州卫视[1920*1080],http://39.134.65.179/PLTV/88888888/224/3221225888/index.m3u8
+吉林卫视[1920*1080],http://39.134.65.177/PLTV/88888888/224/3221225872/index.m3u8
+#__#
+四川卫视[1920*1080],http://live.aikan.miguvideo.com/PLTV/88888888/224/3221231885/1.m3u8
+厦门卫视[1920*1080],http://39.135.55.7:6610/PLTV/88888888/224/3221226781/index.m3u8?servicetype=1&IASHttpSessionId=OTT
+#__#
+浙江卫视[1920*1080],http://hw-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+兵团卫视[1920*1080],http://test5.btzx.com.cn/live/btxjbtws.stream/chunklist_w544078748.m3u8
+#__#
+湖南卫视[1920*1080],http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hnwshd/4000000/mnf.m3u8
+东南卫视[1920*1080],http://shbu.live.bestvcdn.com.cn:8080/live/program/live/dnwshd/4000000/mnf.m3u8
+天津卫视[1920*1080],http://shbu.live.bestvcdn.com.cn:8080/live/program/live/tjwshd/4000000/mnf.m3u8
+黑龙江卫视[1920*1080],http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hljwshd/4000000/mnf.m3u8
+
+超清频道（需梯子）,#genre#
+壹电视新闻台,http://stream.nexttv.com.tw/n001/hd/live.m3u8
+壹电视新闻台,http://stream.nexttv.com.tw/n001/playlist.m3u8
+#__#
+france24,http://58.99.33.16:1935/liveedge17/live_156_3.stream/chunklist.m3u8
+中台灣生活網,http://58.99.33.16:1935/liveedge17/live_852_3.stream/chunklist.m3u8
+中台灣生活網,http://58.99.33.16:1935/liveedge17/live_020_3.stream/chunklist.m3u8
+CTN,http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
+CTN,http://58.99.33.16:1935/liveedge17/live_854_3.stream/chunklist.m3u8
+海豚综合台,http://58.99.33.16:1935/liveedge17/live_077_3.stream/chunklist.m3u8
+美麗人生購物台,http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+智林体育,http://58.99.33.16:1935/liveedge17/live_122_3.stream/chunklist.m3u8
+
+网络直播（需梯子）,#genre#
+台视新闻台,https://git.io/JgkxY
+中视新闻,https://git.io/Jgkxz
+三立新聞,https://git.io/Jgkxp
+三立inews新聞,https://git.io/Jgkxj
+寰宇新闻,https://git.io/JgkpO
+东森新闻台,https://git.io/Jgkps
+东森财经新闻台,https://git.io/Jgkpc
+东森幼幼台,https://git.io/JgYON
+TVBS,https://git.io/JgYl2
+中天新聞,https://git.io/Jgkpy
+幸福空间居家台,https://git.io/JgYYF
+The K-POP,https://git.io/JgYAE
+K-POP LIVE STREAMING,https://git.io/JgP6P
+網路流行音樂電台,https://git.io/JgkA6
+西洋流行音樂電台,https://git.io/JgkAy
+2021華語流行歌曲,https://git.io/JgYR5
+#__#
+台视新闻台,http://seb.sason.top/sc/tsxw_fhd.m3u8
+三立inews新聞,http://seb.sason.top/sc/slinews_fhd.m3u8
+东森新闻台,http://seb.sason.top/sc/dsxw_fhd.m3u8
+东森财经新闻台,http://seb.sason.top/sc/dscjxw_fhd.m3u8
+中天新聞,http://seb.sason.top/sc/ztxw_fhd.m3u8
+#__#
+三立LIVE新聞,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
+民视新闻台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ftvnews.m3u8
+寰宇新闻,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
+台视新闻台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
+
+网络直播2（需梯子）,#genre#
+三立inews新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+东森财经新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+DW,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+华视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+ChannelNewsAsia,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+东森新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+新唐人亚太台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+ABC News,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+台视新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+中天新聞,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+TVBS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+TVBS新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+france24,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+CNBCHongKong,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+非凡新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+CCTV4,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+Bloomberg Quicktake,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+东森新闻4K,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+东森财经新闻台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
+ChannelNewsAsia,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+HTB北海道ニュース,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+4K频道,#genre#
+纯享4K[3840*2160],http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
+纯享4K[3840*2160],http://39.135.138.59:18890/PLTV/88888910/224/3221225786/index.m3u8
+纯享4k[3840*2160],http://hwrr.jx.chinamobile.com:8080/PLTV/88888888/224/3221225786/index.m3u8
+苏州4K[3840*2160],http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+爱上4K[3840*2160],http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
+VTC13 4K[3840*2160],http://vcdn1.vtc.gov.vn:1935/m_4k/smil:4k.smil/playlist.m3u8
+1MV4K[3840*2160],http://136.243.42.146:1499
+Clarity4K[3840*2160],https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
+
+时尚频道,#genre#
+FashionTV Tokyo,https://fashs043.cloudycdn.services/scte/pg13/pg13_1080p_chunklist.m3u8
+FashionTV Tokyo,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_sam_197_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+FashionTV Tokyo,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+FashionTV Tokyo,https://fash1043.cloudycdn.services/slive/ftv_ftv_pg13_zw9_27065_ftv_pg13_196_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+FashionTV Paris L'Original,https://fashs043.cloudycdn.services/scte/sftv_adapt/sftv_1080p_chunklist.m3u8
+FashionTV F-Men,https://fashs043.cloudycdn.services/scte/sftv_adapt/sftv_1080p_chunklist.m3u8
+FashionTV F-Men,https://fash1043.cloudycdn.services/store/_definst_/tmsp00043/vod/03/63/301101/qi3_THE_BEST_O_483610.smil/chunklist_b7000000_sleng_t64MTA4MHBAN21iaXQ=.m3u8
+FashionTV Johannesburg,https://fashs043.cloudycdn.services/scte/africa/africa_chunklist.m3u8
+FashionTV Johannesburg,https://fash1043.cloudycdn.services/slive/_definst_/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+FashionTV Johannesburg,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+FashionTV Singapore,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+FashionTV Singapore,https://fash1043.cloudycdn.services/slive/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+FashionTV Singapore,https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_asia_ada_xiv_42149_default_137_hls.smil/playlist.m3u8
+FashionTV New York,https://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/playlist.m3u8
+Midnight Secrets,https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+Midnight Secrets,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_secrets_sams_170_hls.smil/playlist.m3u8
+Midnight Secrets,https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+Midnight Secrets,https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
+FashionTV Paris-Mumbai,https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8
+FashionTV Paris-Mumbai,https://fash2043.cloudycdn.services/slive/ftv_ftv_pg13_gmt_ess_43126_default_1262_hls.smil/playlist.m3u8
+#__#
+Fashion TV,https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist_1920x1080_4200k.m3u8
+FTV Magazine,https://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+A3Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/seglist_720p.m3u8
+A3Bikini,https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
+Kaloopy,https://d3kefxscf5gq6l.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Kaloopy-Website/126.m3u8
+Kaloopy,https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/kaloopy/274eb05b-7332-4a40-831a-cee9b0878469/0.m3u8
+Latinangels,https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df41355939756000921d15b/master.m3u8?deviceId=0&deviceVersion=0&appVersion=0&deviceType=0&deviceMake=0&sid=627f&deviceDNT=0&deviceModel=0
+Jasmin TV,http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
+Jasmin TV,http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
+Miami TV,https://5ee7c2b857b7f.streamlock.net/latino/smil:WEB/playlist.m3u8
+Miami TV,http://server.miamitvchannel.com/miamitv/smil:miamitvAPP1/playlist.m3u8
+Miami TV Latino,https://5ee7c2b857b7f.streamlock.net/latino/latino/.m3u8
+Jenny Live,https://59ec5453559f0.streamlock.net/JennyLive/smil:JennyLiveWEB/playlist.m3u8
+MILAN FASHION WEEK,https://fashionbox-localnow.cinedigm.com/playlist.m3u8
+Odessa Fashion,http://cdn10.live-tv.od.ua:8081/ofod/ofod480p/playlist.m3u8
+World Fashion,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
+World Fashion,https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
+World Fashion Russia,https://wfcint.mediacdn.ru/cdn/wfcrusweb/playlist_hdhigh.m3u8
+World Fashion Russia,https://wfcint.mediacdn.ru/cdn/wfcrusweb/playlist.m3u8
+Global Fashion Channel,https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/seglist_720p.m3u8
+Global Fashion Channel,https://vcngfcssai.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+HD Fashion,http://95.67.47.114/hls/hdfashion_ua_hi/index.m3u8
+ID Fashion,https://idfashion.cdn-02.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+ID Fashion,https://idfashion.cdn-03.cosmonova.net.ua/hls/idfashion_ua_hi/index.m3u8
+Runway TV,https://vse2-as-all78.secdn.net/runway-live/play/mp4:runway/playlist.m3u8
+Runway TV,https://vse2-as-all47.secdn.net/runway-origin/live/runway/chunklist_sess712874391.m3u8
+imode TV,https://juyunlive.juyun.tv/live/24950198.m3u8
+CLASS TV MODA,https://streamcdne1-859c1818ed614cc5b0047439470927b0.msvdn.net/vod/852oKGTnb3tO/7c1b70d3-7dcb-4818-8274-4a8524391b6f/chunklist-f1-v1-a1.m3u8?T=1649336837
+QVC Beauty,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc1uscln/high.m3u8
+QVC Beauty 2,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc2uscln/high.m3u8
+QVC Beauty 3,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc3uscln/high.m3u8
+QVC Kitchen,https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc4uscln/high.m3u8
+Beauty iQ,https://lsqvc4us-lh.akamaihd.net/i/lsqvc4us_01@802711/master.m3u8
+GEMS TV,http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream/index.m3u8
+Jewellery Maker,https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8
+

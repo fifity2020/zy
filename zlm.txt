@@ -249,7 +249,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/flying-guys/jar/raw/branch/master/xpath/88kanqiu.json"
+			"ext": "https://raw.githubusercontent.com/fifity2020/zy/main/sub/xpath/88kanqiu.json"
 		},
 		{
 			"key": "csp_xpath_qiumi",
@@ -269,7 +269,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://gitea.com/flying-guys/jar/raw/branch/master/xpath/huya.json"
+			"ext": "https://raw.githubusercontent.com/fifity2020/zy/main/sub/xpath/huya.json"
 		},
 		{
 			"key": "csp_appysv2_VIP影院",
@@ -356,7 +356,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "https://gitea.com/flying-guys/jar/raw/branch/master/xpath/nmys2.json"
+			"ext": "https://raw.githubusercontent.com/fifity2020/zy/main/sub/xpath/nmys2.json"
 		},
 		{
 			"key": "csp_xpath_112",
@@ -376,7 +376,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "http://fj365.ml/6/saohuotv2.json"
+			"ext": "https://raw.githubusercontent.com/fifity2020/zy/main/sub/xpath/saohuotv.json"
 		},
 		{
 			"key": "csp_xpath_jpys",
@@ -386,7 +386,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
-			"ext": "http://fj365.ml/6/jpys.json"
+			"ext": "https://raw.githubusercontent.com/fifity2020/zy/main/sub/xpath/jpys.json"
 		},
 		{
 			"key": "csp_biubiu_LIBVIO",
@@ -396,7 +396,7 @@
 			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 0,
-			"ext": "https://jych6.coding.net/p/cat/d/C/git/raw/master/LIBVIO.json"
+			"ext": "https://raw.githubusercontent.com/fifity2020/zy/main/sub/BIUBIU/LIBVIO.json"
 		},
 		{
 			"key": "csp_xpath_huya",

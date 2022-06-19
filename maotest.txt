@@ -1,19 +1,15 @@
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
-//"spider":"https://github.com/YuanHsing/OneClickRun/raw/master/xpath/custom_spider.jar?raw=true",
-//"spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
-//"spider": "https://github.com/boly4189/tv1/tree/master/jar/spider.jar?rwa=true",
-"spider":"https://raw.githubusercontent.com/boly4189/tv1/master/jar/spider.jar",
+
+"spider":"https://github.com/fifity2020/zy/blob/main/XBiubiuLA.jar",
 "sites":[
 {"key":"csp_xpath_ctv","name":"冲TMTV","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable": 1,"ext": "https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/chongtmtv.json"},
-{"key":"csp_xpath_汉城影院","name":"汉城影院(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/hancheng.json"}, {"key":"csp_xpath_if101","name":"if101(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/if101.json"},
+{"key":"csp_xpath_汉城影院","name":"汉城影院(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://github.com/fifity2020/zy/blob/main/sub/xpath/hancheng.json"},
+{"key":"csp_xpath_if101","name":"if101(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/if101.json"},
 {"key":"唐人街","name":"唐人街(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/Renjie.json"},
 {"key":"csp_xpath_Ole","name":"欧乐(XPMac)(播放器要改成Exo)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/olevod.json"},
 {"key":"csp_xpath_独播库","name":"独播库(XPMac)(播放器要改成系统播放器)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/duboku.json"},
 {"key":"csp_xpath_auete","name":"Auete影视(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/auete.json"},
-
-{"key":"csp_xpath_huya","name":"🐯虎牙(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/huya2.json"},
-{"key":"csp_xpath_6d","name":"六度TV(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/6d.json"},
 {"key":"csp_xpath_zxzj2","name":"在线之家(XPF)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/zxzj2.json"},
 {"key":"csp_xpath_doujiaow","name":"豆角网(XPF)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/doujiaow.json"},
 {"key":"csp_xpath_789kp","name":"789看片(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/789kp.json"},
@@ -21,29 +17,17 @@
 {"key":"csp_xpath_jpys","name":"极品影视(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/jpys.json"},
 {"key":"Jumi","name":"剧迷TV(XPF)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/Jumi.json"},
 {"key":"csp_xpath_pianba","name":"片吧影院(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/pianba.json"},
-
 {"key":"csp_xpath_ddg","name":"达达龟(XP)","type":3,"api":"csp_XPathFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/dadagui.json"},
 {"key":"csp_xpath_lezhutv","name":"乐猪TV(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/lezhutv.json"},
 {"key":"csp_xpath_meiju56","name":"美剧网(XPM)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/meiju56.json"},
 {"key":"csp_xpath_libv","name":"Libvio(XPMac)","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/libv.json"},
 {"key": "csp_xpath_nmys","name": "农民影视","type": 3,"api": "csp_XPathFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://raw.githubusercontent.com/boly4189/tv1/master/XPMac/nmys.json"},
-
 {"key":"csp_AppYsV2_杨桃","name":"杨桃影视","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ytys3456.com/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_迪迪影院","name":"迪迪影院(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://dd88.icu:6080/xgapp.php/v2/"},
 {"key":"csp_appysv2_手指影视","name":"手指影视(M2)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"https://szys5678.com/mogai_api.php/v1.vod"},
 {"key":"csp_appysv2_钟特影视","name":"钟特影视(v1)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://app.zteys.com/api.php/v1.vod"},
 {"key":"if101资源","name":"if101(海外推荐)","type":0,"api":"https://demo.if101.tv/api.php/provide/vod/at/xml","searchable":1,"quickSearch":0,"filterable":0},
-
-{
-  "key": "push_agent",
-  "name": "推送",
-  "type": 3,
-  "api": "csp_PushAgent",
-  "searchable": 0,
-  "quickSearch": 0,
-  "filterable": 0
-}
-
+{"key": "push_agent",  "name": "推送", "type": 3, "api": "csp_PushAgent", "searchable": 0,  "quickSearch": 0, "filterable": 0}
 ],
 "lives":[
 {"group":"CY","channels":[

@@ -508,17 +508,7 @@
 			"filterable": 1,
 			"ext": "http://fj365.ml/6/dmntv.json"
 		},
-		{
-			"key": "csp_xpath_dmw",
-			"name": "017--动漫岛(XPF)",
-			"type": 3,
-			"api": "csp_XPathMacFilter",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1,
-			"ext": "http://fj365.ml/6/dmw.json"
-		},
-		{
+				{
 			"key": "csp_xpath_huohuo99",
 			"name": "018--火火影视(XP)",
 			"type": 3,
@@ -527,26 +517,6 @@
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "http://fj365.ml/6/huohuo99.json"
-		},
-		{
-			"key": "csp_xpath_dm84",
-			"name": "019--动漫巴士(XP)",
-			"type": 3,
-			"api": "csp_XPathFilter",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://fj365.ml/6/dm84.json"
-		},
-		{
-			"key": "csp_yinghua",
-			"name": "020--樱花动漫(XP)",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "http://fj365.ml/6/yinghua2.json"
 		},
 		{
 			"key": "csp_xpath_tjyy",
@@ -598,6 +568,16 @@
 			"filterable": 0,
 			"ext": "http://fj365.ml/bb/在线之家.json"
 		},
+		{
+			"key": "teyondxpTVB云播",
+			"name": "🥒TVB云播(XB)",
+			"type": 3,
+			"api": "csp_XBiubiu",
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 0,
+			"ext": "http://mtv.chxjon.cn/m/xpath/TVB%E4%BA%91%E6%92%AD.json"
+		
 		{
 			"key": "csp_biubiu_乐猪影视",
 			"name": "🥒002--乐猪影视(XB)",

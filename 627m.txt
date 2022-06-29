@@ -1,5 +1,5 @@
 {
-"spider": "spider":"https://github.com/fifity2020/zy/blob/main/badychen/baddychen0625.jar",
+"spider":"https://github.com/fifity2020/zy/blob/main/badychen/baddychen0625.jar",
 ## 爬虫系列
 "sites": [
 {"key": "csp_77"         ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},

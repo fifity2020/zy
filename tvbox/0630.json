@@ -1,4 +1,4 @@
-{"spider":"http://eee.dog/2aad2c",
+{"spider":"https://github.com/fifity2020/zy/blob/main/tvbox/0630.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly93cC53YW5nc2hpNTIwLmNvbS9kb3duLnBocC8zZmQ2NjM5ZTUzMWFkNGFhODdlYzA0ZDFhZjk2YTMzNy50eHQ="]}]}],
 "sites":[
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},

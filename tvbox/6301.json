@@ -1,5 +1,5 @@
 {
-"spider":"https://github.com/fifity2020/zy/blob/main/tvbox/0710.jar", 
+"spider":"https://github.com/fifity2020/zy/blob/main/tvbox/0701.jar", 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL2ZpZml0eTIwMjAvenkvYmxvYi9tYWluL2lwdHYvdHYudHh0="]}]}],
 {"key":"csp_BBB","name":"🅱️哔哩套餐","type":3,"api":"csp_BBB","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},

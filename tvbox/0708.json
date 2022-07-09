@@ -1,6 +1,6 @@
 
 {
-"spider":"https://github.com/fifity2020/zy/blob/main/bc.jar",
+"spider":"https://raw.githubusercontent.com/fifity2020/zy/main/tvbox/custom_spider.jar",
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3lvc2Frb2kudGs6NTcxNi9kL0FsaXN0L3R2Ym94L3R2L2JjLnR4dA=="]}]}],
 "sites":[
 {"key":"csp_SP360","name":"🎾360(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},

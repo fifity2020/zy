@@ -1,10 +1,12 @@
-试用资源
+一转眼，江湖变了！
 
-CONF.json ,
+转：影视fans交流大厅  资源
 
-zlm感觉还好--0618.jar(baddychen)
+666.json   http://www.kf666888.cn/api/tvbox?peizhi=666
 
-zy\zy2 木槿的json
+668.json   http://www.kf666888.cn/api/tvbox?peizhi=668
 
-maotest 转自boly4189，0619改
+0.json    https://dxawi.github.io/0/0.json
+
+
 

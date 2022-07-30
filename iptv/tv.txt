@@ -164,8 +164,8 @@ MG2,http://39.135.46.102:6610/PLTV/77777777/224/3221225876/index.m3u8?hls
 新视觉体育,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 魅力足球体育,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 
-🐾🦚世界，#genre#
-亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+🐾🦚世界,#genre#
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
 CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
@@ -216,7 +216,7 @@ BloombergTV,http://125.227.210.37:18184/VideoInput/play.ts
 新唐人亚太,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
 
 
-🗼港澳台，#genre#
+🗼港澳台,#genre#
 J2,http://120.84.96.46:808/hls/86/index.m3u8
 J2,http://120.84.96.42:808/hls/86/index.m3u8
 ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
@@ -289,7 +289,7 @@ TVB 明珠台,http://radius.8866.org:880/hls/84/index.m3u8
 TVB 翡翠台[1920*1080],http://radius.8866.org:880/hls/80/index.m3u8
 
 
-🎡文旅，#genre#
+🎡文旅,#genre#
 国家地理,http://59.125.101.187:10709/http/192.168.77.24:8081/hls/61/803/ch01.m3u8
 动物星球,http://59.125.101.187:10719/http/192.168.77.24:8088/hls/70/812/ch37.m3u8
 亚洲旅游,http://59.125.101.187:10744/http/192.168.77.24:8081/hls/76/818/ch61.m3u8
@@ -320,7 +320,7 @@ Animax,http://59.125.101.187:8744/http/192.168.77.24:8081/hls/70/812/ch39.m3u8?
 
 
 
-💝4K台，#genre#
+💝4K台,#genre#
 4k️超高清,http://39.135.55.7:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 4k超高清,https://p.ggiptv.com/v/4k.m3u8
 4k超高清,http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1

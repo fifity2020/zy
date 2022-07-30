@@ -1,4 +1,4 @@
-{"spider":"https://github.com/fifity2020/zy/raw/main/0718.jar",
+{"spider":"https://github.com/fifity2020/zy/raw/main/qiaoji0728.txt;md5;1eb59159dca9bded71c83e6ae0cd9598",
 "sites": [
      {
       "key": "csp_SP360",
@@ -33,29 +33,35 @@
       "quickSearch": 1,
       "filterable": 1},
     {
-      "key": "csp_QQ",
-      "name": "🐧腾讯(SP)",
-      "type": 3,
-      "api": "csp_QQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1},
-    {
-      "key": "csp_MGTV",
-      "name": "🥭芒果(SP)",
-      "type": 3,
-      "api": "csp_MGTV",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1},
-    {
-      "key": "csp_IQIYI",
-      "name": "🥝爱奇艺(SP)",
-      "type": 3,
-      "api": "csp_IQIYI",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1},
+            "key":"csp_MGTV",
+            "name":"芒果TV(SP)",
+            "type":3,
+            "api":"csp_MGTV",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "jar":"https://gitea.com/lucky/P/raw/branch/master/jar/%E8%85%BE%E8%AE%AF%E8%8A%92%E6%9E%9C.jar"
+        },
+        {
+            "key":"csp_QQ",
+            "name":"腾讯视频(SP)",
+            "type":3,
+            "api":"csp_QQ",
+            "searchable":1,
+            "quickSearch":1,
+            "filterable":1,
+            "jar":"https://gitea.com/lucky/P/raw/branch/master/jar/%E8%85%BE%E8%AE%AF%E8%8A%92%E6%9E%9C.jar"
+        },
+        {
+            "key":"爱奇艺",
+            "name":"爱奇艺(SP)",
+            "type":3,
+            "api":"csp_IQIYI",
+            "quickSearch":1,
+            "searchable":1,
+            "filterable":1,
+            "jar":"https://gitea.com/lucky/P/raw/branch/master/jar/%E8%85%BE%E8%AE%AF%E8%8A%92%E6%9E%9C.jar"
+        },
      {
       "key": "csp_Kmys",
       "name": "🐱酷猫(SP)",

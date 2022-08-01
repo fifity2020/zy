@@ -163,64 +163,55 @@ MG2,http://39.135.46.102:6610/PLTV/77777777/224/3221225876/index.m3u8?hls
 52MG体育*,http://39.135.46.102:6610/PLTV/77777777/224/3221225854/index.m3u8?hls
 53MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225853/index.m3u8?hls
 54MG体育,http://39.135.46.102:6610/PLTV/77777777/224/3221225852/index.m3u8?hls
+KH_PNN体育,http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
 新视觉体育,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 魅力足球体育,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 
 🐾🦚世界，#genre#
-亚洲,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-CNC中文,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
+亚洲新闻,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+亚洲新闻,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
+亚洲新闻,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
+亚洲新闻,http://125.227.210.37:17524/VideoInput/play.ts
+亚洲新闻,http://125.227.210.55:17524/VideoInput/play.ts
+CNC,https://ytb.52sf.ga/jmsytb.m3u8?c=31
 CNC英文,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
+CNC英文,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
 NHK·华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHK·国际,https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8
-Channel News Asia,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-日本NHK华语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
-新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-新加坡_CNA,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 BloombergTV+2,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 KH_TV9,http://203.176.130.123:8989/live/ctv9_480k.stream/playlist.m3u8
 KH_FreshNewsTV,http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8
 KH_BayonTV,http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
-KH_PNN体育,http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
-FTVLIVE,http://218.236.58.185:1935/FTVLIVE_MOBILE/Stream_mobile/playlist.m3u8
-Channel News Asia,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-NASA Public Channel,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 半岛电视,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
 NASATVPublic,https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
-CNA(1080p),https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
-新加坡,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
-新马Ⅰ亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 BBCWorldNews,http://125.227.210.37:10246/VideoInput/play.ts
 BBCWorldNews,http://125.227.210.55:10246/VideoInput/play.ts
-CNC中文台,http://source07.v.news.cn/live/CNC_CN/playlist.m3u8
-CNC中文台,http://39.135.138.59:18890/PLTV/88888910/224/3221225694/index.m3u8
-CNC英文台,http://source07.v.news.cn/live/CNC_EN/playlist.m3u8
-CNC英文台,http://39.135.138.59:18890/PLTV/88888910/224/3221225693/index.m3u8
-NHK华语视界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+
 ENGLISH SPEECH,https://ytb.52sf.ga/jmsytb.m3u8?c=22
 ABC News-AU,https://ytb.52sf.ga/jmsytb.m3u8?c=23
 MBC News,https://ytb.52sf.ga/jmsytb.m3u8?c=24
 KBS Kr,https://ytb.52sf.ga/jmsytb.m3u8?c=25
-CNA,https://ytb.52sf.ga/jmsytb.m3u8?c=31
 NBC News,https://ytb.52sf.ga/jmsytb.m3u8?c=33
 CNN,http://125.227.210.37:10797/VideoInput/play.ts
-CNN,http://125.227.210.55:10797/VideoInput/play.ts
 FOX,http://125.227.210.37:13498/VideoInput/play.ts
-FOX,http://125.227.210.55:13498/VideoInput/play.ts
+
 CNBCHongKong,http://125.227.210.37:16415/VideoInput/play.ts
-CNBCHongKong,http://125.227.210.55:16415/VideoInput/play.ts
 CNBC,http://59.125.101.187:8708/http/192.168.77.24:8078/hls/24/80/cnbc90.m3u8?
-ChannelNewsAsia,http://125.227.210.37:17524/VideoInput/play.ts
-ChannelNewsAsia,http://125.227.210.55:17524/VideoInput/play.ts
-BloombergTV,http://125.227.210.55:18184/VideoInput/play.ts
 BloombergTV,http://125.227.210.37:18184/VideoInput/play.ts
 新唐人亚太,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
 
 
 🗼港澳台，#genre#
 J2,http://120.84.96.46:808/hls/86/index.m3u8
-J2,http://120.84.96.42:808/hls/86/index.m3u8
+J2,https://tx-b2.xsafetech.com/live/11666.m3u8
+J2,https://aaaaa.pejian.com:443/xgj2/xgj2app.m3u8
+J2,https://bf.kanjc.com/11666/11666.m3u8
 ViuTV,http://kkmix1.f3322.net:762/hls/ch1/s.m3u8
 ViuTV6,http://kkmix1.f3322.net:762/hls/ch2/s.m3u8
 无线新闻,https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
@@ -282,11 +273,6 @@ TVB经典台,P2p://ns2.hellotvvod.com:9906/885b138988364214958dc5eed3a01beb.ts
 明珠台,P2p://ns2.hellotvvod.com:9906/5a657e27e6104e52bebafb9e46cd665d.ts
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 星卫电影,http://data.3g.yy.com/live/hls/29900720/29900720
-TVB J2,http://120.84.96.33:808/hls/86/index.m3u8 
-TVB J2,http://120.84.96.32:808/hls/86/index.m3u8
-TVB J2,https://tx-b2.xsafetech.com/live/11666.m3u8
-TVB J2,https://aaaaa.pejian.com:443/xgj2/xgj2app.m3u8
-TVB J2,https://bf.kanjc.com/11666/11666.m3u8
 TVB 明珠台,http://radius.8866.org:880/hls/84/index.m3u8
 TVB 翡翠台[1920*1080],http://radius.8866.org:880/hls/80/index.m3u8
 
@@ -320,11 +306,10 @@ Animax,http://59.125.101.187:8744/http/192.168.77.24:8081/hls/70/812/ch39.m3u8?
 时尚,http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
 时尚,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
 时装模特imodeTV,http://juyunlive.juyun.tv/live/24950198.m3u8
-
+FTVLIVE,http://218.236.58.185:1935/FTVLIVE_MOBILE/Stream_mobile/playlist.m3u8
 
 
 💝4K台，#genre#
-4k️超高清,http://39.135.55.7:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1&IASHttpSessionId=OTT
 4k超高清,https://p.ggiptv.com/v/4k.m3u8
 4k超高清,http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
 奥林匹克4k,http://39.135.55.105:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1

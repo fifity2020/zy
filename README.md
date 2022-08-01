@@ -2,11 +2,7 @@
 
 转：影视fans交流大厅  资源
 
-666.json   http://home.jundie.top:81/666.json
-         阿里中转  http://www.kf666888.cn/api/tvbox?peizhi=666
-
-668.json   http://home.jundie.top:81/668.json
-          阿里中转  http://www.kf666888.cn/api/tvbox?peizhi=668
+888.json  http://www.kf666888.cn/api/tvbox?peizhi=888
 
 0.json    https://dxawi.github.io/0/0.json
 

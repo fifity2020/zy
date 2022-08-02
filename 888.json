@@ -1,5 +1,5 @@
 {
-  "spider":"http://home.jundie.top:81/jar/top94.jar",
+  "spider":"https://github.com/fifity2020/zy/raw/main/top94.jar",
   "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
   "sites":[

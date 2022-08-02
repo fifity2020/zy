@@ -41,7 +41,6 @@
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
 凤凰资讯,http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv2.m3u8
 凤凰资讯,http://111.59.189.40:8445/tsfile/live/1021_1.m3u8
-<<<<<<< HEAD
 凤凰资讯HD8M,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
 凤凰资讯,http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1&IASHttpSessionId=OTT3052920220429084838036207
 凤凰资讯,http://playtv-live.ifeng.com:80/live/06OLEEWQKN4_tv2.m3u8
@@ -167,7 +166,7 @@ KH_PNN体育,http://203.176.130.123:8989/live/pnn_480k.stream/playlist.m3u8
 新视觉体育,http://183.207.255.188/live/program/live/xsjhd/4000000/mnf.m3u8
 魅力足球体育,http://183.207.255.188/live/program/live/mlyyhd/4000000/mnf.m3u8
 
-🐾🦚世界，#genre#
+🐾🦚世界,#genre#
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 亚洲新闻,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
 亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8
@@ -185,7 +184,6 @@ BloombergTV+2,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-US
 KH_TV9,http://203.176.130.123:8989/live/ctv9_480k.stream/playlist.m3u8
 KH_FreshNewsTV,http://167.99.65.12:1935/live/ngrp:myStream_all/chunklist.m3u8
 KH_BayonTV,http://203.176.130.123:8989/live/bayontv1_480k.stream/playlist.m3u8
-
 
 半岛新闻,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
 半岛电视,https://live-hls-aje-ak.getaj.net/AJE/01.m3u8
@@ -207,7 +205,7 @@ BloombergTV,http://125.227.210.37:18184/VideoInput/play.ts
 新唐人亚太,http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live050&nid=223
 
 
-🗼港澳台，#genre#
+🗼港澳台,#genre#
 J2,http://120.84.96.46:808/hls/86/index.m3u8
 J2,https://tx-b2.xsafetech.com/live/11666.m3u8
 J2,https://aaaaa.pejian.com:443/xgj2/xgj2app.m3u8
@@ -277,7 +275,7 @@ TVB 明珠台,http://radius.8866.org:880/hls/84/index.m3u8
 TVB 翡翠台[1920*1080],http://radius.8866.org:880/hls/80/index.m3u8
 
 
-🎡文旅，#genre#
+🎡文旅,#genre#
 
 国家地理,http://59.125.101.187:10709/http/192.168.77.24:8081/hls/61/803/ch01.m3u8
 动物星球,http://59.125.101.187:10719/http/192.168.77.24:8088/hls/70/812/ch37.m3u8
@@ -309,7 +307,7 @@ Animax,http://59.125.101.187:8744/http/192.168.77.24:8081/hls/70/812/ch39.m3u8?
 FTVLIVE,http://218.236.58.185:1935/FTVLIVE_MOBILE/Stream_mobile/playlist.m3u8
 
 
-💝4K台，#genre#
+💝4K台,#genre#
 4k超高清,https://p.ggiptv.com/v/4k.m3u8
 4k超高清,http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
 奥林匹克4k,http://39.135.55.105:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1

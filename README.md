@@ -15,3 +15,4 @@ dxawi  https://github.com/dxawi/0/blob/main/0.json
 
 巧技  https://gitea.com/qiaoji/jar/raw/branch/main/qiaoji.json
 
+wa  转gitea,吾爱源

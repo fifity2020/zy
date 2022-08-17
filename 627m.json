@@ -41,6 +41,16 @@
 			"filterable": 1,
 			"ext": ""
 		},
+                                {
+                                               "key":"csp_293",
+                                               "name":"🌈4K专区",
+                                               "api":"csp_SP293",
+                                               "type":3,
+                                               "filterable":1,
+                                               "quickSearch":1,
+                                               "searchable":1,"ext":"",
+                                               "jar":"https://gitea.com/wlyzh88/0627/raw/branch/master/jar/gg.jar"
+                                },
 		{
 			"key": "Kunyu77",
 			"name": "🌈酷云77",

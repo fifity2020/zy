@@ -1,16 +1,5 @@
 {
-  "spider": "https://github.com/fifity2020/zy/raw/main/826.jar",
-"recommend": [{"name": "豆瓣推荐","request": {"method": "GET","header": [{"key": "Referer","value": "https://movie.douban.com/"}],
-"url": {"raw": "https://movie.douban.com/j/new_search_subjects?sort=U&range=0,10&tags=&playable=1&start=0&year_range=2022,2022"}},
-"response": {"result": "$.data","data": [{"key": "name","value": "title"},{"key": "note","value": "rate"},{"key": "pic","value": "cover"}]}}],
-
-"subtitle": {"color": "#FFFFFF", "size": "18"},
-
-"hotSearch": [{"name": "mobilesearch","request": {"method": "GET","header": [ {"key": "Referer","value": "https://v.qq.com/"}],"url": {"raw": "https://node.video.qq.com/x/api/hot_mobilesearch?channdlId=0&_={time}"}},
-"response": { "result": "$.data.itemList","data": [{"key": "keyword","value": "title"}]}}],
-
-
-
+"spider": "https://github.com/fifity2020/zy/raw/main/826.jar",
 "sites": [
      //{"key": "测试T4","name": "T4爬虫","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch": 1,"filterable": 1},{"list":["bdys01","bttwoo","cokemv","czspp","ddys","dy555","gitcafe","libvio","onelist","smdyy","voflix","yiso","zhaoziyuan"]}},
     {

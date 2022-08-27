@@ -105,8 +105,8 @@
       "filterable": 0
     },
     {
-      "key": "csp_吾爱B站",
-      "name": "🅱吾爱B站(SP)",
+      "key": "B站",
+      "name": "🅱Bilibili(SP)",
       "type": 3,
       "api": "csp_Bili",
       "searchable": 0,

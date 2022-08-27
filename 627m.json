@@ -12,6 +12,7 @@
 
 
 "sites": [
+     {"key": "测试T4","name": "T4爬虫","type": 4,"api": "https://service-59u7dsoa-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 1,"quickSearch": 1,"filterable": 1},{"list":["bdys01","bttwoo","cokemv","czspp","ddys","dy555","gitcafe","libvio","onelist","smdyy","voflix","yiso","zhaoziyuan"]},
     {
       "key": "csp_77",
       "name": "👒酷云七七(SP)",

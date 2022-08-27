@@ -384,15 +384,6 @@
 		"filterable": 1,
 		"ext": "http://刚刚.live/jar/tvjs/huya2.json"
 	}, {
-		"key": "csp_xpath_kuqimv",
-		"name": "🎤经典MV",
-		"type": 3,
-		"api": "csp_XPath",
-		"searchable": 0,
-		"quickSearch": 0,
-		"filterable": 0,
-		"ext": "http://刚刚.live/jar/tvjs/kuqimv.json"
-	}, {
 		"key": "csp_xpath_jbb",
 		"name": "🏳️剧白白",
 		"type": 3,
@@ -624,6 +615,16 @@
 		"quickSearch": 0,
 		"filterable": 1,
 		"ext": "http://刚刚.live/wa/演唱会.php"，
+		"jar": "https://raw.githubusercontent.com/fifity2020/zy/main/云星bili.jar"
+	}, {
+		"key": "csp_xpath_kuqimv",
+		"name": "🎤经典MV",
+		"type": 3,
+		"api": "csp_XPath",
+		"searchable": 0,
+		"quickSearch": 0,
+		"filterable": 0,
+		"ext": "http://刚刚.live/jar/tvjs/kuqimv.json"，
 		"jar": "https://raw.githubusercontent.com/fifity2020/zy/main/云星bili.jar"
 	}, {
 		"key": "歌曲",

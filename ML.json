@@ -157,15 +157,6 @@
 		"quickSearch": 1,
 		"filterable": 1
 	}, {
-		"key": "csp_BBB",
-		"name": "👨‍👩‍👦‍👦哔哩套餐",
-		"type": 3,
-		"api": "csp_Bili",
-		"searchable": 1,
-		"quickSearch": 0,
-		"filterable": 1,
-		"ext": "http://刚刚.live/jar2/tvjs/bili.json"
-	}, {
 		"key": "360_spider",
 		"name": "🎞️️360影视（官）",
 		"api": "csp_SP360",
@@ -632,7 +623,8 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "http://刚刚.live/wa/演唱会.php"
+		"ext": "http://刚刚.live/wa/演唱会.php"，
+		"jar": "https://raw.githubusercontent.com/fifity2020/zy/main/云星bili.jar"
 	}, {
 		"key": "歌曲",
 		"name": "🅱️歌曲（B站）",
@@ -641,7 +633,8 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "http://刚刚.live/wa/歌曲.php"
+		"ext": "http://刚刚.live/wa/歌曲.php"，
+		"jar": "https://raw.githubusercontent.com/fifity2020/zy/main/云星bili.jar"
 	}, {
 		"key": "戏曲",
 		"name": "🅱️戏曲（B站）",
@@ -650,7 +643,8 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "http://刚刚.live/wa/戏曲.php"
+		"ext": "http://刚刚.live/wa/戏曲.php"，
+		"jar": "https://raw.githubusercontent.com/fifity2020/zy/main/云星bili.jar"
 	}, {
 		"key": "多多",
 		"name": "🐶多多影视",

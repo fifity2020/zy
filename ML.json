@@ -614,7 +614,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "http://刚刚.live/wa/演唱会.php"，
+		"ext": "https://raw.githubusercontent.com/fifity2020/zy/main/xp/bili.json",
 		"jar": "https://raw.githubusercontent.com/fifity2020/zy/main/云星bili.jar"
 	}, {
 		"key": "csp_xpath_kuqimv",
@@ -624,7 +624,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 0,
-		"ext": "http://刚刚.live/jar/tvjs/kuqimv.json"，
+		"ext": "https://raw.githubusercontent.com/fifity2020/zy/main/xp/bili.json",
 		"jar": "https://raw.githubusercontent.com/fifity2020/zy/main/云星bili.jar"
 	}, {
 		"key": "歌曲",
@@ -634,7 +634,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "http://刚刚.live/wa/歌曲.php"，
+		"ext": "https://raw.githubusercontent.com/fifity2020/zy/main/xp/bili.json",
 		"jar": "https://raw.githubusercontent.com/fifity2020/zy/main/云星bili.jar"
 	}, {
 		"key": "戏曲",
@@ -644,7 +644,7 @@
 		"searchable": 0,
 		"quickSearch": 0,
 		"filterable": 1,
-		"ext": "http://刚刚.live/wa/戏曲.php"，
+		"ext": "https://raw.githubusercontent.com/fifity2020/zy/main/xp/bili.json",
 		"jar": "https://raw.githubusercontent.com/fifity2020/zy/main/云星bili.jar"
 	}, {
 		"key": "多多",

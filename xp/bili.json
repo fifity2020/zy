@@ -6,6 +6,14 @@
 		{
 			"type_name": "音乐",
 			"type_id": "音乐 4K 合集"
+		},
+		{
+			"type_name": "古典音乐",
+			"type_id": "古典音乐"
+		},
+		{
+			"type_name": "宫廷音乐",
+			"type_id": "宫廷音乐"
 		}, {
 			"type_name": "舞蹈",
 			"type_id": "舞蹈 MV 4K 合集"
@@ -15,9 +23,6 @@
 		}, {
 			"type_name": "女团",
 			"type_id": "女团 MV 4K 合集"
-		}, {
-			"type_name": "影视MV",
-			"type_id": "影视MV"
 		},
 		{
 			"type_name": "广场舞",

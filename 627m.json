@@ -1,11 +1,29 @@
 {
-"spider": "https://github.com/fifity2020/zy/raw/main/826.jar",
+"spider": "https://github.com/fifity2020/zy/raw/main/Tangsan999.jar",
 "sites": [
-       {
+     { 
+      "key": "Ekan_spider",
+      "name": "🔥爱看",
+      "api": "csp_IKan",
+      "type": 3,
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1
+     },
+    {
       "key": "csp_77",
       "name": "👒酷云七七(SP)",
       "type": 3,
       "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+      {
+      "key": "Lezhu_spider",
+      "name": "🐷乐猪影视(SP)",
+      "type": 3,
+      "api": "csp_Lezhu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
@@ -143,7 +161,34 @@
       "filterable": 0,
       "ext": "https://raw.githubusercontent.com/fifity2020/zy/main/xp/经典MV.json"
    },
-   {
+     {
+       "key": "zhibo",
+       "name": "🔥直播合集",
+       "type": 3,
+       "api": "csp_Yj1211",
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 1
+     },
+     {
+     "key": "小熊",
+     "name": "🔥小熊TV",
+     "type": 3,
+     "api": "csp_Xxys",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1
+    },
+    {
+    "key": "3EDY",
+    "name": "🔥3EDY(EXO)",
+    "type": 3,
+    "api": "csp_EEEDY",
+    "searchable": 1,
+    "quickSearch": 1,
+    "filterable": 1
+    },
+    {
       "key": "在线之家",
       "name": "🏠在线之家(SP)",
       "type": 3,
@@ -179,15 +224,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "Lezhu_spider",
-      "name": "🐷乐猪影视(SP)",
-      "type": 3,
-      "api": "csp_Lezhu",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+  
     {
       "key": "csp_Lib",
       "name": "🎉Libvio(SP）",
@@ -233,6 +270,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
+
     {
       "key": "csp_360官源",
       "name": "💘360官源(SP)",
@@ -424,6 +462,16 @@
       "ext": "{\r\n\"ua\": \"\",\r\n\"dtUrl\": \"https://1024bt25.xyz{vid}\",\r\n\"dtNode\": \"//div[@id='content']\",\r\n\"dtName\": \"//h2/text()\",\r\n\"dtNameR\": \"\",\r\n\"dtImg\": \"/@null\",\r\n\"dtCate\": \"concat(//tbody/td[1]//text())\",\r\n\"dtCateR\": \"\",\r\n\"dtYear\": \"concat(//tbody/td[2]//text())\",\r\n\"dtYearR\": \"\",\r\n\"dtDesc\": \"concat(//ol//text(),'')\",\r\n\"dtDescR\": \"\",\r\n\"dtFromNode\": \"//div[@id='wall']\",\r\n\"dtFromName\": \"concat('磁力链接','')\",\r\n\"dtFromNameR\": \"\",\r\n\"dtUrlNode\": \"//div[@id='magnet']\",\r\n\"dtUrlSubNode\": \"//a\",\r\n\"dtUrlId\": \"/@href\",\r\n\"dtUrlIdR\": \"\",\r\n\"dtUrlName\": \"/text()\", \r\n\"playUrl\": \"{playUrl}\",\r\n\"playUa\": \"\",\r\n\"searchUrl\": \"https://1024bt25.xyz/main-search-kw-{wd}-length-1.html\",\r\n\"scVodNode\": \"//div[@class='item-title']/h3/a\",\r\n\"scVodName\": \"/@title\",\r\n\"scVodId\": \"/@href\",\r\n\"scVodIdR\": \"\",\r\n\"scVodImg\": \"/@null\",\r\n\"scVodImgR\": \"\",\r\n  \"scVodMark\": \"\"\r\n}"
     },
     {
+     "key": "csp_xp_yinfans",
+     "name": "💥音范丝4K(300+)",
+     "type": 3,
+     "api": "csp_XPath",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "ext": "http://catvod.fun:8001/tv/XP/yinfans.json"
+    },
+    {
       "key": "push_agent",
       "name": "👋🏻推送",
       "type": 3,
@@ -432,7 +480,28 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "3781469b13074e4cac1e0e7113e4fa20"
-    }
+    },
+{
+		"key": "csp_biubiu_测试1",
+		"name": "🔥测试1(XB)",
+		"type": 3,
+		"api": "csp_XYQBiu",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0,
+		"ext": "http://catvod.fun:8001/tv/18/新媒体.json",
+                                "jar": "http://catvod.fun:8001/tv/index.jar"
+	},
+	{
+		"key": "csp_biubiu_测试",
+		"name": "🔥测试(XB)",
+		"type": 3,
+		"api": "csp_XYQBiu",
+		"searchable": 1,
+		"quickSearch": 1,
+		"filterable": 0,
+		"ext": "http://catvod.fun:8001/tv/18/香蕉资源.json"
+	}
  ],
   "lives": [
     {

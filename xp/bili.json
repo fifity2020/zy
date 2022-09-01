@@ -4,6 +4,10 @@
 			"type_id": "小姐姐超清"
 		},
 		{
+                                                "type_name":"4K资源",
+                                                "type_id":"4K"
+                               },
+                               {
 			"type_name": "音乐",
 			"type_id": "音乐 4K 合集"
 		},
@@ -12,9 +16,6 @@
 			"type_id": "古典音乐"
 		},
 		{
-			"type_name": "宫廷音乐",
-			"type_id": "宫廷音乐"
-		}, {
 			"type_name": "舞蹈",
 			"type_id": "舞蹈 MV 4K 合集"
 		}, {
@@ -26,7 +27,7 @@
 		},
 		{
 			"type_name": "广场舞",
-			"type_id": "广场舞"
+			"type_id": "广场舞超清"
 		},
 		{
 			"type_name": "相声小品",
@@ -34,7 +35,7 @@
 		},
 		{
 			"type_name": "动物世界",
-			"type_id": "动物世界"
+			"type_id": "动物世界超清"
 		},
 		{
 			"type_name": "戏曲",
@@ -46,7 +47,7 @@
 		},
 		{
 			"type_name": "足球",
-			"type_id": "足球比赛合集超清"
+			"type_id": "足球比赛超清"
 		},
 		{
 			"type_name": "篮球",
@@ -58,7 +59,7 @@
 		},
 		{
 			"type_name": "风景",
-			"type_id": "风景"
+			"type_id": "风景超清"
 		},
 		{
 			"type_name": "食谱",
@@ -66,11 +67,11 @@
 		},
 		{
 			"type_name": "健身",
-			"type_id": "健身"
+			"type_id": "健身超清"
 		},
 		{
 			"type_name": "演讲",
-			"type_id": "演讲"
+			"type_id": "演讲超清"
 		},
 		{
 			"type_name": "球星",

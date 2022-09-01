@@ -15,7 +15,8 @@
 		"api": "csp_Kunyu77",
 		"searchable": 1,
 		"quickSearch": 1,
-		"filterable": 1
+		"filterable": 1,
+                                "jar":"https://gitea.com/z126343/TV/src/branch/main/77a.jar"
 	}, {
 		"key": "在线之家",
 		"name": "🏠在线之家",

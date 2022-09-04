@@ -37,15 +37,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "Nfyun",
-      "name": "🚀Nf云(SP)",
-      "type": 3,
-      "api": "csp_Nfyun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
+   {
+            "key": "360_spider",
+            "name": "🥎360影视",
+            "api": "csp_SP360",
+            "type": 3,
+            "filterable": 1,
+            "quickSearch": 1,
+            "searchable": 1,
+            "ext": ""
+        },
     {
       "key": "KanSJ_spider",
       "name": "🦅看视界(SP)",
@@ -161,6 +162,15 @@
       "filterable": 0,
       "ext": "https://raw.githubusercontent.com/fifity2020/zy/main/xp/经典MV.json"
    },
+   { 
+       "key": "t4public",
+       "name":"T4公共",
+       "type": 4,
+       "api":"https://t4.secan.icu/vod?sites=all&ali_token=4acb3ad2f2254ba1b566279f7cd98ba3&timeout=10", 
+       "searchable": 1,
+       "quickSearch": 1,
+       "filterable": 0
+    },
      {
        "key": "zhibo",
        "name": "🔥直播合集",
@@ -267,16 +277,6 @@
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-
-    {
-      "key": "csp_360官源",
-      "name": "💘360官源(SP)",
-      "type": 3,
-      "api": "csp_SP360",
-      "searchable": 0,
       "quickSearch": 1,
       "filterable": 1
     },
@@ -441,6 +441,15 @@
       "filterable": 1,
       "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
     },
+   {
+       "key":"csp_Alips",
+       "name":"🐱喵搜(搜索)",
+       "type":3,
+       "api":"csp_AliPanSou",
+       "searchable":1,
+       "quickSearch":1,
+       "filterable":0,
+       "ext": "59744816075f4729bc00cd23b98e3447"},
     {
       "key": "FindZY",
       "name": "👓找资源",

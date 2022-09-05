@@ -1,0 +1,73 @@
+{
+"sites": [
+{"key":"csp_Xiangjiao","name":"new香蕉","type":3,"api":"csp_Xiangjiao","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Hu4","name":"四虎","type":3,"api":"csp_Hu4","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/ext/Xiangjiao.txt"},
+{"key":"csp_Banana","name":"Banana","type":3,"api":"csp_Banana","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/ext/Xiangjiao.txt"},
+{"key":"csp_Banana2","name":"Banana2","type":3,"api":"csp_Banana2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/ext/Xiangjiao.txt"},
+{"key":"csp_xbb_2022xxj","name":"💪香蕉综合网","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/rrzt/box/raw/branch/main/sub/MeowXB/18/2022xxj"},
+{"key":"csp_xbb_xjxj88","name":"🍌香蕉视频","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/rrzt/box/raw/branch/main/sub/MeowXB/18/xjxj88"},
+{"key":"csp_xbb_Gaoaa","name":"🍐大秀福利","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/rrzt/box/raw/branch/main/sub/MeowXB/18/gaoaa"},
+{"key":"csp_xbb_hscangku","name":"🧀黄仓库","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/rrzt/box/raw/branch/main/sub/MeowXB/18/hscangku"},
+{"key":"csp_biubiu_爱看影院","name":"爱看影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/爱看影院.json"},
+{"key":"csp_biubiu_黄仓库","name":"黄仓库(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/黄仓库.json"},
+{"key":"csp_biubiu_黄颜仓库","name":"黄颜仓库(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/黄颜仓库.json"},
+{"key":"csp_biubiu_麻豆传媒","name":"麻豆传媒(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/麻豆传媒.json"},
+{"key":"csp_biubiu_麻豆AV","name":"麻豆AV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/麻豆AV.json"},
+{"key":"csp_biubiu_四虎影院","name":"四虎影院(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/四虎影院.json"},
+{"key":"csp_biubiu_4K狗午夜版","name":"4K狗午夜版(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/4K狗午夜版.json"},
+{"key":"csp_biubiu_聚优AV","name":"聚优AV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/聚优AV.json"},
+{"key":"csp_biubiu_GAOAA","name":"GAOAA(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/GAOAA.json"},
+{"key":"csp_biubiu_GimyTV","name":"GimyTV(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/houxian/json/raw/branch/master/XBAdult/GimyTV.json"},
+{"key":"csp_appysv2_天天视频","name":"※天天视频(M)","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":0,"filterable":1,"ext":"http://app.qianju.cc/api.php/v1.vod"},
+{"key": "*AIvin","name": "*AIvin","type": 0,"api": "http://lbapiby.com/api.php/provide/vod/at/xml"},
+{"key":"ck","name":"🎀CK资源","type":0,"api":"https://ckzy.me/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"kd","name":"🎀酷豆","type":0,"api":"https://api.kdapi.info/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"kulunli","name":"🎀酷伦理","type":1,"api":"https://api.kudian70.com/api.php/provide/vod/","searchable":1,"quickSearch":1,"filterable":1},
+{"key": "csp_xbb_linyun", "name":"凌云","type":3,"api":"csp_XBiubiu","searchable": 1, "quickSearch": 1,"filterable": 1,"ext":"https://gitea.com/RRZT/box/raw/branch/main/linyunyingshi.json"}
+],
+"parses":[
+{"name":"解析聚合","type":3,"url":"Demo"},
+{"name":"Json并发","type":2,"url":"Parallel"},
+{"name":"Json轮询","type":2,"url":"Sequence"}
+],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vaG91eGlhbi9qc29uL3Jhdy9icmFuY2gvbWFzdGVyL2xpdmVzL0xpdmVBZHVsdC50eHQ="]}]}],
+"spider":"https://gitea.com/houxian/json/raw/branch/master/jar/my_spider.jar",
+"flags":["youku","qq","iqiyi","qiyi","letv","sohu","tudou","pptv","mgtv","wasu","bilibili","renrenmi"],
+"ijk":[
+{"group":"软解码","options":[
+{"category":4,"name":"opensles","value":"0"},
+{"category":4,"name":"overlay-format","value":"842225234"},
+{"category":4,"name":"framedrop","value":"1"},
+{"category":4,"name":"soundtouch","value":"1"},
+{"category":4,"name":"start-on-prepared","value":"1"},
+{"category":1,"name":"http-detect-range-support","value":"0"},
+{"category":1,"name":"fflags","value":"fastseek"},
+{"category":2,"name":"skip_loop_filter","value":"48"},
+{"category":4,"name":"reconnect","value":"1"},
+{"category":4,"name":"enable-accurate-seek","value":"0"},
+{"category":4,"name":"mediacodec","value":"0"},
+{"category":4,"name":"mediacodec-auto-rotate","value":"0"},
+{"category":4,"name":"mediacodec-handle-resolution-change","value":"0"},
+{"category":4,"name":"mediacodec-hevc","value":"0"},
+{"category":1,"name":"dns_cache_timeout","value":"600000000"}
+]},
+{"group":"硬解码","options":[
+{"category":4,"name":"opensles","value":"0"},
+{"category":4,"name":"overlay-format","value":"842225234"},
+{"category":4,"name":"framedrop","value":"1"},
+{"category":4,"name":"soundtouch","value":"1"},
+{"category":4,"name":"start-on-prepared","value":"1"},
+{"category":1,"name":"http-detect-range-support","value":"0"},
+{"category":1,"name":"fflags","value":"fastseek"},
+{"category":2,"name":"skip_loop_filter","value":"48"},
+{"category":4,"name":"reconnect","value":"1"},
+{"category":4,"name":"enable-accurate-seek","value":"0"},
+{"category":4,"name":"mediacodec","value":"1"},
+{"category":4,"name":"mediacodec-auto-rotate","value":"1"},
+{"category":4,"name":"mediacodec-handle-resolution-change","value":"1"},
+{"category":4,"name":"mediacodec-hevc","value":"1"},
+{"category":1,"name":"dns_cache_timeout","value":"600000000"}
+]}
+],
+"ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"]
+}

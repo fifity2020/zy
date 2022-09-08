@@ -324,7 +324,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://agit.ai/1264237790/f8d22b54864ac374/raw/branch/master/258602"
+      "jar":"https://raw.githubusercontent.com/fifity2020/zy/main/ayt.jar;3c40dbcb8082364e1c416ebc3e219e6a"
     },
     {
       "key": "爱奇艺",
@@ -334,7 +334,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://agit.ai/1264237790/f8d22b54864ac374/raw/branch/master/258602"
+      "jar":"https://raw.githubusercontent.com/fifity2020/zy/main/ayt.jar;3c40dbcb8082364e1c416ebc3e219e6a"
     },
     {
       "key": "csp_MGTV",
@@ -344,7 +344,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://agit.ai/1264237790/f8d22b54864ac374/raw/branch/master/258602"
+      "jar":"https://raw.githubusercontent.com/fifity2020/zy/main/ayt.jar;3c40dbcb8082364e1c416ebc3e219e6a"
     },
     {
       "key": "csp_appysv2_amhys",
@@ -489,29 +489,8 @@
        "filterable":0,
        "ext":"https://raw.githubusercontent.com/fifity2020/zy/main/xp/alist.json",
        "jar": "https://github.com/fifity2020/zy/raw/main/custom_spider.jar"
-      },
-      {
-       "key": "csp_biubiu_测试1",
-       "name": "🔥测试1(XB)",
-       "type": 3,
-       "api": "csp_XYQBiu",
-       "searchable": 1,
-       "quickSearch": 1,
-       "filterable": 0,
-        "ext": "http://catvod.fun:8001/tv/18/新媒体.json",
-        "jar": "http://catvod.fun:8001/tv/index.jar"
-      },
-	{
-		"key": "csp_biubiu_测试",
-		"name": "🔥测试(XB)",
-		"type": 3,
-		"api": "csp_XYQBiu",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 0,
-		"ext": "http://catvod.fun:8001/tv/18/香蕉资源.json"
-	}
- ],
+      }
+   ],
   "lives": [
     {
       "group": "redirect",

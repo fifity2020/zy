@@ -324,7 +324,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://raw.githubusercontent.com/fifity2020/zy/main/ayt.jar;3c40dbcb8082364e1c416ebc3e219e6a"
+      "jar":"https://raw.githubusercontent.com/fifity2020/zy/main/ayt.jar;md5;3c40dbcb8082364e1c416ebc3e219e6a"
     },
     {
       "key": "爱奇艺",
@@ -334,7 +334,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://raw.githubusercontent.com/fifity2020/zy/main/ayt.jar;3c40dbcb8082364e1c416ebc3e219e6a"
+      "jar":"https://raw.githubusercontent.com/fifity2020/zy/main/ayt.jar;md5;3c40dbcb8082364e1c416ebc3e219e6a"
     },
     {
       "key": "csp_MGTV",
@@ -344,7 +344,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://raw.githubusercontent.com/fifity2020/zy/main/ayt.jar;3c40dbcb8082364e1c416ebc3e219e6a"
+      "jar":"https://raw.githubusercontent.com/fifity2020/zy/main/ayt.jar;md5;3c40dbcb8082364e1c416ebc3e219e6a"
     },
     {
       "key": "csp_appysv2_amhys",

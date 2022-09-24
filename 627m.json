@@ -121,7 +121,7 @@
       "quickSearch": 1,
       "filterable": 1,
      "ext": "https://raw.githubusercontent.com/fifity2020/zy/main/xp/bili.json",
-     "jar": "https://raw.githubusercontent.com/fifity2020/zy/main/云星bili.jar"
+     "jar": "https://raw.githubusercontent.com/fifity2020/zy/main/jar/云星bili.jar"
     },
     {
       "key": "演唱会",
@@ -132,7 +132,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://raw.githubusercontent.com/fifity2020/zy/main/xp/演唱会.json",
-      "jar":"https://raw.githubusercontent.com/fifity2020/zy/main/云星bili.jar"
+      "jar":"https://raw.githubusercontent.com/fifity2020/zy/main/jar/云星bili.jar"
     },
     {
       "key": "足球",
@@ -324,7 +324,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://raw.githubusercontent.com/fifity2020/zy/main/ayt.jar;md5;3c40dbcb8082364e1c416ebc3e219e6a"
+      "jar":"https://raw.githubusercontent.com/fifity2020/zy/main/jar/ayt.jar;md5;3c40dbcb8082364e1c416ebc3e219e6a"
     },
     {
       "key": "爱奇艺",
@@ -334,7 +334,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://raw.githubusercontent.com/fifity2020/zy/main/ayt.jar;md5;3c40dbcb8082364e1c416ebc3e219e6a"
+      "jar":"https://raw.githubusercontent.com/fifity2020/zy/main/jar/ayt.jar;md5;3c40dbcb8082364e1c416ebc3e219e6a"
     },
     {
       "key": "csp_MGTV",
@@ -344,7 +344,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://raw.githubusercontent.com/fifity2020/zy/main/ayt.jar;md5;3c40dbcb8082364e1c416ebc3e219e6a"
+      "jar":"https://raw.githubusercontent.com/fifity2020/zy/main/jar/ayt.jar;md5;3c40dbcb8082364e1c416ebc3e219e6a"
     },
     {
       "key": "csp_appysv2_amhys",

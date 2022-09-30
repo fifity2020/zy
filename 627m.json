@@ -663,8 +663,7 @@
 		},
 
 		{
-			"key": ""
-			csp_Alist ",
+			"key": "csp_Alist",
 			"name": "🅿️Alist合集(SP)",
 			"type": 3,
 			"api": "csp_Alist",

@@ -92,16 +92,17 @@
 			"quickSearch": 1,
 			"filterable": 0
 		},
+                              
 		{
-			"key": "B站",
+			"key": "Bili",
 			"name": "🅱Bilibili(SP)",
 			"type": 3,
 			"api": "csp_Bili",
-			"searchable": 0,
+			"searchable": 1,
 			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://fifity2020.github.io/zy/xp/bili.json",
-			"jar": "https://fifity2020.github.io/zy/jar/gg0925.jar"
+			"jar": "https://fifity2020.github.io/zy/jar/bili.jpg"
 		},
 		{
 			"key": "演唱会",
@@ -112,18 +113,18 @@
 			"quickSearch": 0,
 			"filterable": 1,
 			"ext": "https://fifity2020.github.io/zy/xp/演唱会.json",
-			"jar": "https://fifity2020.github.io/zy/jar/gg0925.jar"
+			"jar": "https://fifity2020.github.io/zy/jar/bili.jpg"
 		},
 		{
-			"key": "足球",
-			"name": "💕足球",
+			"key": "球类",
+			"name": "💕球类",
 			"type": 3,
 			"api": "csp_Bili",
-			"searchable": 0,
-			"quickSearch": 0,
+			"searchable": 1,
+			"quickSearch": 1,
 			"filterable": 1,
 			"ext": "https://fifity2020.github.io/zy/xp/足球.json",
-			"jar": "https://fifity2020.github.io/zy/jar/gg0925.jar"
+			"jar": "https://fifity2020.github.io/zy/jar/bili.jpg"
 		},
 		{
 			"key": "csp_XYQBiu_短视频",
@@ -133,7 +134,8 @@
 			"searchable": 0,
 			"quickSearch": 0,
 			"filterable": 0,
-			"ext": "https://fifity2020.github.io/zy/xp/短视频.json"
+			"ext": "https://fifity2020.github.io/zy/xp/短视频.json,
+                                                "jar":"http://maoyingshi.cc/tvbox/云星日记/jar/短视频.jar"
 		},
 		{
 			"key": "csp_xpath_kuqimv",
@@ -636,7 +638,16 @@
 			"filterable": 1,
 			"ext": "http://catvod.fun:8001/tv/XP/yinfans.json"
 		},
-
+                               {
+                                             "key":"csp_Alist",
+                                             "name":"Alist┃网盘",
+                                             "type":3,
+                                             "api":"csp_Alist",
+                                             "searchable":1,
+                                             "quickSearch":1,
+                                             "filterable":1,
+                                             "ext":"http://刚刚.live/json/alist.json"
+                                },
 		{
 			"key": "csp_Alist",
 			"name": "🅿️Alist合集(SP)",

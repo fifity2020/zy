@@ -639,7 +639,7 @@
 			"ext": "http://catvod.fun:8001/tv/XP/yinfans.json"
 		},
                                {
-                                             "key":"csp_Alist",
+                                             "key":"csp_alist",
                                              "name":"Alist┃网盘",
                                              "type":3,
                                              "api":"csp_Alist",
@@ -649,7 +649,7 @@
                                              "ext":"http://刚刚.live/json/alist.json"
                                 },
 		{
-			"key": "csp_Alist",
+			"key": "csp_alist",
 			"name": "🅿️Alist合集(SP)",
 			"type": 3,
 			"api": "csp_Alist",

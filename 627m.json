@@ -1,15 +1,7 @@
 {
 	"spider": "https://github.com/fifity2020/zy/raw/main/0928.jar",
 	"sites": [{
-			"key": "Ikan",
-			"name": "🐞爱看",
-			"type": 3,
-			"api": "csp_IKan",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-		},
-		{
+			
 			"key": "csp_77",
 			"name": "👒酷云七七(SP)",
 			"type": 3,
@@ -650,11 +642,11 @@
 			"name": "🅿️Alist合集(SP)",
 			"type": 3,
 			"api": "csp_Alist",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
+			"searchable": 1,
+			"quickSearch": 1,
+			"filterable": 1,
 			"ext": "https://fifity2020.github.io/zy/jar/xp/alist.json",
-			"jar": "https://fifity2020.github.io/zy/jar/custom_spider.jar"
+			"jar": "https://fifity2020.github.io/zy/jar/gg0925.jar"
 		}
 	],
 	"lives": [{

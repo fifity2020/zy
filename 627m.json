@@ -649,7 +649,7 @@
                                              "ext":"http://刚刚.live/json/alist.json"
                                 },
 		{
-			"key": "csp_alist",
+			"key": "csp_Alist",
 			"name": "🅿️Alist合集(SP)",
 			"type": 3,
 			"api": "csp_Alist",

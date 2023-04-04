@@ -1,0 +1,28 @@
+500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
+CRI 环球资讯广播 FM90.5,http://sk.cri.cn/905.m3u8
+CRI Hit FM FM88.7,http://sk.cri.cn/887.m3u8
+CRI 轻松调频 FM91.5,http://sk.cri.cn/915.m3u8
+CRI NEWS Plus AM846,http://sk.cri.cn/am846.m3u8
+CRI NEWS Plus AM1008,http://sk.cri.cn/am1008.m3u8
+CRI 怀旧金曲频道,https://lhttp.qingting.fm/live/5022038/64k.mp3
+CNR 经典音乐广播 101.8,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+Asia FM,https://lhttp.qingting.fm/live/5022405/64k.mp3
+Asia FM亚洲经典台,https://lhttp.qingting.fm/live/5021912/64k.mp3
+清晨音乐台,http://lhttp.qingting.fm/live/4915/64k.mp3
+北京好音乐广播,https://lhttp.qingting.fm/live/5021381/64k.mp3
+北京音乐广播 FM97.4,http://ls.qingting.fm/live/332.m3u8
+上海经典947音乐广播,http://lhttp.qingting.fm/live/267/64k.mp3
+河南古典天籁,http://stream.hndt.com/live/gudian/chunklist_w1085892077.m3u8
+AsiaFM亚洲音乐台,https://lhttp.qingting.fm/live/4581/64k.mp3
+台湾古典音乐台Classical FM 97.7,http://59.120.88.155:8000/live.mp3
+CNR音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
+CNR经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+经典FM,http://stream3.hndt.com/now/C5NvUpwy/playlist.m3u8
+有声文摘,http://stream3.hndt.com/now/WNoVfBcQ/playlist.m3u8
+天籁古典,http://stream3.hndt.com/now/MdOpB4zP/playlist.m3u8
+Relax & Unwind,http://rfcmedia.streamguys1.com/relaxationpremium.mp3
+Smooth Jazz,http://rfcmedia.streamguys1.com/smoothjazzpremium.mp3
+Coffee House,http://rfcmedia.streamguys1.com/coffeehousepremium.mp3
+Class FM,http://22393.live.streamtheworld.com/CLASS95.mp3
+BBC News,https://utulsa.streamguys1.com/KWGSHD3-MP3
+CNBC Radio,https://tunein.streamguys1.com/cnbc

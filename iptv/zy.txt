@@ -2,3 +2,111 @@ AD,#genre#
 FashionTV Midnight Secrets,https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 Miami TV,https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/playlist.m3u8
 SexArt,http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6253/index.m3u8
+4K,#genre#
+苏州4k,http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
+高清风景,http://185.57.68.33:8091/232/playlist.m3u8
+4k影视,http://nas.jdshipin.com:8801/4kys.php
+北京淘电影,http://r.jdshipin.com/OeHMu
+法国时尚,https://fashs043.cloudycdn.services/scte/sftv2/playlist.m3u8
+法国时尚4K,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
+爱自然4k,https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+爱自然,http://95.67.12.82:9098/
+湖南卫视4K,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+深圳卫视4k,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001342/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
+CCTV3 4K,http://[2409:8087:2001:20:2800:0:df6e:eb20]/ott.mobaibox.com/PLTV/4/224/3221228499/index.m3u8
+CCTV5 4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
+CCTV6 4K,http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228516/index.m3u8
+CCTV8 4K,http://[2409:8087:2001:20:2800:0:df6e:eb26]/ott.mobaibox.com/PLTV/4/224/3221228578/index.m3u8
+历史频道,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/231/index.m3u8
+好莱坞,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/209/index.m3u8
+好莱坞,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/557/index.m3u8
+宝莱坞,http://213.226.69.130/iptv/BF9GWX8VNPYM9X/239/index.m3u8
+迪士尼,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/351
+动作电影,http://51.83.238.223:16703/
+韩国劲片,http://a23.iptv11.com/977/video.m3u8?token=95C80E0B63D1B
+韩国劲片,http://serv7.iptv11.com/977/video.m3u8?token=95C80E0B63D1B
+韩剧频道,http://91.216.173.39:10120/play/a004
+阿里郎,http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+TV XXI,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/525/index.m3u8
+FashionBox HD,http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/228/stream.m3u8
+Film Now,http://myteve.online:8080/34223073/2cdb1b8d70/2239
+http://204.199.120.34:16123/play/ch50
+BOX Relax 4K,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/19283/index.m3u8
+Home 4K,http://aa7bc0b4.akadatel.com/iptv/ED8DTMPASXMV7Q/4002/index.m3u8
+Home 4K,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/4002/index.m3u8
+BOX Remast 4K,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/20158/index.m3u8
+3,http://88.135.128.20:7272/Tujrl3B6ZZcnOYY
+6,http://bigteisti6.cdn.lifeyosso.fun:56371/TV6_HD/video.m3u8?token=QkxBREV8fE5UWnhOalJ4TXpWeA==
+MiTV Фронт,http://a23.iptv11.com/988/video.m3u8?token=95C80E0B63D1B
+MiTV Фронт,http://serv7.iptv11.com/988/video.m3u8?token=95C80E0B63D1B
+14013,http://makeev.cbilant.com/iptv/L5X3Z2R8237RKM/14013/index.m3u8
+Eye Cyber HD,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/20220/index.m3u8
+KinoJam 1,http://gmx9up2a.ottclub.xyz/iptv/9DEUPF9K25U84K/7260/index.m3u8
+FilmZone EE,http://89.254.128.5:22280/film_zone/tracks-v1a1/mono.m3u8
+DHE,http://181.204.21.164:8000/play/a09j/index.m3u8
+CINEMAX,http://64.31.40.14:14031
+PROKOP KUNG FUhttp://158.101.194.132:8888/channel/n6cd831ec/index.m3u8?q=4df2c8476b65d08b14ea2ee952704335
+NTV,http://109.239.138.241:8000/ntvnn
+Service01 HD,http://109.239.138.241:8000/tv3plus4
+EX,http://c673b3a3.tunnel.freedvb.com:8080/?freq=11605&sr=44999&msys=dvbs&pol=h&pids=0,17,18,20,413,1413,2413,4413&sat=40&tp=31&sid=413&pmt=413&ca=1&lock=0&caid=0602&vpid=1413&apid=2413&fav=0&longitude=800&prog=212&wkey=&token=31415926
+World Fashion Channel,http://94.228.204.166:8000/play/0089
+fashiontv,http://c673b3a3.tunnel.freedvb.com:8080/?freq=11542&sr=44999&msys=dvbs&pol=h&pids=0,17,18,20,826,1826,2826&sat=40&tp=30&sid=826&pmt=826&ca=1&lock=0&caid=0bc1&vpid=1826&apid=2826&fav=0&longitude=800&prog=169&wkey=&token=31415926
+D,https://dom-live-megafon2.mediavitrina.ru/hls-livef1/ctc-dom/tracks-v5a1/mono.m3u8
+F,http://balkan-live.net:80/Halid1234/Halid1234/60396?join.the.Billybob.fan.club!
+E!,http://dns.acaidopara.net:8080/domingas001/s5fk2kvbts/1588
+frii,https://live-fi.tvkaista.net/frii/live.m3u8
+SYFY HD,http://62.210.220.21:7777/play/a00y
+SYFY,http://168.181.122.234:8000/play/a03c/index.m3u8
+SYFY,http://167.250.39.130:8000/play/syfy
+SYFY,http://138.219.58.234:8112/
+SYFY,http://38.96.178.201/live/SYFYHD/index.m3u8
+CINE ACTION FULL HD,http://62.210.220.21:7777/play/a00f
+NBA FULL HD,http://62.210.220.21:7777/play/a01g
+food,http://dns.panela.online:80/amandafr/amdfr0064/231609
+KTOP,https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/oakland/G0219_002/playlist.m3u8
+Premium Action,http://pro-solut-xi.eu:5436/bossna/testiptvvv/10072
+Animax HD,http://vthanhtivi.pw:5000/animax/index.m3u8
+FASHIONTV HD,http://main.xplus2-main.xyz:2082/xplus-2-W20pTJnEIu/tYOwRMIuwy/878
+adult swim,http://167.250.39.130:8000/play/a0u0
+axnblack,https://cdn-main.lolokoko.tv/axnblack.stream/chunks.m3u8
+playboy,http://181.78.208.254:8010/play/a04e/index.m3u8
+SYFY,http://181.205.130.194:4000/play/a06v/index.m3u8
+FilmBoxExtra,https://cdn-main.lolokoko.tv/FilmBoxExtra.stream/chunks.m3u8
+Абаза ТВ,http://watcher-node4.apsny.camera/tv_abaza_tv/tracks-v1a1/mono.m3u8 
+solidariatv,https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
+TRANCE IS STAR,https://tis.catcast.tv/content/391/index.m3u8
+Индийское Кино:Классика,https://v2.catcast.tv/content/41596/index.m3u8
+Детское Кино International,https://v2.catcast.tv/content/38720/index.m3u8
+SONYSAB,http://tv.cloudcdn.me:80/live.ts?channelId=260&deviceMac=00:1A:79:0A:3B:2D
+AMC HD,https://bcovlive-a.akamaihd.net/94e1185924514d0694019d24cfca7121/us-east-1/6240731308001/playlist.m3u8
+HK Now Premier Sports 6,http://abc123.digital:8080/jesselewis39562@yahoo.com/c8PdnKX569/425337
+Tv Clube Web,https://5c483b9d1019c.streamlock.net/8186/8186/playlist.m3u8
+VIYANA,http://nrttn172.kesintisizyayin.com:29010/nrttn/nrttn/playlist.m3u8
+ESPN,http://gameplay.p2sweb.me:80/live/xavs32/4521ars/248028.m3u8
+Pop Max,https://live-sonybebanjo.simplestreamcdn.com/live8/popmax/bitrate1.isml/live.m3u8
+MTV,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2062.ts
+MTV N,http://194.145.202.71:8087/udp/239.254.5.232:6060
+Nat Geo Wild,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2047.ts
+National Geographic,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2037.ts
+NBA TV,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2309.ts
+NBC News Now,http://watchindia.net:8880/live/dharm23/qVir1fHdBn/2580.ts
+NRT NEWS,https://media.streambrothers.com:1936/8226/8226/chunklist_w258355848.m3u8
+Kurdistan24 Tv,https://d1x82nydcxndze.cloudfront.net/live/index_240p25.m3u8
+rudaw,https://svs.itworkscdn.net/rudawlive/rudawlive.smil/rudawpublish/rudawtv/chunks.m3u8
+半島新聞台,http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+半島電視台,http://live-hls-web-aja.getaj.net/AJA/02.m3u8
+半島電視台,http://live-hls-web-aja.getaj.net/AJA/index.m3u8
+半島電視台,https://raw.githubusercontent.com/etag2000/IPTV/YTlive/aljazeera.m3u8
+ARTI,http://213.200.228.111:8000/play/M74x2dYhK9pP6Hqm2RKn/index.m3u8
+tvfy,https://daiconnect.com/live/hls/tvup/tvfy-filmco/56f0832110a1bbaecc3a45a27ddba1d9/.m3u8
+KLI,http://185.246.66.143:8000/channel/23e3b8eb/index.ts?q=fcb604c07e3f19c73a883bedb3051ccc
+FX Movies,http://45.5.119.155:8090/play/a0gx/index.m3u8
+A&E,http://199.127.60.83:16002/
+AMC,http://gameplay.p2sweb.me:80/roquee40/192ro840pa/204595
+MM UFO HD,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/13017/index.m3u8
+MS Young Blood,http://rhsbjv7k.tvclub.xyz/iptv/QUSEF3A55UE6BF/16147/index.m3u8
+DISNEY CHANNEL  4K,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/351
+FOOD NETWORK 4K,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/104
+HBO 2 4K,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/247
+SONY CHANNEL HD,http://main.xplus2-main.xyz:2082/Tourobox1-acV3ehQRnK/NMcHidbUhZ/238
+rotana c,http://febe3641.tunnel.freedvb.com:8080/?freq=12227&sr=27500&msys=dvbs&pol=h&pids=0,17,18,20,102,2104,2105&sat=84&tp=133&sid=2102&pmt=102&ca=0&lock=0&caid=1fff&vpid=2104&apid=2105&fav=0&longitude=3530&prog=869&wkey=&token=31415926

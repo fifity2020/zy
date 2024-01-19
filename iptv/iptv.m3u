@@ -21,9 +21,5 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a
 
 #EXTINF:1 group-title="AD",FashionTV Midnight Secrets
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:1 group-title="AD",Miami TV
-https://59ec5453559f0.streamlock.net/miamitv/smil:WEB3131/playlist.m3u8
-#EXTINF:1 group-title="AD",SexArt
-http://d3opspehgd3862dmfdp3sdf.siauliairsavlt.org/iptv/3VUUVVRYT8GSD8/6253/index.m3u8
 #EXTINF:1 group-title="AD",MetArt HD
 http://87c576b1.cbilant.com/iptv/XP2DFA2ML2YEFG/6233/index.m3u8

@@ -133,11 +133,11 @@ http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/32212
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 
 #纪实人文
-#EXTINF:-1 tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601220545963180_45.png" group-title="纪实人文",Fashion 4K
+#EXTINF:-1 tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/FashionTV.png" group-title="纪实人文",Fashion 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:1 tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601220545963180_45.png" group-title="纪实人文",FashionTV Midnight Secrets
+#EXTINF:1 tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/FashionTV.png" group-title="纪实人文",FashionTV Midnight Secrets
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601220545963180_45.png" group-title="纪实人文",Fashion TV
+#EXTINF:-1 tvg-logo="https://github.com/wanglindl/TVlogo/blob/main/img/FashionTV.png" group-title="纪实人文",Fashion TV
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1,tvg-logo="https://epg.pw/media/uploads/tmp_logo/2014/06/01/20140601220545963180_45.png" group-title="纪实人文",FashionBox HD
 http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/228/stream.m3u8
@@ -149,12 +149,6 @@ http://[2409:8087:1e03:21::2]:6060/cms001/ch00000090990000001199/index.m3u8
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226351/1.m3u8
 #EXTINF:-1,tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://epg.112114.xyz/logo/新视觉.png" group-title="纪实人文",新视觉
 https://live3.rxip.sc96655.com/live/ycxsjH265_4000.m3u8
-#EXTINF:-1,tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://epg.112114.xyz/logo/纪实人文.png" group-title="纪实人文",纪实人文
-http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226174/1.m3u8
-#EXTINF:-1,tvg-id="纪实人文" tvg-name="纪实人文" tvg-logo="https://epg.112114.xyz/logo/纪实人文.png" group-title="纪实人文",纪实人文
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226230/index.m3u8
-#EXTINF:-1,tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://epg.112114.xyz/logo/生活时尚.png" group-title="纪实人文",生活时尚
-http://[2409:8087:74F1:0021::0008]/PLTV/88888888/224/3221226358/1.m3u8
 #EXTINF:-1 tvg-name="纪实科教" group-title="纪实人文",纪实科教「IPV6」
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Qiusuo1.png" group-title="纪实人文",求索纪录
@@ -173,8 +167,6 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 group-title="纪实人文",Pluto TV History
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a4d35dfa5c02e717a234f86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5a4d35dfa5c02e717a234f86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=651&terminate=false&userId=
-#EXTINF:-1 tvg-id="Food Network" tvg-name="Food Network" tvg-logo="https://epg.112114.xyz/logo/FOOD.png" group-title="纪实人文",Food Network
-http://38.96.178.201:80/live/FoodNetwork/index.m3u8
 #EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://epg.112114.xyz/logo/discovery.png" group-title="纪实人文",Discovery Channel
 http://38.96.178.201:80/live/Discovery/index.m3u8
 

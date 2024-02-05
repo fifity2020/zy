@@ -27,7 +27,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/32212283
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="A05" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
 http://[2409:8087:2001:20:2800:0:df6e:eb22]/ott.mobaibox.com/PLTV/4/224/3221228502/index.m3u8
-#EXTINF:-1 tvg-id="A06" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5plus.png" group-title="央视",CCTV-5+ 体育赛事
+#EXTINF:-1 tvg-id="A06" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001334/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="A07" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视",CCTV-6 电影
 http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/ott.mobaibox.com/PLTV/4/224/3221228123/index.m3u8
@@ -133,8 +133,10 @@ http://[2409:8087:2001:20:2800:0:df6e:eb22]:80/ott.mobaibox.com/PLTV/3/224/32212
 http://[2409:8087:2001:20:2800:0:df6e:eb19]:80/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视IPV6",凤凰香港
 http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
-#EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="卫视",上海ICS
+#EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="卫视IPV6",上海ICS
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="卫视IPV6",上海都市
+http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
 
 #纪实人文
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="纪实人文",Fashion 4K

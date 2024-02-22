@@ -17,8 +17,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="直播中国" group-title="4K",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1 tvg-name="cctv4k" group-title="4K",CCTV4K
-http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233679/index.m3u8
 
 #央视
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
@@ -166,8 +164,6 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-name="北京纪实"  group-title="纪实人文",北京纪实8K
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-
-
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="纪实人文",求索纪录
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 #EXTINF:-1  tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="纪实人文",求索科学

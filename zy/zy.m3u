@@ -180,8 +180,6 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1,tvg-id="National Geographic " tvg-name="National Geographic " tvg-logo="https://live.fanmingming.com/tv/natgeo.png.png " group-title="纪实人文",National Geographic 
 http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
-#EXTINF:-1 tvg-name="新视觉" group-title="纪实人文",新视觉
-http://php.jdshipin.com:8880/bst.php?id=xsjhd/4000000
 
 
 #国际
@@ -201,12 +199,14 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #咪咕体育
+http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8
+#EXTINF:-1,tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕体育
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226504/1.m3u8
+#EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://cdn.jsdelivr.net/gh/fifity2020/zy@main/logo/咪咕足球.png" group-title="咪咕",咪咕足球
+http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw336955688_-567193112/ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8?icpid=3&RTS=1674380452&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播4K-1
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播4K-2
-http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8
-#EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://cdn.jsdelivr.net/gh/fifity2020/zy@main/logo/咪咕足球.png" group-title="咪咕",咪咕足球
-http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw336955688_-567193112/ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8?icpid=3&RTS=1674380452&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-1
 http://[2409:8087:1a01:df::4023]/PLTV/88888888/224/3221225611/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播-2

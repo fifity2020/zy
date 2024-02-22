@@ -21,6 +21,8 @@ http://106.39.160.148/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlis
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1 tvg-name="直播中国" group-title="4K",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-name="cctv4k" group-title="4K",CCTV4K
+http://kjsp.aikan.miguvideo.com/PLTV/88888888/224/3221233679/index.m3u8
 
 #央视
 #EXTINF:-1 tvg-id="A01" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合

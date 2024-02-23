@@ -140,31 +140,32 @@ http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000030951/index.
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="卫视",上海都市
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="魅力足球" group-title="卫视",魅力足球
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002263/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-
+http://dl.ye23.win/iptv/cbnbntv.php?id=mlzqHD
+#EXTINF:-1 tvg-name="魅力足球" group-title="卫视",魅力足球
+https://tv.iill.top/cqyx/mlzqHD
 
 #纪实人文
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="纪实人文",Fashion 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="纪实人文",FashionTV Midnight Secrets
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="纪实人文",FashionTV Midnight Secrets
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="纪实人文",Fashion TV
 http://91.247.68.229:8000/play/Fashion/index.m3u8
-#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/fashiontv.png",FashionTV+ Paris 
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="纪实人文",FashionTV+ Paris 
 https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
-#EXTINF:-1 tvg-name="LoveNrture" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png"group-title="纪实人文",Love Nrture 4K
+#EXTINF:-1  tvg-name="LoveNrture" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png"group-title="纪实人文",Love Nrture 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="纪实人文",纪实人文
+#EXTINF:-1  tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="纪实人文",上海纪实
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/wh7f454c46tw1293235676_155310184/ott.mobaibox.com/PLTV/3/224/3221227635/index.m3u8?icpid=3&RTS=1669704189&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
-#EXTINF:-1,tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/jinyingjishi.png" group-title="纪实人文",金鹰纪实
+#EXTINF:-1  tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/jinyingjishi.png" group-title="纪实人文",金鹰纪实
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226351/1.m3u8
-#EXTINF:-1,tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="纪实人文",乐游
+#EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="纪实人文",乐游
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226580/1.m3u8
-#EXTINF:-1 tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教" group-title="纪实人文",纪实科教
+#EXTINF:-1  tvg-name="纪实科教" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教" group-title="纪实人文",纪实科教
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 tvg-name="北京纪实"  group-title="纪实人文",北京纪实8K
+#EXTINF:-1  tvg-name="纪实科教"  tvg-logo="https://live.fanmingming.com/tv/北京纪实科教" group-title="纪实人文",北京纪实8K
 http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8
-#EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="纪实人文",求索纪录
+#EXTINF:-1  tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="纪实人文",求索纪录
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032052/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032052&livemode=1&stbId=3
 #EXTINF:-1  tvg-name="求索科学" tvg-logo="https://live.fanmingming.com/tv/求索科学.png" group-title="纪实人文",求索科学
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.m3u8?channel-id=wasusyt&Contentid=6000000002000032344&livemode=1&stbId=3
@@ -172,13 +173,13 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000032344/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.m3u8?channel-id=wasusyt&Contentid=6000000002000010046&livemode=1&stbId=3
 #EXTINF:-1  tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="纪实人文",求索生活
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
-#EXTINF:1 group-title="纪实人文" tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png",Bloomberg Quicktake
+#EXTINF:-1  tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="纪实人文",Bloomberg Quicktake
 https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="纪实人文",CGTN记录
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
-#EXTINF:-1 tvg-id="RTDoc" tvg-name="RTDoc" tvg-logo="https://live.fanmingming.com/tv/RTDoc.png" group-title="纪实人文",RT Documentary
+#EXTINF:-1  tvg-id="RTDoc" tvg-name="RTDoc" tvg-logo="https://live.fanmingming.com/tv/RTDoc.png" group-title="纪实人文",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
-#EXTINF:-1,tvg-id="National Geographic " tvg-name="National Geographic " tvg-logo="https://live.fanmingming.com/tv/natgeo.png.png " group-title="纪实人文",National Geographic 
+#EXTINF:-1 tvg-id="National Geographic " tvg-name="National Geographic " tvg-logo="https://live.fanmingming.com/tv/natgeo.png.png " group-title="纪实人文",National Geographic 
 http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
 
 
@@ -195,14 +196,14 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 http://38.96.178.201:80/live/FOXHD/index.m3u8
 #EXTINF:-1  tvg-name="NHK World" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NHKWorld.png" group-title="国际",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#EXTINF:-1, tvg-name="BLOOMBERGTV" tvg-logo="https://cdn.jsdelivr.net/gh/fifity2020/zy@main/logo/logo/BLOOMBERGTV.png" group-title="国际",Bloomberg TV+
+#EXTINF:-1  tvg-name="BLOOMBERGTV" tvg-logo="https://cdn.jsdelivr.net/gh/fifity2020/zy@main/logo/logo/BLOOMBERGTV.png" group-title="国际",Bloomberg TV+
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 #咪咕体育
-http://[2409:8087:1a01:df::4005]/PLTV/88888888/224/3221225651/index.m3u8
-#EXTINF:-1,tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕体育
-http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226504/1.m3u8
-#EXTINF:-1,tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://cdn.jsdelivr.net/gh/fifity2020/zy@main/logo/咪咕足球.png" group-title="咪咕",咪咕足球
+
+#EXTINF:-1  tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕体育
+http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
+#EXTINF:-1  tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://cdn.jsdelivr.net/gh/fifity2020/zy@main/logo/咪咕足球.png" group-title="咪咕",咪咕足球
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw336955688_-567193112/ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8?icpid=3&RTS=1674380452&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播4K-1
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8

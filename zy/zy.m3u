@@ -148,19 +148,19 @@ https://tv.iill.top/cqyx/mlzqHD
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="纪实人文",Fashion 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="纪实人文",FashionTV Midnight Secrets
-https://figarotv-live.freecaster.com/live/freecaster/figarotv.m3u8
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="纪实人文",FashionTV Midnight Secrets
 https://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="纪实人文",FashionTV Midnight Secrets
-http://62.210.209.138:41000/movie/v52/v43/6760.mp4
+https://fash1043.cloudycdn.services/slive/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="纪实人文",Fashion Television
 http://91.247.68.229:8000/play/Fashion/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="纪实人文",Fashion Television
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="纪实人文",FashionTV Czech&Slovak
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="纪实人文",FashionTV+ Paris 
 https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="纪实人文",Fashion TV Paris
-http://fash1043.cloudycdn.services/slive/ftv_paris_adaptive.smil/playlist.m3u8
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist_b680000_t64MzYwcA==.m3u8
 #EXTINF:-1  tvg-name="LoveNrture" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png"group-title="纪实人文",Love Nrture 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1  tvg-id="上海纪实" tvg-name="上海纪实" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="纪实人文",上海纪实

@@ -176,6 +176,8 @@ http://111.124.98.66:8188/rtp/238.255.2.195:5999
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",Fashion 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV Midnight Secrets
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV Midnight Secrets
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV + Paris
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -185,10 +187,11 @@ http://91.247.68.229:8000/play/Fashion/index.m3u8
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
-#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/W9MX.png" group-title="时尚",時裝頻道
-http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
-#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/MX.png" group-title="时尚",爱时尚
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000140630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=3
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV
+https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV,Global Fashion Channel 
+https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
+
 
 
 #国际
@@ -213,8 +216,6 @@ https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
 #EXTINF:-1  tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://cdn.jsdelivr.net/gh/fifity2020/zy@main/logo/咪咕足球.png" group-title="咪咕",咪咕足球
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw336955688_-567193112/ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8?icpid=3&RTS=1674380452&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
-#EXTINF:-1  tvg-id="咪咕音乐" tvg-name="咪咕音乐" tvg-logo="https://live.fanmingming.com/tv/咪咕音乐.png" group-title="咪咕",咪咕音乐
-http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225904/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播4K-1
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-name="咪咕直播" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="咪咕",咪咕直播4K-2

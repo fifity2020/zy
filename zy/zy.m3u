@@ -197,6 +197,8 @@ https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
 #国际
 #EXTINF:-1  tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ChannelAsia.png" group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
+#EXTINF:-1  tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ChannelAsia.png" group-title="国际",CNA
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 #EXTINF:-1 tvg-name="CNN HD" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",CNN新闻
 http://38.96.178.201:80/live/CNNHD/index.m3u8
 #EXTINF:-1 tvg-name="CNN HD" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",CNN新闻
@@ -209,6 +211,8 @@ http://abcnew.site:8880/3ca7123n11/ewfr543ds/2946
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1  tvg-name="NHK World" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NHKWorld.png" group-title="国际",NHK World
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1  tvg-name="NHK World" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NHKWorld.png" group-title="国际",NHK World
+https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 
 #咪咕体育
 

@@ -25,13 +25,13 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000010046/index.
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.m3u8?channel-id=wasusyt&Contentid=6000000002000003382&livemode=1&stbId=3
 #EXTINF:-1  tvg-name="BloombergTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png" group-title="记录",Bloomberg Quicktake
 https://bloomberg-quicktake-1-be.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="纪实人文",CGTN记录
+#EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="记录",CGTN记录
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1  tvg-id="RTDoc" tvg-name="RTDoc" tvg-logo="https://live.fanmingming.com/tv/RTDoc.png" group-title="记录",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 #EXTINF:-1 tvg-id="National Geographic " tvg-name="National Geographic " tvg-logo="https://live.fanmingming.com/tv/natgeo.png.png " group-title="记录",National Geographic 
 http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=ma1f0b9808d5014467661&ct=17874&tsum=73dfb91284f5b1358251546e6f03da3d
-#EXTINF:-1 tvg-name="直播中国" group-title="4K",直播中国
+#EXTINF:-1 tvg-name="直播中国" group-title="记录",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
 #央视
@@ -176,10 +176,6 @@ http://111.124.98.66:8188/rtp/238.255.2.195:5999
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",Fashion 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV Midnight Secrets
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV Midnight Secrets
-https://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV Midnight Secrets
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV + Paris
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
@@ -187,8 +183,8 @@ https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV Czech&Slovak
 http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV+ Paris 
-https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV
+http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/W9MX.png" group-title="时尚",時裝頻道
 http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/MX.png" group-title="时尚",爱时尚

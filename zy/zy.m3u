@@ -182,6 +182,8 @@ http://111.124.98.66:8188/rtp/238.255.2.195:5999
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="华数高清娱乐" tvg-name="华数高清娱乐" tvg-logo="https://live.fanmingming.com/tv/华数高清娱乐.png" group-title="影视",高清娱乐
 http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000013/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000013&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="华数高清娱乐" tvg-name="华数高清娱乐" tvg-logo="https://live.fanmingming.com/tv/华数高清娱乐.png" group-title="影视",高清娱乐
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/2000000004000000013/1.m3u8?channel-id=hnbblive
 #EXTINF:-1 tvg-id="华数风尚音乐" tvg-name="华数风尚音乐" tvg-logo="https://live.fanmingming.com/tv/华数风尚音乐.png" group-title="影视",风尚音乐
 http://zteres.sn.chinamobile.com:6060/000000001000/5529729098703832176/1.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
 

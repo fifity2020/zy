@@ -180,11 +180,11 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.
 #EXTINF:-1  tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="影视",新视觉
 
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="影视",魅力足球
-
+http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="华数高清娱乐" tvg-name="华数高清娱乐" tvg-logo="https://live.fanmingming.com/tv/华数高清娱乐.png" group-title="影视",高清娱乐
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/2000000004000000013/1.m3u8?channel-id=hnbblive
 #EXTINF:-1 tvg-id="华数风尚音乐" tvg-name="华数风尚音乐" tvg-logo="https://live.fanmingming.com/tv/华数风尚音乐.png" group-title="影视",风尚音乐
-
+http://[2409:8087:7001:20:1000::88]:6610/000000001000/5529729098703832176/1.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
 
 #时尚
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",Fashion 4K

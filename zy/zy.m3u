@@ -162,7 +162,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/32212
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="卫视",上海都市
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="卫视",上海都市
+#EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="卫视",生活时尚
 http://iptv.myxcwh.com:8125/udp/233.50.201.187:5140
 #EXTINF:-1  group-title="卫视",LF新闻
 http://111.225.114.100:808/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
@@ -178,15 +178,13 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/1/224/32212277
 #EXTINF:-1 tvg-id="华数4K" tvg-name="null" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/huashu4k.png" group-title="影视",华数4K
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1  tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="影视",新视觉
-http://111.124.98.66:8188/rtp/238.255.2.195:5999
+
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="影视",魅力足球
-http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="华数高清娱乐" tvg-name="华数高清娱乐" tvg-logo="https://live.fanmingming.com/tv/华数高清娱乐.png" group-title="影视",高清娱乐
-http://zteres.sn.chinamobile.com:6060/000000001000/2000000004000000013/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000013&livemode=1&stbId=3
+
 #EXTINF:-1 tvg-id="华数高清娱乐" tvg-name="华数高清娱乐" tvg-logo="https://live.fanmingming.com/tv/华数高清娱乐.png" group-title="影视",高清娱乐
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/2000000004000000013/1.m3u8?channel-id=hnbblive
 #EXTINF:-1 tvg-id="华数风尚音乐" tvg-name="华数风尚音乐" tvg-logo="https://live.fanmingming.com/tv/华数风尚音乐.png" group-title="影视",风尚音乐
-http://zteres.sn.chinamobile.com:6060/000000001000/5529729098703832176/1.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
+
 
 #时尚
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",Fashion 4K
@@ -203,8 +201,10 @@ https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",Fashion & Lifestyle 
 https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV,Global Fashion Channel 
+#EXTINF:-1   group-title="时尚",code Fashion
 https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV,Global Fashion Channel 
+https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 tvg-id="LUXETV" tvg-name="LUXETV" tvg-logo="https://live.fanmingming.com/tv/LUXETV.png" group-title="时尚",LUXE TV
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-id="TLC旅游生活" tvg-name="TLC旅游生活" tvg-logo="https://live.fanmingming.com/tv/TLC旅游生活.png" group-title="时尚",TLC旅游生活

@@ -164,7 +164,8 @@ http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000030951/index.
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="卫视",上海都市
 http://iptv.myxcwh.com:8125/udp/233.50.201.187:5140
-
+#EXTINF:-1  group-title="卫视",LF新闻
+http://111.225.114.100:808/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
 #影视
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png"group-title="影视",爱上4K 
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
@@ -190,20 +191,18 @@ http://zteres.sn.chinamobile.com:6060/000000001000/5529729098703832176/1.m3u8?ch
 #时尚
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",Fashion 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV Midnight Secrets
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FASHION MIDNITE
 https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV+
-https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV+ 
-https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV+ 
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FASHION MIDNITE HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/media.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FASHION PARIS HD
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV+ Paris L'Original
+https://fashs043.cloudycdn.services/scte/sftv2/sftv2_chunklist.m3u8
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",Fashion PG16
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/media.m3u8
-#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV+ 
+#EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",Fashion & Lifestyle 
 https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-name="FASHIONTV" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",Fashion
-http://91.247.68.229:8000/play/Fashion/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV Czech&Slovak
-http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV,Global Fashion Channel 
 https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
 #EXTINF:-1 tvg-id="LUXETV" tvg-name="LUXETV" tvg-logo="https://live.fanmingming.com/tv/LUXETV.png" group-title="时尚",LUXE TV

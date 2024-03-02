@@ -164,8 +164,7 @@ http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000030951/index.
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="卫视",生活时尚
 http://iptv.myxcwh.com:8125/udp/233.50.201.187:5140
-#EXTINF:-1  group-title="卫视",LF新闻
-http://111.225.114.100:808/tsfile/live/1043_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #影视
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png"group-title="影视",爱上4K 
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS

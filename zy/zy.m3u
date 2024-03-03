@@ -175,6 +175,7 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1a]/ott.mobaibox.com/PLTV/1/224/32212277
 #EXTINF:-1 tvg-id="华数4K" tvg-name="null" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/huashu4k.png" group-title="影视",华数4K
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="影视",新视觉
+
 #EXTINF:-1 tvg-id="高清娱乐" tvg-name="高清娱乐" tvg-logo="https://live.fanmingming.com/tv/华数高清娱乐.png" group-title="影视",高清娱乐
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/2000000004000000013/1.m3u8?channel-id=hnbblive
 #EXTINF:-1 tvg-id="风尚音乐" tvg-name="风尚音乐" tvg-logo="https://live.fanmingming.com/tv/华数风尚音乐.png" group-title="影视",风尚音乐

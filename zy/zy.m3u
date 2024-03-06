@@ -31,7 +31,8 @@ https://d2dw21aq0j0l5c.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 #EXTINF:-1  tvg-id="LoveNrture" tvg-name="LoveNrture" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png"group-title="记录",Love Nrture 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-
+#EXTINF:-1  tvg-id="BBCEarth" tvg-logo="https://live.fanmingming.com/tv/BBCEarth.png" group-title="记录",BBC Earth
+http://50.7.238.114:8278/bbcearth_twn/playlist.m3u8?tid=MD4D1422738714227387&ct=19254&tsum=2637e4976a40770c852fc6f4f9d2308f
 
 
 #央视
@@ -176,6 +177,8 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.
 
 #EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="影视",SiTV都市剧场
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000004412/index.m3u8?channel-id=bestzb&Contentid=5000000002000004412&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png"  group-title="影视",SiTV七彩戏剧
+http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031116/index.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="生活时尚"  tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="影视",SiTV生活时尚
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="百事通4K"  tvg-logo="https://live.fanmingming.com/tv/百事通.png"  group-title="影视", 百事通4K

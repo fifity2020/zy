@@ -160,8 +160,6 @@ http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/32212
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="卫视",上海都市
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000018926/index.m3u8?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=3
-#EXTINF:-1 tvg-id="南国都市" tvg-name="南国都市" tvg-logo="https://live.fanmingming.com/tv/南国都市.png" group-title="卫视",南国都市
-http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 
 
 #影视
@@ -184,7 +182,7 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000019634/index.
 #EXTINF:-1 tvg-name="高清娱乐"  tvg-logo="https://live.fanmingming.com/tv/高清娱乐.png" group-title="影视",SiTV高清娱乐
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/2000000004000000013/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000013&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="风尚音乐"  tvg-logo="https://live.fanmingming.com/tv/风尚音乐.png" group-title="影视",SiTV风尚音乐
-http://zteres.sn.chinamobile.com:6060/000000001000/5529729098703832176/1.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
+
 #EXTINF:-1 tvg-name="百事通4K"  tvg-logo="https://live.fanmingming.com/tv/百事通.png"  group-title="影视", 百事通4K
 http://a.jack4096.top:10001/rtp/239.45.1.42:5140
 
@@ -204,7 +202,7 @@ https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/
 #EXTINF:-1 tvg-id="LUXETV" tvg-name="LUXETV" tvg-logo="https://live.fanmingming.com/tv/LUXETV.png" group-title="时尚",LUXE TV
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-name="IHOT爱时尚"  tvg-logo="https://live.fanmingming.com/tv/IHOT爱时尚" group-title="时尚", IHOT爱时尚
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000140630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000140630&livemode=1&stbId=3
+
 #EXTINF:-1   tvg-name="IHOT爱旅行" tvg-logo="https://live.fanmingming.com/tv/IHOT爱旅行.png" group-title="时尚", IHOT爱旅行
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
 

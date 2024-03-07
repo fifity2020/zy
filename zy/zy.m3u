@@ -25,6 +25,8 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000002000003382/index.
 https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 #EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="记录",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1   tvg-name="IHOT爱旅行" tvg-logo="https://live.fanmingming.com/tv/IHOT爱旅行.png" group-title="记录", IHOT爱旅行
+http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="loupe"  tvg-logo="https://live.fanmingming.com/tv/loupe.png" tvg-name="Loupe" group-title="记录",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-id="Clarity" tvg-name="Clarity"  tvg-logo="https://live.fanmingming.com/tv/Clarity.png"  group-title="记录",Clarity 4K
@@ -73,7 +75,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/1/224/3221228228/1.m3u8
 #EXTINF:-1 tvg-id="A20" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视",CCTV-8K 超高清
-http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K36M/playlist.m3u8
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="A20" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视",CCTV-8K 超高清
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视",女性时尚
@@ -182,7 +184,7 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000019634/index.
 #EXTINF:-1 tvg-name="高清娱乐"  tvg-logo="https://live.fanmingming.com/tv/高清娱乐.png" group-title="影视",SiTV高清娱乐
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/2000000004000000013/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000013&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="风尚音乐"  tvg-logo="https://live.fanmingming.com/tv/风尚音乐.png" group-title="影视",SiTV风尚音乐
-
+http://[2409:8087:7001:20:1000::88]:6610/000000001000/5529729098703832176/1.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="百事通4K"  tvg-logo="https://live.fanmingming.com/tv/百事通.png"  group-title="影视", 百事通4K
 http://a.jack4096.top:10001/rtp/239.45.1.42:5140
 
@@ -202,9 +204,7 @@ https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/
 #EXTINF:-1 tvg-id="LUXETV" tvg-name="LUXETV" tvg-logo="https://live.fanmingming.com/tv/LUXETV.png" group-title="时尚",LUXE TV
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/64733/64733_264_live.m3u8
 #EXTINF:-1 tvg-name="IHOT爱时尚"  tvg-logo="https://live.fanmingming.com/tv/IHOT爱时尚" group-title="时尚", IHOT爱时尚
-http://[2409:8087:7000:20:1000::22]:6060/000000001000/2000000004000000045/index.m3u8?channel-id=hnbblive&Contentid=2000000004000000045&livemode=1&stbId=3
-#EXTINF:-1   tvg-name="IHOT爱旅行" tvg-logo="https://live.fanmingming.com/tv/IHOT爱旅行.png" group-title="时尚", IHOT爱旅行
-http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000250630&livemode=1&stbId=3
+
 
 #国际
 #EXTINF:-1  tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ChannelAsia.png" group-title="国际",CNA

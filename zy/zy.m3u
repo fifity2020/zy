@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,http://epg.51zmt.top:8000/e.xml.gz,https://epg.112114.xyz/pp.xml,https://epg.pw/xmltv/epg_CN.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml,https://epg.112114.eu.org/pp.xml,https://epg.pw/xmltv/epg_CN.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #记录
 #EXTINF:-1 tvg-id="纯享4K"tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="记录",纯享 4K
@@ -74,8 +74,6 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000008000023254/index.
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://[2409:8087:2001:20:2800:0:df6e:eb12]/ott.mobaibox.com/PLTV/1/224/3221228228/1.m3u8
-#EXTINF:-1 tvg-id="A20" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视",CCTV-8K 超高清
-http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="A20" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视",CCTV-8K 超高清
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视",女性时尚
@@ -185,8 +183,11 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000019634/index.
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/2000000004000000013/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000013&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="风尚音乐"  tvg-logo="https://live.fanmingming.com/tv/风尚音乐.png" group-title="影视",SiTV风尚音乐
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5529729098703832176/1.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="百事通4K"  tvg-logo="https://live.fanmingming.com/tv/百事通.png"  group-title="影视", 百事通4K
+#EXTINF:-1 tvg-name="百事通"  tvg-logo="https://live.fanmingming.com/tv/百事通.png"  group-title="影视", 百事通4K
 http://a.jack4096.top:10001/rtp/239.45.1.42:5140
+#EXTINF:-1 tvg-id="N24" tvg-name="NewTV超级综艺" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV24.png" group-title="NewTV",NewTV超级综艺
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8
+
 
 #时尚
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",Fashion 4K

@@ -188,7 +188,6 @@ http://a.jack4096.top:10001/rtp/239.45.1.42:5140
 #EXTINF:-1 tvg-id="N24" tvg-name="NewTV综艺" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/NewTV24.png" group-title="影视",NewTV精品综艺
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226009/index.m3u8
 
-
 #时尚
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",Fashion 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8

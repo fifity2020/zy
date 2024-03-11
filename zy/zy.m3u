@@ -186,7 +186,7 @@ http://[2409:8087:7001:20:1000::88]:6610/000000001000/5529729098703832176/1.m3u8
 #EXTINF:-1 tvg-name="百事通"  tvg-logo="https://live.fanmingming.com/tv/百事通.png"  group-title="影视", 百事通4K
 http://a.jack4096.top:10001/rtp/239.45.1.42:5140
 #EXTINF:-1 tvg-id="超级综艺" tvg-name="NEWTV超级综艺" tvg-logo="https://live.fanmingming.com/tv/NEWTV超级综艺" group-title="影视",NewTV超级综艺
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
+http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225714/index.m3u8
 
 #时尚
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",Fashion 4K
@@ -197,6 +197,12 @@ https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1  tvg-id="FASHIONTV" tvg-name="FASHIONTV" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV
 https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-id="FASHIONTV" tvg-name="FASHIONTV" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV
+http://lb.streaming.sk/fashiontv/stream/chunklist.m3u8
+#EXTINF:-1  tvg-id="FASHIONTV" tvg-name="FASHIONTV" tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FashionTV Tokyo (PG13)
+https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
+
+
 #EXTINF:-1  tvg-name="code fashion"  tvg-logo="https://epg.pw/media/images/channel/2022/04/25/large/20220425141945869569_85.jpg" group-title="时尚",code fashion
 https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
 #EXTINF:-1   group-title="时尚",Global Fashion 

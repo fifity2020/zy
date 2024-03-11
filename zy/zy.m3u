@@ -179,10 +179,6 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000004412/index.
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031116/index.m3u8?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="生活时尚"  tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="影视",SiTV生活时尚
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="高清娱乐"  tvg-logo="https://live.fanmingming.com/tv/高清娱乐.png" group-title="影视",SiTV高清娱乐
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/2000000004000000013/1.m3u8?channel-id=hnbblive&Contentid=2000000004000000013&livemode=1&stbId=3
-#EXTINF:-1 tvg-name="风尚音乐"  tvg-logo="https://live.fanmingming.com/tv/风尚音乐.png" group-title="影视",SiTV风尚音乐
-http://[2409:8087:7001:20:1000::88]:6610/000000001000/5529729098703832176/1.m3u8?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="百事通"  tvg-logo="https://live.fanmingming.com/tv/百事通.png"  group-title="影视", 百事通4K
 http://a.jack4096.top:10001/rtp/239.45.1.42:5140
 #EXTINF:-1 tvg-name="iHOT爱旅行" tvg-logo="https://live.fanmingming.com/tv/iHOT爱旅行" group-title="影视",iHOT爱旅行
@@ -241,6 +237,8 @@ http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031207/1.m3u8
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="体育",NewTv精品体育
 http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
+#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/百视通.png" group-title="体育",百视通体育
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225835/index.m3u8
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="体育",SiTV五星体育
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="体育",SiTV劲爆体育

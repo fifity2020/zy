@@ -6,7 +6,7 @@ http://[2409:8087:7001:20:1000::95]:6610/000000001000/1000000004000011651/index.
 #EXTINF:-1 tvg-id="苏州4k" tvg-name="苏州4k" tvg-logo="https://live.fanmingming.com/tv/苏州4K.png" group-title="记录",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1  tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="记录",上海纪实
-http://[2409:8087:7000:20::4]/dbiptv.sn.chinamobile.com/PLTV/1/224/3221226351/1.m3u8
+http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226230/index.m3u8
 #EXTINF:-1  tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/jinyingjishi.png" group-title="记录",金鹰纪实
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226351/1.m3u8
 #EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="记录",乐游
@@ -240,9 +240,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="体育",NewTv精品体育
-http://[2409:8087:2001:20:2800:0:df6e:eb1b]/ott.mobaibox.com/PLTV/3/224/3221227615/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/百视通.png" group-title="体育",百视通体育
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225835/index.m3u8
+http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="体育",SiTV五星体育
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000010000017540/index.m3u8?channel-id=bestzb&Contentid=5000000010000017540&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="体育",SiTV劲爆体育
@@ -250,7 +248,7 @@ http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000029972/index.
 #EXTINF:-1  tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育",咪咕体育
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225897/index.m3u8
 #EXTINF:-1  tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://cdn.jsdelivr.net/gh/fifity2020/zy@main/logo/咪咕足球.png" group-title="体育",咪咕足球
-http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/wh7f454c46tw336955688_-567193112/ott.mobaibox.com/PLTV/3/224/3221228129/index.m3u8?icpid=3&RTS=1674380452&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
+
 #EXTINF:-1 tvg-id="migu" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="体育",咪咕直播4K-1
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-id="migu" tvg-logo="https://cdn.jsdelivr.net/gh/Meroser/IPTV@main/TVlogo/MG.png" group-title="体育",咪咕直播4K-2

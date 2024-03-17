@@ -230,11 +230,11 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 http://38.96.178.201:80/live/CNNHD/index.m3u8
 #EXTINF:-1 tvg-name="CNN HD" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",CNN新闻
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
-#EXTINF:-1  tvg-name="BBCWorldNews" tvg-logo="https://live.fanmingming.com/tv/BBCWORLDNEWSASIA.png" group-title="国际",BBC新闻
+#EXTINF:-1  tvg-name="BBCWorldNews" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164717897792_32.png" group-title="国际",BBC新闻
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_sd_abr_v2.m3u8
 #EXTINF:-1  tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164717897792_32.png" group-title="国际",BBC新闻
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/2946
-#EXTINF:-1 group-title="国际" tvg-logo="https://www.hualigs.cn/image/61556780f381e.jpg",BBC World News HD
+#EXTINF:-1 tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164717897792_32.png" group-title="国际" ,BBC World News HD
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 tvg-id="Foxlive" tvg-name="Foxlive" tvg-logo="https://live.fanmingming.com/tv/FoxLive.png" group-title="国际",Foxlive
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8

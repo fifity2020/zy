@@ -48,6 +48,8 @@ http://[2409:8087:7001:20:3::6]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3
 http://[2409:8087:7001:20:3::7]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226397/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
 http://[2409:8087:7000:20::204]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226191/index.m3u8
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视",CCTV-4 中文国际
+http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001333/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视",CCTV-5 体育
 http://[2409:8087:7001:20:3::5]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226395/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视",CCTV-5+ 体育赛事
@@ -199,7 +201,8 @@ http://[2409:8087:7001:20:1000::88]:6610/000000001000/5529729098703832176/1.m3u8
 #EXTINF:-1  tvg-id="咪咕音乐" tvg-name="咪咕音乐" tvg-logo="https://live.fanmingming.com/tv/咪咕音乐.png" group-title="影视",咪咕音乐
 #EXTINF:-1  group-title="影视",4k影视
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
-
+#EXTINF:-1  group-title="影视",京视剧场
+http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001319/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 #时尚
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vQuyyWO.png" group-title="时尚",Fashion 4K
@@ -247,6 +250,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 #体育
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="体育",魅力足球
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000011000031207/1.m3u8?channel-id=bestzb&Contentid=5000000011000031207&livemode=1&stbId=3
+#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="体育",魅力足球
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
 #EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="体育",NewTv精品体育
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/1000000004000014634/index.m3u8?channel-id=ystenlive&Contentid=1000000004000014634&livemode=1&stbId=3

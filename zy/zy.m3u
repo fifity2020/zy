@@ -79,7 +79,7 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001024/index.m3
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://192.168.20.2:5687/xxtv4k.php
 #EXTINF:-1 tvg-id="A20" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视",CCTV-8K 超高清
-http://49.71.78.122/hlslive-tx-cdn.ysp.cctv.cn/001/ysp/2020603421.m3u8
+http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K36M/playlist.m3u8
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://live.fanmingming.com/tv/女性时尚.png" group-title="央视",女性时尚
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226969/index.m3u8
 #EXTINF:-1 tvg-id="CCTV怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://live.fanmingming.com/tv/怀旧剧场.png" group-title="央视",怀旧剧场
@@ -162,7 +162,7 @@ http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视",凤凰资讯
 http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视",凤凰香港
-
+http://113.64.145.228:8081/hls/38/index.m3u8
 #EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="卫视",上海ICS
 http://[2409:8087:7001:20:1000::88]:6610/000000001000/5000000010000030951/index.m3u8?channel-id=bestzb&Contentid=5000000010000030951&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="卫视",上海都市
@@ -203,6 +203,10 @@ https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
 https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
 #EXTINF:-1 tvg-name="global fashion channel" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/bae62fe186091391d8d3369293b53dcc.jpg" group-title="时尚",Global Fashion 
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1 tvg-name=" fashion box" tvg-logo="https://i.imgur.com/Taqj4yi.png" group-title="时尚",Fashion Box
+http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/228/stream.m3u8
+#EXTINF:-1 tvg-name=" valeradiowebtv" group-title="时尚",valeradiowebtv
+https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1855610675.m3u8
 #EXTINF:-1 tvg-name="生活时尚"  tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="时尚",SiTV生活时尚
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
 

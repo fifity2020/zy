@@ -178,9 +178,7 @@ http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1 tvg-id="华数4K" tvg-name="null" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/huashu4k.png" group-title="影视",华数4K
 http://[2409:8087:7001:20:1000::95]:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="影视",新视觉
-http://php.jdshipin.com:8880/bst.php?id=xsjhd8m/8000000
-#EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="影视",新视觉
-http://php.jdshipin.com:8880/bst.php?id=xsjhd/4000000
+
 #EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="影视",SiTV都市剧场
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000004412/index.m3u8?channel-id=bestzb&Contentid=5000000002000004412&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png"  group-title="影视",SiTV七彩戏剧
@@ -204,10 +202,6 @@ https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
 https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
 #EXTINF:-1 tvg-name="global fashion channel" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/bae62fe186091391d8d3369293b53dcc.jpg" group-title="时尚",Global Fashion 
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
-#EXTINF:-1 tvg-name=" fashion box" tvg-logo="https://i.imgur.com/Taqj4yi.png" group-title="时尚",Fashion Box
-http://cdnua03.hls.tv/524/hls/38723e07ee57679b516a78958abde705/228/stream.m3u8
-#EXTINF:-1 tvg-name=" valeradiowebtv" group-title="时尚",valeradiowebtv
-https://stmv1.paineltv.net/valeradiowebtv/valeradiowebtv/chunklist_w1855610675.m3u8
 #EXTINF:-1 tvg-name="生活时尚"  tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="时尚",SiTV生活时尚
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
 

@@ -35,8 +35,10 @@ https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1  tvg-id="BBCEarth" tvg-logo="https://live.fanmingming.com/tv/BBCEarth.png" group-title="记录",BBC Earth
 https://epg.pw/stream/cc6e9408e32da5a51fd06d72b8c17c2f6171085e329b4c27dbf70a5f3fd96275.ctv
-
-
+#EXTINF:-1,Bloomberg TV 4K (US)
+https://bloomberg-bloombergtv-3-us.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Boomberg Quicktake (EU)
+https://bloomberg-quicktake-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #央视
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
@@ -81,7 +83,8 @@ https://itv.lat/tv/live.php?&line=1&id=cgtn
 http://192.168.20.2:5687/xxtv4k.php
 #EXTINF:-1 tvg-id="A20" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视",CCTV-8K 超高清
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K36M/playlist.m3u8
-
+#EXTINF:-1,Go USA (EU)
+https://brandusa-gousa-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 
 #卫视
@@ -211,8 +214,14 @@ https://fashiontv-fashiontv-5-se.samsung.wurl.tv/playlist.m3u8
 https://cdn3.invivo.bg/Codefashion_5500/index.m3u8
 #EXTINF:-1 tvg-name="global fashion channel" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/bae62fe186091391d8d3369293b53dcc.jpg" group-title="时尚",Global Fashion 
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
+#EXTINF:-1 tvg-name="global fashion channel" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/bae62fe186091391d8d3369293b53dcc.jpg" group-title="时尚",Global Fashion
+https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="生活时尚"  tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="时尚",SiTV生活时尚
 http://[2409:8087:7000:20:1000::22]:6060/000000001000/5000000002000019634/index.m3u8?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=3
+#EXTINF:-1,NEW KPOP (EU)
+https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1,Young Hollywood
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
 
 #国际
 #EXTINF:-1  tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ChannelAsia.png" group-title="国际",CNA

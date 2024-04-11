@@ -35,7 +35,7 @@ https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1  tvg-id="BBCEarth" tvg-logo="https://live.fanmingming.com/tv/BBCEarth.png" group-title="记录",BBC Earth
 https://epg.pw/stream/cc6e9408e32da5a51fd06d72b8c17c2f6171085e329b4c27dbf70a5f3fd96275.ctv
-#EXTINF:-1tvg-id="Bloomberg TV 4K" group-title="记录",Bloomberg TV 4K (US)
+#EXTINF:-1tvg-id="Bloomberg TV 4K" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1074.png“ group-title="记录",Bloomberg TV 4K (US)
 https://bloomberg-bloombergtv-3-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1   tvg-id="Boomberg Quicktake" group-title="记录" ,Boomberg Quicktake (EU)
 https://bloomberg-quicktake-1-eu.xiaomi.wurl.tv/playlist.m3u8
@@ -185,7 +185,6 @@ http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/ind
 
 #EXTINF:-1 tvg-id="欢笑剧场"tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="影视",欢笑剧场4K
 https://itv.lat/tv/live.php?&line=1&id=hxjc4K
-#EXTINF:-1 tvg-id="华数4K" tvg-name="null" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/huashu4k.png" group-title="影视",华数4K
 
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="影视",新视觉
 https://itv.lat/tv/live.php?&line=1&id=xsj
@@ -193,15 +192,13 @@ https://itv.lat/tv/live.php?&line=1&id=xsj
 https://itv.lat/tv/live.php?&line=1&id=dsjc
 #EXTINF:-1 tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png"  group-title="影视",SiTV七彩戏剧
 https://itv.lat/tv/live.php?&line=1&id=qcxj
-#EXTINF:-1 tvg-name="风尚音乐" tvg-logo="https://cdn.jsdelivr.net/gh/fifity2020/zy@main/logo/huashu.jpg" group-title="影视",华数风尚音乐
 
-#EXTINF:-1  tvg-id="咪咕音乐" tvg-name="咪咕音乐" tvg-logo="https://live.fanmingming.com/tv/咪咕音乐.png" group-title="影视",咪咕音乐
 #EXTINF:-1  group-title="影视",4k影视
 http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png"  group-title="影视",重温经典
-http://43.141.130.70/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
+
 #EXTINF:-1 tvg-name="凤凰电影"   tvg-logo="https://live.fanmingming.com/tv/凤凰卫视电影台.png"    group-title="影视",凤凰电影
-http://221.7.175.154:8445/tsfile/live/1022_1.m3u8?key=txiptv&playlive=1&authid=0
+
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="影视",CHC高清电影
 http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="影视",CHC家庭影院

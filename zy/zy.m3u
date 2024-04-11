@@ -6,11 +6,11 @@
 #EXTINF:-1 tvg-id="苏州4k" tvg-name="苏州4k" tvg-logo="https://live.fanmingming.com/tv/苏州4K.png" group-title="记录",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1  tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="记录",上海纪实
-https://itv.lat/tv/live.php?&line=1&id=shjsrw
+http://222.71.11.180:4022/rtp/239.45.3.212:5140
 #EXTINF:-1  tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/jinyingjishi.png" group-title="记录",金鹰纪实
 https://itv.lat/tv/live.php?&line=1&id=jyjs
 #EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="记录",乐游
-https://itv.lat/tv/live.php?&line=1&id=qjs
+http://222.71.11.180:4022/rtp/239.45.3.135:5140
 #EXTINF:-1  tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="记录",纪实科教
 https://itv.lat/tv/live.php?&line=1&id=bjjskj
 #EXTINF:-1  tvg-id="求索纪录" tvg-name="求索纪录" tvg-logo="https://live.fanmingming.com/tv/求索纪录.png" group-title="记录",求索纪录
@@ -184,14 +184,14 @@ http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/ind
 #EXTINF:-1 tvg-id="4K 修复"tvg-name="4K修复" tvg-logo="https://epg.112114.xyz/logo/4K修复.png" group-title="影视",4K 修复
 
 #EXTINF:-1 tvg-id="欢笑剧场"tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="影视",欢笑剧场4K
-https://itv.lat/tv/live.php?&line=1&id=hxjc4K
+http://222.71.11.180:4022/rtp/239.45.3.196:5140
 
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="影视",新视觉
 https://itv.lat/tv/live.php?&line=1&id=xsj
 #EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="影视",SiTV都市剧场
-https://itv.lat/tv/live.php?&line=1&id=dsjc
+http://222.71.11.180:4022/rtp/239.45.3.136:5140
 #EXTINF:-1 tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png"  group-title="影视",SiTV七彩戏剧
-https://itv.lat/tv/live.php?&line=1&id=qcxj
+http://222.71.11.180:4022/rtp/239.45.3.61:5140
 
 #EXTINF:-1  group-title="影视",4k影视
 http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
@@ -227,8 +227,7 @@ https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://itv.lat/tv/live.php?&line=1&id=shss
 #EXTINF:-1,tvg-name="NEW KPOP"  group-title="时尚",NEW KPOP (EU)
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1,tvg-name="Young Hollywood"  group-title="时尚",Young Hollywood
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
+
 
 #国际
 #EXTINF:-1  tvg-name="CNA" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ChannelAsia.png" group-title="国际",CNA
@@ -397,4 +396,7 @@ https://itv.lat/tv/live.php?&line=1&id=sport5
 https://itv.lat/tv/live.php?&line=1&id=sport6
 #EXTINF:-1 tvg-id="百视通体育7" tvg-name="百视通体育7" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="体育",百视通体育7
 https://itv.lat/tv/live.php?&line=1&id=sport7
+
+#EXTINF:-1 tvg-id="百视通超级体育" tvg-name="百视通超级体育" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="体育",百事通超级体育
+http://222.71.11.180:4022/rtp/239.45.3.139:5140
 

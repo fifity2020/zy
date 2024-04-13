@@ -7,13 +7,8 @@
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1  tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="记录",上海纪实
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
-
 #EXTINF:-1  tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/jinyingjishi.png" group-title="记录",金鹰纪实
 http://zteres.sn.chinamobile.com:6060/000000001000/5000000011000031203/1.m3u8?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=3
-#EXTINF:-1  tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/jinyingjishi.png" group-title="记录",金鹰纪实
-https://phonews.qing.mgtv.com/nn_live/nn_x64/dWlwPTEwMy43MS43MC4xMDMmcWlkPSZzPTAyZDMyNWYwNmFjZTBkZjdmNTEwYWQ4YTcxOWQ4ZTE1JmVzPTE3MTI4OTM1MTYmdXVpZD0zNzYwOWQ4YWEyZjliOWMzZTBjNTYyNzkyNTRmODQwMS02NzQ3NDY2NyZ2PTImYXM9MCZjZG5leF9pZD13c19waG9uZTM,/JYJSMPP360.m3u8
-#EXTINF:-1  tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/jinyingjishi.png" group-title="记录",金鹰纪实
-http://php.jdshipin.com:8880/bst.php?id=jyjs8m/8000000
 #EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="记录",乐游
 http://222.71.11.180:4022/rtp/239.45.3.135:5140
 #EXTINF:-1  tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="记录",纪实科教
@@ -32,8 +27,6 @@ https://news.cgtn.com/resource/live/document/cgtn-doc.m3u8
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 #EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="记录",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
-#EXTINF:-1   tvg-name="IHOT爱旅行" tvg-logo="https://live.fanmingming.com/tv/IHOT爱旅行.png" group-title="记录", IHOT爱旅行
-
 #EXTINF:-1 tvg-id="loupe"  tvg-logo="https://i.imgur.com/Co54F0T.png" tvg-name="Loupe" group-title="记录",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-id="Clarity" tvg-name="Clarity"  tvg-logo="https://i.imgur.com/M87kbVk.png"  group-title="记录",Clarity 4K
@@ -41,7 +34,7 @@ https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1  tvg-id="LoveNrture" tvg-name="LoveNrture" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png"group-title="记录",Love Nrture 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1  tvg-id="BBCEarth" tvg-logo="https://live.fanmingming.com/tv/BBCEarth.png" group-title="记录",BBC Earth
-https://epg.pw/stream/cc6e9408e32da5a51fd06d72b8c17c2f6171085e329b4c27dbf70a5f3fd96275.ctv
+
 #EXTINF:-1tvg-id="Bloomberg TV 4K" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1074.png“ group-title="记录",Bloomberg TV 4K (US)
 https://bloomberg-bloombergtv-3-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1   tvg-id="Boomberg Quicktake" group-title="记录" ,Boomberg Quicktake (EU)
@@ -303,11 +296,6 @@ http://playtv-live.ifeng.com/live/06OLEGEGM4G.m3u8
 http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视",凤凰香港
 http://113.64.145.228:8081/hls/38/index.m3u8
-#EXTINF:-1 tvg-id="上海外语" tvg-name="上海外语" tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="卫视",上海ICS
-https://itv.lat/tv/live.php?&line=1&id=shics
-#EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://live.fanmingming.com/tv/上海都市.png" group-title="卫视",上海都市
-http://php.jdshipin.com:8880/bst.php?id=ylpdhd/4000000
-
 
 #影视
 #EXTINF:-1 tvg-id="爱上4K" tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png"group-title="影视",爱上4K 
@@ -316,20 +304,16 @@ http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/ind
 
 #EXTINF:-1 tvg-id="欢笑剧场"tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="影视",欢笑剧场4K
 http://php.jdshipin.com:8880/bst.php?id=hxjc8m/8000000
-
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="影视",新视觉
 http://php.jdshipin.com:8880/bst.php?id=xsjhd8m/8000000
 #EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="影视",SiTV都市剧场
 http://222.71.11.180:4022/rtp/239.45.3.136:5140
 #EXTINF:-1 tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png"  group-title="影视",SiTV七彩戏剧
 http://222.71.11.180:4022/rtp/239.45.3.61:5140
-
 #EXTINF:-1  group-title="影视",4k影视
 http://111.11.123.37:6610/000000001000/6000000003000004748/index.m3u8?channel-id=wasusyt&Contentid=6000000003000004748&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png"  group-title="影视",重温经典
 http://43.141.130.33/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
-#EXTINF:-1 tvg-name="凤凰电影"   tvg-logo="https://live.fanmingming.com/tv/凤凰卫视电影台.png"    group-title="影视",凤凰电影
-
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="影视",CHC高清电影
 http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="影视",CHC家庭影院
@@ -512,22 +496,6 @@ http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::402a]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226469/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="体育",咪咕直播-56「IPV6」
 http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-
-#EXTINF:-1 tvg-id="百视通体育1" tvg-name="百视通体育1" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="体育",百视通体育1
-https://itv.lat/tv/live.php?&line=1&id=sport1
-#EXTINF:-1 tvg-id="百视通体育2" tvg-name="百视通体育2" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="体育",百视通体育2
-https://itv.lat/tv/live.php?&line=1&id=sport2
-#EXTINF:-1 tvg-id="百视通体育3" tvg-name="百视通体育3" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="体育",百视通体育3
-https://itv.lat/tv/live.php?&line=1&id=sport3
-#EXTINF:-1 tvg-id="百视通体育4" tvg-name="百视通体育4" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="体育",百视通体育4
-https://itv.lat/tv/live.php?&line=1&id=sport4
-#EXTINF:-1 tvg-id="百视通体育5" tvg-name="百视通体育5" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="体育",百视通体育5
-https://itv.lat/tv/live.php?&line=1&id=sport5
-#EXTINF:-1 tvg-id="百视通体育6" tvg-name="百视通体育6" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="体育",百视通体育6
-https://itv.lat/tv/live.php?&line=1&id=sport6
-#EXTINF:-1 tvg-id="百视通体育7" tvg-name="百视通体育7" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="体育",百视通体育7
-https://itv.lat/tv/live.php?&line=1&id=sport7
-
 #EXTINF:-1 tvg-id="百视通超级体育" tvg-name="百视通超级体育" tvg-logo="https://live.fanmingming.com/tv/bestv.png" group-title="体育",百事通超级体育
 http://222.71.11.180:4022/rtp/239.45.3.139:5140
 

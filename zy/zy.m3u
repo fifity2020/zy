@@ -8,7 +8,7 @@ http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1  tvg-id="上海纪实人文" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="记录",上海纪实
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225738/index.m3u8
 #EXTINF:-1  tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/jinyingjishi.png" group-title="记录",金鹰纪实
-http://gzly.hkychina.com:6001/udp/239.252.220.155:5140
+
 #EXTINF:-1 tvg-id="全纪实" tvg-name="全纪实" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="记录",乐游
 http://222.71.11.180:4022/rtp/239.45.3.135:5140
 #EXTINF:-1  tvg-id="北京纪实" tvg-name="北京纪实" tvg-logo="https://live.fanmingming.com/tv/北京纪实科教.png" group-title="记录",纪实科教
@@ -38,7 +38,13 @@ https://bloomberg-bloombergtv-3-us.xiaomi.wurl.tv/playlist.m3u8
 https://bloomberg-quicktake-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1   tvg-id="Go USA" group-title="记录" ,Go USA (EU)
 https://brandusa-gousa-1-eu.xiaomi.wurl.tv/playlist.m3u8
-
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/世界环游记.png" group-title="🏖️旅游直播",世界环游记
+https://apiurl.v1.mk/douyu/11691968
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="🏖️旅游直播",火车环游世界
+https://0977818b1849ce29132ecb5368359132.h2.smtcdns.net/d1--cn-gotcha204-1.bilivideo.com/live-bvc/527217/live_8889494_64119968/index.m3u8?expires=1713370297&len=0&oi=0x240e03830611220095f766f15135ce6f&pt=web&qn=10000&trid=100772fdc0be0da34fc1be4121bb702e3332&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha204&sign=804fcf08178f3059228f8c01c26a6ddc&sk=cb8595129e13161b4a19cb06d52e6a4c&p2p_type=1&sl=1&free_type=0&mid=39747201&pp=rtmp&source=onetier&trace=10&site=ba63e8d75d18e9724380283a84a0b624&order=1&TxLiveCode=cold_stream&TxDispType=0&svr_type=live_oc&tencent_test_client_ip=113.218.145.13&dispatch_from=OC_MGR124.232.162.160&utime=1713366641915
+#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/地球频道.png" group-title="🏖️旅游直播",地球频道
+https://714d455d133850169798855893804b3f.h2.smtcdns.net/d1--cn-gotcha204-3.bilivideo.com/live-bvc/561000/live_91650842_55105212/index.m3u8?expires=1713368130&len=0&oi=0x240e03830611220095f766f15135ce6f&pt=web&qn=0&trid=1007bfc34c438bfc45e3ae9cd486cd24a8dd&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha204&sign=ea60209406a684b91974c4a6af983cde&sk=323b16106320e17953e3a2ef7f53a1d6&p2p_type=1&sl=1&free_type=0&mid=39747201&pp=srt&source=onetier&trace=10&site=f4888e9935fabfa227d001716b0565fc&qp=de_0&order=1&TxLiveCode=cold_stream&TxDispType=0&svr_type=live_oc&tencent_test_client_ip=113.218.145.13&dispatch_from=OC_MGR113.219.183.47&utime=1713364483915
+https://apiurl.v1.mk/douyu/9412365
 
 #央视
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV-1 综合
@@ -174,7 +180,7 @@ http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/ind
 #EXTINF:-1 tvg-id="欢笑剧场"tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="影视",欢笑剧场4K
 http://222.71.11.180:4022/rtp/239.45.3.196:5140
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="影视",新视觉
-http://php.jdshipin.com:8880/bst.php?id=xsjhd8m/8000000
+
 #EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="影视",SiTV都市剧场
 http://222.71.11.180:4022/rtp/239.45.3.136:5140
 #EXTINF:-1 tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png"  group-title="影视",SiTV七彩戏剧
@@ -183,11 +189,11 @@ http://222.71.11.180:4022/rtp/239.45.3.61:5140
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png"  group-title="影视",重温经典
 http://43.141.130.33/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
 #EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="影视",CHC高清电影
-http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+http://[2409:8087:4c0a:22:1::21]:6610/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04&
 #EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="影视",CHC家庭影院
-http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4&IA
 #EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="影视",CHC动作电影
-http://39.134.18.195:80/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 
 
 
@@ -235,18 +241,13 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 
 #体育
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="体育",魅力足球
-https://itv.lat/tv/live.php?&line=1&id=mlzq
-#EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="体育",魅力足球
-http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225715/index.m3u8
+
 #EXTINF:-1 tvg-name="NewTV精品体育" tvg-logo="https://live.fanmingming.com/tv/NEWTV精品体育.png" group-title="体育",NewTv精品体育
 
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://live.fanmingming.com/tv/五星体育.png" group-title="体育",SiTV五星体育
-https://itv.lat/tv/live.php?&line=1&id=wxty
-#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="体育",SiTV劲爆体育
-https://itv.lat/tv/live.php?&line=1&id=jbty
-#EXTINF:-1  tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://live.fanmingming.com/tv/咪咕体育.png" group-title="体育",咪咕体育
 
-#EXTINF:-1  tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://cdn.jsdelivr.net/gh/fifity2020/zy@main/logo/咪咕足球.png" group-title="体育",咪咕足球
+#EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="体育",SiTV劲爆体育
+
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="体育",咪咕直播4K-1「IPV6」
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8

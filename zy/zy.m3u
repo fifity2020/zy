@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml,https://epg.112114.eu.org/pp.xml,https://epg.pw/xmltv/epg_CN.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://raw.githubusercontent.com/Meroser/IPTV/main/tvxml.xml,http://epg.51zmt.top:8000/e.xml ,https://epg.pw/xmltv/epg_CN.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #记录
 #EXTINF:-1 tvg-id="纯享4K"tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="记录",纯享 4K
@@ -25,6 +25,13 @@ http://39.134.66.66/PLTV/88888888/224/3221225715/index.m3u8
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 #EXTINF:-1 tvg-id="直播中国" tvg-name="直播中国" group-title="记录",直播中国
 https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://live.fanmingming.com/tv/BBCEarth.png" group-title="记录",BBC Earth
+https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
+#EXTINF:-1 tvg-id="BBC Food" tvg-name="BBC Food" tvg-logo="https://live.fanmingming.com/tv/BBCEarth.png" group-title="记录",BBC Food
+https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
+#EXTINF:-1 vg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://live.fanmingming.com/tv/BBCLifestyle.png
+"group-title="记录",BBC Lifestyle
+https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8  BBCLifestyle.png
 #EXTINF:-1 tvg-id="loupe"  tvg-logo="https://i.imgur.com/Co54F0T.png" tvg-name="Loupe" group-title="记录",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-id="Clarity" tvg-name="Clarity"  tvg-logo="https://i.imgur.com/M87kbVk.png"  group-title="记录",Clarity 4K
@@ -169,12 +176,20 @@ http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
 #EXTINF:-1 tvg-id="欢笑剧场"tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="影视",欢笑剧场4K
 http://222.71.11.180:4022/rtp/239.45.3.196:5140
+#EXTINF:-1 tvg-id="欢笑剧场"tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="影视",欢笑剧场4K
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="影视",新视觉
 
+#EXTINF:-1 tvg-id="BRV文艺" tvg-name="BTV文艺" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BTV文艺.png" group-title="影视",BRTV文艺 
+http://221.219.66.252:18888/rtp/239.3.1.242:8000
 #EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="影视",SiTV都市剧场
 http://222.71.11.180:4022/rtp/239.45.3.136:5140
+#EXTINF:-1 tvg-id="SITV都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="影视",SiTV都市剧场
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000015/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000015&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png"  group-title="影视",SiTV七彩戏剧
 http://222.71.11.180:4022/rtp/239.45.3.61:5140
+EXTINF:-1 tvg-id="SITV七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png"  group-title="影视",SiTV七彩戏剧
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1  group-title="影视",4k影视
 #EXTINF:-1 tvg-name="重温经典" tvg-logo="https://live.fanmingming.com/tv/重温经典.png"  group-title="影视",重温经典
 http://43.141.130.33/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225563/index.m3u8
@@ -204,6 +219,8 @@ https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/
 https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="生活时尚"  tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="时尚",SiTV生活时尚
 http://222.71.11.180:4022/rtp/239.45.3.132:5140
+#EXTINF:-1 tvg-name="生活时尚"  tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="时尚",SiTV生活时尚
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1,tvg-name="NEW KPOP"  group-title="时尚",NEW KPOP (EU)
 https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
@@ -234,6 +251,8 @@ https://epg.pw/stream/100f8d10fb39d11544e9f834c30dd5a57e92915f801d8e9bf50bf0f013
 https://epg.pw/stream/064d7dfbea25b0500dfa1262dce037279b26c7ed333b790e0d6042b1abc86975.ctv
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="体育",SiTV劲爆体育
 https://epg.pw/stream/025b9a77daa84361d1c77d49c7136339ff3f9e3b2da922f09fb9468c026e4867.ctv
+#EXTINF:-1 tvg-id="BTV体育休闲" tvg-name="BTV体育休闲" tvg-logo="http://epg.51zmt.top:8000/tb1/sheng/BBTV生活.png" group-title="体育",BRTV体育休闲
+http://221.219.66.252:18888/rtp/239.3.1.243:8000
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="体育",咪咕直播4K-1「IPV6」
 http://[2409:8087:1a01:df::4001]/PLTV/88888888/224/3221225655/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="体育",咪咕直播4K-2「IPV6」

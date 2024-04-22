@@ -31,13 +31,12 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 #EXTINF:-1  tvg-id="LoveNrture" tvg-name="LoveNrture" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png"group-title="记录",Love Nrture 4K
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1  tvg-id="BBCEarth" tvg-logo="https://live.fanmingming.com/tv/BBCEarth.png" group-title="记录",BBC Earth
-#EXTINF:-1tvg-id="Bloomberg TV 4K" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1074.png“ group-title="记录",Bloomberg TV 4K (US)
-https://bloomberg-bloombergtv-3-us.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1   tvg-id="Boomberg Quicktake" group-title="记录" ,Boomberg Quicktake (EU)
-https://bloomberg-quicktake-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1tvg-id="Bloomberg TV 4K" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1074.png“ group-title="记录",Bloomberg TV
+https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1   tvg-id="Boomberg Quicktake" group-title="记录" ,Boomberg Quicktake
+http://bloomberg-quicktake-1-nl.samsung.wurl.tv/playlist.m3u8?
 #EXTINF:-1   tvg-id="Go USA" group-title="记录" ,Go USA (EU)
-https://brandusa-gousa-1-eu.xiaomi.wurl.tv/playlist.m3u8
+https://brandusa-gousa-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="记录",火车环游世界
 https://0977818b1849ce29132ecb5368359132.h2.smtcdns.net/d1--cn-gotcha204-1.bilivideo.com/live-bvc/527217/live_8889494_64119968/index.m3u8?expires=1713370297&len=0&oi=0x240e03830611220095f766f15135ce6f&pt=web&qn=10000&trid=100772fdc0be0da34fc1be4121bb702e3332&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha204&sign=804fcf08178f3059228f8c01c26a6ddc&sk=cb8595129e13161b4a19cb06d52e6a4c&p2p_type=1&sl=1&free_type=0&mid=39747201&pp=rtmp&source=onetier&trace=10&site=ba63e8d75d18e9724380283a84a0b624&order=1&TxLiveCode=cold_stream&TxDispType=0&svr_type=live_oc&tencent_test_client_ip=113.218.145.13&dispatch_from=OC_MGR124.232.162.160&utime=1713366641915
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/地球频道.png" group-title="记录",地球频道
@@ -73,14 +72,10 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视",CCTV-13 新闻
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视",CCTV-14 少儿
-http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视",CCTV-15 音乐
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视",CCTV-16 奥林匹克
 http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225893/index.m3u8
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视",CCTV-17 农业农村
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K 超高清

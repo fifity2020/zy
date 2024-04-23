@@ -29,9 +29,9 @@ https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 #EXTINF:-1 tvg-id="BBC Food"  tvg-name="BBC Food" tvg-logo="https://live.fanmingming.com/tv/BBCEarth.png" group-title="记录",BBC Food
 https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
-#EXTINF:-1 tvg-id="BBC Lifestyle"  tvg-name="BBC Lifestyle" tvg-logo="https://live.fanmingming.com/tv/BBCLifestyle.png"
-group-title="记录",BBC Lifestyle
-https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8  
+#EXTINF:-1 tvg-id="BBC Lifestyle"  tvg-name="BBC Lifestyle" tvg-logo="https://live.fanmingming.com/tv/BBCLifestyle.png" group-title="记录",BBC Lifestyle
+https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
+  
 #EXTINF:-1 tvg-id="loupe"  tvg-logo="https://i.imgur.com/Co54F0T.png" tvg-name="Loupe" group-title="记录",Loupe 4K
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-id="Clarity" tvg-name="Clarity"  tvg-logo="https://i.imgur.com/M87kbVk.png"  group-title="记录",Clarity 4K

@@ -35,18 +35,15 @@ https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-id="Clarity" tvg-name="Clarity"  tvg-logo="https://i.imgur.com/M87kbVk.png"  group-title="记录",Clarity
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
-#EXTINF:-1  tvg-id="LoveNrture" tvg-name="LoveNrture" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png"group-title="记录",Love Nrture 
+#EXTINF:-1 tvg-id="Deluxe" tvg-name="Deluxe"  tvg-logo="https://i.imgur.com/Io1y7Vf.png"  group-title="记录",Deluxe Lounge HD
+https://stream.ads.ottera.tv/cl/231009cki5o24nsepl2jh7b2eg/1920x1080_5359200_5_f.m3u8
+#EXTINF:-1  tvg-id="LoveNarture" tvg-name="LoveNrture" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png"group-title="记录",Love Narture
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1tvg-id="Bloomberg TV 4K" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1074.png“ group-title="记录",Bloomberg TV
-https://bloomberg-bloomberg-2-nz.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1   tvg-id="Boomberg Quicktake" group-title="记录" ,Boomberg Quicktake
-http://bloomberg-quicktake-1-nl.samsung.wurl.tv/playlist.m3u8?
 #EXTINF:-1   tvg-id="Go USA" group-title="记录" ,Go USA (EU)
 https://brandusa-gousa-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/bilibili.png" group-title="记录",火车环游世界
 https://0977818b1849ce29132ecb5368359132.h2.smtcdns.net/d1--cn-gotcha204-1.bilivideo.com/live-bvc/527217/live_8889494_64119968/index.m3u8?expires=1713370297&len=0&oi=0x240e03830611220095f766f15135ce6f&pt=web&qn=10000&trid=100772fdc0be0da34fc1be4121bb702e3332&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha204&sign=804fcf08178f3059228f8c01c26a6ddc&sk=cb8595129e13161b4a19cb06d52e6a4c&p2p_type=1&sl=1&free_type=0&mid=39747201&pp=rtmp&source=onetier&trace=10&site=ba63e8d75d18e9724380283a84a0b624&order=1&TxLiveCode=cold_stream&TxDispType=0&svr_type=live_oc&tencent_test_client_ip=113.218.145.13&dispatch_from=OC_MGR124.232.162.160&utime=1713366641915
-#EXTINF:-1 tvg-logo="https://mirror.ghproxy.com/https://raw.githubusercontent.com/towerstreet/IPTV-TVBOX/main/LOGO/地球频道.png" group-title="记录",地球频道
-https://714d455d133850169798855893804b3f.h2.smtcdns.net/d1--cn-gotcha204-3.bilivideo.com/live-bvc/561000/live_91650842_55105212/index.m3u8?expires=1713368130&len=0&oi=0x240e03830611220095f766f15135ce6f&pt=web&qn=0&trid=1007bfc34c438bfc45e3ae9cd486cd24a8dd&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha204&sign=ea60209406a684b91974c4a6af983cde&sk=323b16106320e17953e3a2ef7f53a1d6&p2p_type=1&sl=1&free_type=0&mid=39747201&pp=srt&source=onetier&trace=10&site=f4888e9935fabfa227d001716b0565fc&qp=de_0&order=1&TxLiveCode=cold_stream&TxDispType=0&svr_type=live_oc&tencent_test_client_ip=113.218.145.13&dispatch_from=OC_MGR113.219.183.47&utime=1713364483915
+
 
 
 #央视
@@ -203,18 +200,18 @@ https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_
 http://fash2043.cloudycdn.services//slive/_definst_/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/chunklist_b10668000_t64NGs=.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion" group-title="时尚",FASHION MIDNITE
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion" group-title="时尚",FASHION MIDNITE
+https://fash1043.cloudycdn.services/slive/ftv_ftv_midnite_k1y_27049_midnite_secr_108_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://live.fanmingming.com/tv/fashiontv.png" group-title="时尚",FASHIONTV PG16
 http://fash1043.cloudycdn.services/slive/ftv_pg16_adaptive.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Fashion_TV_logo.svg/512px-Fashion_TV_logo.svg.png" group-title="时尚",FASHION PARIS
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 tvg-name="Fashion TV"  tvg-logo="https://epg.pw/media/images/channel/2022/04/25/large/20220425141945869569_85.jpg" group-title="时尚",fashion tv
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1  tvg-name="code fashion"  tvg-logo="https://i.imgur.com/mVc2g64.png" group-title="时尚",code fashion
 #EXTINF:-1 tvg-name="global fashion channel" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/bae62fe186091391d8d3369293b53dcc.jpg" group-title="时尚",Global Fashion 
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 tvg-name="global fashion channel" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/bae62fe186091391d8d3369293b53dcc.jpg" group-title="时尚",Global Fashion
 https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
-
 #EXTINF:-1 tvg-name="生活时尚"  tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="时尚",SiTV生活时尚
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1,tvg-name="NEW KPOP"  group-title="时尚",NEW KPOP (EU)

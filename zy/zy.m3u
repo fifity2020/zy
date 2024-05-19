@@ -242,7 +242,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 
 
 #体育
-#EXTINF:-1 tvg-id="Sport 4K" tvg-name="Sport 4K" tvg-logo="https://yang-1989.eu.org/logo/FashionTV.png" group-title="体育",Sport 4K
+#EXTINF:-1 tvg-id="Sport 4K" tvg-name="Sport 4K" tvg-logo="https://yang-1989.eu.org/logo/sport.png" group-title="体育",Sport 4K
 https://7pal.short.gy/5sport
 #EXTINF:-1 tvg-id="百事通" tvg-name="百事通" tvg-logo="https://yang-1989.eu.org/logo/百事通.png" group-title="体育",百事通体育
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000008&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
@@ -252,7 +252,6 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000063/index.m3u8?
 http://[2409:8087:5e08:24::15]:6610/000000001000/2000000002000000007/index.m3u8?IAS
 #EXTINF:-1 tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="体育",SiTV劲爆体育
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-
 #EXTINF:-1 tvg-id="咪咕足球" tvg-name="咪咕精彩足球" tvg-logo="https://live.fanmingming.com/tv/咪咕精彩足球.png" group-title="体育" ,咪咕足球
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="体育",咪咕直播4K-1「IPV6」

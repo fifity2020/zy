@@ -36,7 +36,7 @@ https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-id="Clarity" tvg-name="Clarity"  tvg-logo="https://i.imgur.com/M87kbVk.png"  group-title="记录",Clarity
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 #EXTINF:-1 tvg-id="Deluxe" tvg-name="Deluxe"  tvg-logo="https://i.imgur.com/Io1y7Vf.png"  group-title="记录",Deluxe Lounge HD
-http://live.iill.top/huya.php?id=660000
+https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips&checkedby:iptvcat.com
 #EXTINF:-1  tvg-id="LoveNarture" tvg-name="LoveNrture" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png"group-title="记录",Love Narture
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1   tvg-id="Go USA" group-title="记录" ,Go USA (EU)

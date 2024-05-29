@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,http://epg.aptvapp.com/xml,https://assets.livednow.com/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #记录
-#EXTINF:-1 tvg-id="纯享4K"tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="记录",纯享 4K
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="记录",纯享 4K
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
 #EXTINF:-1 tvg-id="苏州4k" tvg-name="苏州4k" tvg-logo="https://live.fanmingming.com/tv/苏州4K.png" group-title="记录",苏州4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
@@ -29,17 +29,17 @@ https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
 https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
 #EXTINF:-1 tvg-id="BBC Lifestyle"  tvg-name="BBC Lifestyle" tvg-logo="https://live.fanmingming.com/tv/BBCLifestyle.png" group-title="记录",BBC Lifestyle
 https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8  
-#EXTINF:-1 tvg-id="loupe"  tvg-logo="https://i.imgur.com/Co54F0T.png" tvg-name="Loupe" group-title="记录",Loupe 
+#EXTINF:-1 tvg-id="loupe"  tvg-logo="https://yang-1989.eu.org/logo/Loupe4K.png" tvg-name="Loupe" group-title="记录",Loupe 
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-id="Clarity" tvg-name="Clarity"  tvg-logo="https://i.imgur.com/M87kbVk.png"  group-title="记录",Clarity
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
-#EXTINF:-1 tvg-id="Deluxe" tvg-name="Deluxe"  tvg-logo="https://i.imgur.com/Io1y7Vf.png"  group-title="记录",Deluxe Lounge HD
+#EXTINF:-1 tvg-id="Deluxe" tvg-name="Deluxe"  tvg-logo="https://yang-1989.eu.org/logo/DeluxeLounge.png"  group-title="记录",Deluxe Lounge HD
 https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/v1/master/81bfcafb76f9c947b24574657a9ce7fe14ad75c0/live-prod/9a087b26-8be4-11eb-a7de-bacfe1f83627/0/master.m3u8?country=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips&checkedby:iptvcat.comcountry=DE&optout=0&uid=749544ec3d9a45d48c600d03cac91dfd&vendor=philips&checkedby:iptvcat.com
 #EXTINF:-1  tvg-id="Love-Nature" tvg-name="LoveNrture" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="记录",Love Narture
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1   tvg-id="Go USA" tvg-logo="https://i.imgur.com/x90ALip.png"  group-title="记录" ,Go USA
+#EXTINF:-1   tvg-id="Go USA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20230726T033527SQUARE.png_20230726033528.png"  group-title="记录" ,Go USA
 https://brandusa-gousa-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="Asiatravel.png" group-title="记录",亞洲旅遊台
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://live.fanmingming.com/tv/asiatravel.png" group-title="记录",亞洲旅遊台
 http://192.168.20.2:5687/litv.php?id=litv-longturn17
 #EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://assets.livednow.com/logo/視納華仁紀實頻道.png" group-title="记录",視納華仁紀實頻道
 http://192.168.20.2:5687/litv.php?id=4gtv-4gtv013
@@ -162,14 +162,14 @@ http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://live.fanmingming.com/tv/大湾区卫视.png" group-title="卫视",大湾区卫视
 http://[2409:8087:1a0b:df::4020]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视",凤凰中文
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+https://i.iill.top/tptv/HD-10000k-1080P-fhchinese5s
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视",凤凰资讯
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+https://tv.iill.top/youtube/phoenixtvhk
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视",凤凰香港
-http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN英语
+https://i.iill.top/tptv/HD-10000k-1080P-fhhongkong5s
+#EXTINF:-1 tvg-id="CGTN新闻" tvg-name="CGTN" tvg-logo="https://live.fanmingming.com/tv/CGTN.png" group-title="央视",CGTN
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
-#EXTINF:-1  tvg-id="上海外语" group-title="卫视",上海外语
+#EXTINF:-1  tvg-id="上海外语"  tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="卫视",上海外语
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
 #影视
@@ -230,7 +230,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000006/index.m3u8?
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1  tvg-name="亚洲新闻台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/ChannelAsia.png" group-title="国际",CNA
 https://tv.iill.top/youtube/channelnewsasia
-#EXTINF:-1 tvg-name="CNN HD" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",CNN新闻
+#EXTINF:-1 tvg-name="CNN" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",CNN新闻
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
 #EXTINF:-1  tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164717897792_32.png" group-title="国际",BBC新闻
 

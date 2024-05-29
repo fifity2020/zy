@@ -42,15 +42,15 @@ https://tv.iill.top/youtube/NatGeo
 #EXTINF:-1   tvg-id="Go USA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20230726T033527SQUARE.png_20230726033528.png"  group-title="记录" ,Go USA
 https://brandusa-gousa-1-se.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://live.fanmingming.com/tv/asiatravel.png" group-title="记录",亞洲旅遊台
-http://192.168.20.2:5000/litv-longturn17
+http://192.168.20.2:5000/litv/litv-longturn17
 #EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://assets.livednow.com/logo/視納華仁紀實頻道.png" group-title="记录",視納華仁紀實頻道
-http://192.168.20.2:5000/4gtv-4gtv013
+http://192.168.20.2:5000/litv/4gtv-4gtv013
 #EXTINF:-1 tvg-id="Globetrotter" tvg-name="Globetrotter環遊旅行家" tvg-logo="https://assets.livednow.com/logo/Globetrotter-環遊旅行家.png" group-title="记录",Globetrotter 環遊旅行家
-http://192.168.20.2:5000/4gtv-4gtv016
+http://192.168.20.2:5000/litv/4gtv-4gtv016
 #EXTINF:-1 tvg-id="Global-Trekker" tvg-name="Global Trekker" tvg-logo="https://assets.livednow.com/logo/Global-Trekker.png" group-title="记录", Global Trekker
 http://192.168.20.2:5000/4gtv/252
 #EXTINF:-1 tvg-id="Smart-知識台" tvg-name="Smart知識台" tvg-logo="https://assets.livednow.com/logo/Smart-知識台.png" group-title="记录",Smart 知識台
-http://192.168.20.2:5000/litv-longturn19
+http://192.168.20.2:5000/litv/litv-longturn19
 #EXTINF:-1 tvg-id="History-歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://assets.livednow.com/logo/History-歷史頻道.png" group-title="记录", History 歷史頻道
 http://192.168.20.2:5000/4gtv/214
 #EXTINF:-1 tvg-id="LUXE-TV" tvg-name="LUXE TV" tvg-logo="https://assets.livednow.com/logo/LUXE-TV.png" group-title="记录", LUXE TV
@@ -206,7 +206,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000013/index.m3u8?
 
 #音乐时尚
 #EXTINF:-1 tvg-id="Classica-古典樂" tvg-name="CLASSICA古典樂" tvg-logo="https://assets.livednow.com/logo/Classica-古典樂.png" group-title="音乐时尚",CLASSICA 古典樂
-http://192.168.20.2:5000/4gtv-4gtv059
+http://192.168.20.2:5000/litv/4gtv-4gtv059
 #EXTINF:-1 tvg-id="CMusic" tvg-name="CMusic" tvg-logo="https://assets.livednow.com/logo/電影原聲台CMusic.png" group-title="音乐时尚",電影原聲台 CMusic
 http://192.168.20.2:5000/4gtv/218
 #EXTINF:-1 tvg-id="Mezzo-Live" tvg-name="Mezzo Live" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live.png" group-title="音乐时尚", Mezzo Live

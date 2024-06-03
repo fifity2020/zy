@@ -249,8 +249,8 @@ https://tv.iill.top/youtube/channelnewsasia
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
 #EXTINF:-1  tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164717897792_32.png" group-title="国际",BBC新闻
 http://abcnew.site:8880/3ca7123n11/ewfr543ds/2946
-#EXTINF:-1   tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164717897792_32.png" group-title="国际" ,BBC World News HD
-
+#EXTINF:-1   tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164717897792_32.png" group-title="国际" ,BBC World News 
+http://103.199.161.254/Content/bbcworld/Live/Channel%28BBCworld%29/index.m3u8
 #EXTINF:-1 tvg-id="Foxlive" tvg-name="FOX NEWS NOW"  tvg-logo="https://live.fanmingming.com/tv/FoxLive.png" group-title="国际",Foxlive
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1  tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="国际",NHK World

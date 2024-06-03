@@ -248,20 +248,19 @@ https://tv.iill.top/youtube/channelnewsasia
 #EXTINF:-1 tvg-name="CNN" tvg-logo="https://live.fanmingming.com/tv/CNNNews.png" group-title="国际",CNN新闻
 https://cnn-cnninternational-1-eu.rakuten.wurl.tv/f93b9a949a4a8651dd5a2f42e3a2b6f9.m3u8
 #EXTINF:-1  tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164717897792_32.png" group-title="国际",BBC新闻
-
+http://abcnew.site:8880/3ca7123n11/ewfr543ds/2946
 #EXTINF:-1   tvg-id="BBCWORLDNEWS" tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164717897792_32.png" group-title="国际" ,BBC World News HD
-http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
+
 #EXTINF:-1 tvg-id="Foxlive" tvg-name="FOX NEWS NOW"  tvg-logo="https://live.fanmingming.com/tv/FoxLive.png" group-title="国际",Foxlive
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1  tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="国际",NHK World
 https://tv.iill.top/youtube/NHKWORLDJAPAN
-#EXTINF:-1  tvg-name="ABCAUSTRALIA" tvg-logo="https://live.fanmingming.com/tv/abcaus.png" group-title="国际",ABC News Australia
+#EXTINF:-1  tvg-name="" tvg-logo="https://live.fanmingming.com/tv/abcaus.png" group-title="国际",ABC News Australia
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index_42.m3u8
 
 
 #体育
-#EXTINF:-1  tvg-name="哔哩足球" tvg-logo="https://yang-1989.eu.org/logo/哔哩哔哩.png" group-title="体育",哔哩足球
-http://live.iill.top/bilibili.php?id=22
+
 #EXTINF:-1  tvg-name="百事通" tvg-logo="https://yang-1989.eu.org/logo/百事通.png" group-title="体育",百事通体育
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000060/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000060&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-id="魅力足球" tvg-name="魅力足球" tvg-logo="https://live.fanmingming.com/tv/魅力足球.png" group-title="体育",魅力足球

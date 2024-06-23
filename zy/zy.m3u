@@ -98,7 +98,7 @@ http://192.168.20.2:5000/itv/bestzb/5000000008000023254?cdn=192.168.20.2:9000
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K 超高清
 http://27.222.3.214/liveali-tp4k.cctv.cn/live/4K10M.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视",CCTV-4K 超高清
-http://192.168.20.2:5687/xxtv4k.php
+http://192.168.20.2:5000/tptv/G_CCTV-4K-HD?type=proxy&server=192.168.20.2:8000
 #EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视",CCTV-8K 超高清
 
 
@@ -277,15 +277,15 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000060/index.m3u8?
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000068/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000068&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-id="劲爆体育" tvg-name="劲爆体育" tvg-logo="https://live.fanmingming.com/tv/劲爆体育.png" group-title="体育",SiTV劲爆体育
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000008&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="咪咕足球" tvg-name="咪咕综合体育" tvg-logo="https://live.fanmingming.com/tv/咪咕综合体育.png" group-title="体育" ,咪咕精彩足球
+#EXTINF:-1 tvg-id="咪咕足球" tvg-name="咪咕足球" tvg-logo="https://live.fanmingming.com/tv/咪咕视频..png" group-title="体育" ,咪咕精彩足球
 http://192.168.20.2:5000/tptv/HD-8000k-1080P-miguaoyun1?type=proxy&server=192.168.20.2:8000
 #EXTINF:-1 tvg-id="咪咕综合体育" tvg-name="咪咕综合体育" tvg-logo="https://assets.livednow.com/logo/咪咕视频.png" group-title="其他", 咪咕综合体育
 http://192.168.20.2:5000/tptv/HD-8000k-1080P-miguaoyun2?type=proxy&server=192.168.20.2:8000
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="体育" ,咪咕直播1
+#EXTINF:-1 tvg-id="咪咕直播" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="体育" ,咪咕直播1
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="体育",咪咕直播2
+#EXTINF:-1 tvg-id="咪咕直播" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="体育",咪咕直播2
 http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226147/index.m3u8
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="体育",咪咕直播3
+#EXTINF:-1 tvg-id="咪咕直播" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="体育",咪咕直播3
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
-#EXTINF:-1,tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="体育", 咪咕直播4 
+#EXTINF:-1 tvg-id="咪咕直播" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="体育", 咪咕直播4 
 http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8

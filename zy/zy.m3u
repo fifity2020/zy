@@ -24,11 +24,11 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000008/index.m3u8?
 #EXTINF:-1  tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="记录",CGTN记录
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 #EXTINF:-1  tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://live.fanmingming.com/tv/BBCEarth.png" group-title="记录",BBC Earth
-https://i.mjh.nz/SamsungTVPlus/USBD1700001RW.m3u8
+
 #EXTINF:-1 tvg-id="BBC Food"  tvg-name="BBC Food" tvg-logo="https://live.fanmingming.com/tv/BBCEarth.png" group-title="记录",BBC Food
-https://i.mjh.nz/SamsungTVPlus/USBC6000108Z.m3u8
+
 #EXTINF:-1 tvg-id="BBC Lifestyle"  tvg-name="BBC Lifestyle" tvg-logo="https://live.fanmingming.com/tv/BBCLifestyle.png" group-title="记录",BBC Lifestyle
-https://i.mjh.nz/SamsungTVPlus/USBC600017FG.m3u8  
+  
 #EXTINF:-1 tvg-id="loupe"  tvg-logo="https://yang-1989.eu.org/logo/Loupe4K.png" tvg-name="Loupe" group-title="记录",Loupe 
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-id="Clarity" tvg-name="Clarity"  tvg-logo="https://i.imgur.com/M87kbVk.png"  group-title="记录",Clarity

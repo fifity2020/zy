@@ -291,7 +291,6 @@ http://[2409:8087:1a01:df::403b]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 http://[2409:8087:1a01:df::4033]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226398/index.m3u8
 #EXTINF:-1 tvg-id="咪咕直播" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="体育", 咪咕直播4 
 http://[2409:8087:1a01:df::4046]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226472/index.m3u8
-8?channel-id=FifastbLive&Contentid=3000000001000010948&livemode=1&stbId=3
 #EXTINF:-1 tvg-id="咪咕直播" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="体育",咪咕直播 1
 https://stream1.freetv.fun/c994a1bbdc935dc4629eb3c91890711ed422a96388c2aec11ff7fa970a003006.m3u8
 #EXTINF:-1 tvg-id="咪咕直播" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="体育",咪咕直播 2
@@ -383,36 +382,3 @@ https://stream1.freetv.fun/67142ea4f3a1e1f958c20df0e86d77638546e46a4b3f3608e7bd1
 #EXTINF:-1 tvg-id="咪咕直播" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="体育",咪咕直播 45
 https://stream1.freetv.fun/ff22d54410fe009315856a3513f5716609ca915aee36af17a61f89a1f1b2b9cd.m3u8
 
-# TVB
-#EXTINF:1 group-title="TVB" tvg-id="tvb/tvbplus" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] TVB Plus
-https://mytv.btjson.us.kg/stream/tvb/tvbplus/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:2 group-title="TVB" tvg-id="tvb/null-1" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 娛樂新聞台
-https://mytv.btjson.us.kg/stream/tvb/null-1/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:3 group-title="TVB" tvg-id="tvb/null-7" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 戲劇電影
-https://mytv.btjson.us.kg/stream/tvb/null-7/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:4 group-title="TVB" tvg-id="tvb/null-6" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 新聞財經
-https://mytv.btjson.us.kg/stream/tvb/null-6/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:5 group-title="TVB" tvg-id="tvb/null-5" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 無線新聞台
-https://mytv.btjson.us.kg/stream/tvb/null-5/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:6 group-title="TVB" tvg-id="tvb/null" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 翡翠台
-https://mytv.btjson.us.kg/stream/tvb/null/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:7 group-title="TVB" tvg-id="tvb/4k" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 翡翠台 4K
-https://mytv.btjson.us.kg/stream/tvb/4k/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:8 group-title="TVB" tvg-id="tvb/null-2" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 鳳凰衛視中文台
-https://mytv.btjson.us.kg/stream/tvb/null-2/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:9 group-title="TVB" tvg-id="tvb/null-3" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 鳳凰衛視香港台
-https://mytv.btjson.us.kg/stream/tvb/null-3/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:10 group-title="TVB" tvg-id="tvb/null-4" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 鳳凰資訊
-https://mytv.btjson.us.kg/stream/tvb/null-4/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc
-
-#EXTINF:11 group-title="TVB" tvg-id="tvb/null-8" tvg-logo="" provider="TVB" provider-logo="" provider-type="iptv",[TVB] 黃金翡翠台
-https://mytv.btjson.us.kg/stream/tvb/null-8/master.m3u8?u=btjson&p=213f2541f159ac2ec56f4173f3731fdd6ac1ea725a0c7892870cf85ea22cb3cc

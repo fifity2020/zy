@@ -39,7 +39,7 @@ https://d46c0ebf9ef94053848fdd7b1f2f6b90.mediatailor.eu-central-1.amazonaws.com/
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1   tvg-id="Go USA" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/ESBC27000040I_20230726T033527SQUARE.png_20230726033528.png"  group-title="记录" ,Go USA
 https://brandusa-gousa-1-se.samsung.wurl.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://live.fanmingming.com/tv/asiatravel.png" group-title="记录",亞洲旅遊台
+#EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="记录",亞洲旅遊台
 http://192.168.20.2:5000/litv/litv-longturn17
 #EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://assets.livednow.com/logo/視納華仁紀實頻道.png" group-title="记录",視納華仁紀實頻道
 http://192.168.20.2:5000/litv/4gtv-4gtv013
@@ -210,7 +210,7 @@ https://tv.iill.top/tv/wlt
 #影视
 #EXTINF:-1 tvg-id="爱上4K"  tvg-name="爱上4K" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png"group-title="影视",爱上4K 
 http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000459/index.m3u8?IAS
-#EXTINF:-1 tvg-name="华数" tvg-logo="https://tv.iill.top/logo/华数4K.png"  group-title="影视",华数
+#EXTINF:-1 tvg-name="华数" tvg-logo="https://tv.iill.top/logo/华数4K.png"  group-title="影视",华数4K
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="影视",欢笑剧场4K
@@ -241,7 +241,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000008/index.m3u8?
 #音乐时尚
 #EXTINF:-1 tvg-id="Classica-古典樂" tvg-name="CLASSICA古典樂" tvg-logo="https://assets.livednow.com/logo/Classica-古典樂.png" group-title="音乐时尚",CLASSICA 古典樂
 http://192.168.20.2:5000/litv/4gtv-4gtv059
-#EXTINF:-1 tvg-id="CMusic" tvg-name="CMusic" tvg-logo="https://assets.livednow.com/logo/電影原聲台CMusic.png" group-title="音乐时尚",電影原聲台 CMusic
+#EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="CMusic" tvg-logo="https://assets.livednow.com/logo/電影原聲台CMusic.png" group-title="音乐时尚",電影原聲台 CMusic
 http://192.168.20.2:5000/4gtv/218
 #EXTINF:-1 tvg-id="Mezzo-Live" tvg-name="Mezzo Live" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live.png" group-title="音乐时尚", Mezzo Live
 http://192.168.20.2:5000/litv/4gtv-4gtv083

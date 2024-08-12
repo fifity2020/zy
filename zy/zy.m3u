@@ -161,24 +161,20 @@ https://tv.iill.top/tv/fhzw
 https://tv.iill.top/tv/fhzx
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视",凤凰香港
 https://tv.iill.top/tv/fhxg
-#EXTINF:-1 group-title="卫视",無線新聞台
+#EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="卫视",無線新聞台
 https://tv.iill.top/tv/wxxw
-#EXTINF:-1 group-title="卫视",翡翠台
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png"  group-title="卫视" ,翡翠台
 https://tv.iill.top/tv/fct
-#EXTINF:-1 group-title="卫视",明珠台
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png"  group-title="卫视",明珠台
 https://tv.iill.top/tv/mzt
-#EXTINF:-1 group-title="卫视",星河台
-https://tv.iill.top/tv/xh
-#EXTINF:-1 group-title="卫视",TVB Plus
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB Plus.png"  group-title="卫视",TVB Plus
 https://tv.iill.top/tv/tvb
-#EXTINF:-1 group-title="卫视",港台電視 31
+#EXTINF:-1 tvg-id="港台電視-31" tvg-name="港台電視-31" tvg-logo="https://assets.livednow.com/logo/港台電視-31.png"  group-title="卫视",港台電視 31
 https://tv.iill.top/tv/rthk31
-#EXTINF:-1 group-title="卫视",港台電視 32
+#EXTINF:-1 tvg-id="港台電視-32" tvg-name="港台電視-32" tvg-logo="https://assets.livednow.com/logo/港台電視-32.png"  group-title="卫视",港台電視 32
 https://tv.iill.top/tv/rthk32
-#EXTINF:-1 group-title="卫视",千禧經典
+#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png"  group-title="卫视",千禧經典
 https://tv.iill.top/tv/qxjd
-#EXTINF:-1 group-title="卫视",華麗台
-https://tv.iill.top/tv/wlt
 
 
 #影视

@@ -155,13 +155,16 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m
 #EXTINF:-1  tvg-id="上海外语"  tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="卫视",上海外语
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://assets.livednow.com/logo/上海都市.png" group-title="卫视", 上海都市
-http://192.168.20.2:5000/itv/bestzb/5000000010000018926?cdn=192.168.20.2:9000
+http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="卫视",凤凰中文
-https://tv.iill.top/tv/fhzw
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pcc72.m3u8
+#https://tv.iill.top/tv/fhzw
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视资讯台.png" group-title="卫视",凤凰资讯
-https://tv.iill.top/tv/fhzx
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701pin72.m3u8
+#https://tv.iill.top/tv/fhzx
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="卫视",凤凰香港
-https://tv.iill.top/tv/fhxg
+http://116.162.6.192/1.v.smtcdns.net/qctv.fengshows.cn/live/0701phk72.m3u8
+#https://tv.iill.top/tv/fhxg
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="卫视",無線新聞台
 https://tv.iill.top/tv/wxxw
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png"  group-title="卫视" ,翡翠台
@@ -194,11 +197,14 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000015/index.m3u8?
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
 #EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="影视",CHC高清电影
-http://[2409:8087:4c0a:22:1::21]:6610/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04&
+https://pi.0472.org/chc/ym.m3u8
+#http://[2409:8087:4c0a:22:1::21]:6610/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04&
 #EXTINF:-1 tvg-id="CHC家庭电影" tvg-name="CHC家庭电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="影视",CHC家庭影院
-http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4&IA
+https://pi.0472.org/chc/jt.m3u8
+#http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4&IA
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="影视",CHC动作电影
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
+https://pi.0472.org/chc/dz.m3u8
+#http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNSXQZMUEnZPBI3Y%2BI8ABE4PJC%2B6OvlZZw5ubC%2FbrIdxFJJY1CcAGU%2BYDDQV9oJ%2FVqQ
 #EXTINF:-1 tvg-id="百事通" tvg-name="百事通" tvg-logo="https://tv.iill.top/logo/百事通.png" group-title="影视",百事通娱乐
 http://[2409:8087:5e08:24::12]:6610/000000001000/2000000004000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-id="海外电影" tvg-name="百事通" tvg-logo="https://tv.iill.top/logo/百事通.png" group-title="影视",百事通海外电影

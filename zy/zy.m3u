@@ -232,7 +232,7 @@ http://[2409:8087:5e08:24::12]:6610/000000001000/2000000003000000008/index.m3u8?
 #音乐时尚
 #EXTINF:-1 tvg-id="Classica-古典樂" tvg-name="CLASSICA古典樂" tvg-logo="https://assets.livednow.com/logo/Classica-古典樂.png" group-title="音乐时尚",CLASSICA 古典樂
 http://192.168.20.2:5000/litv/4gtv-4gtv059
-#EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="CMusic" tvg-logo="https://assets.livednow.com/logo/電影原聲台CMusic.png" group-title="音乐时尚",電影原聲台 CMusic
+#EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="電影原聲台 CMusic" tvg-logo="https://assets.livednow.com/logo/電影原聲台CMusic.png" group-title="音乐时尚",電影原聲台 CMusic
 http://192.168.20.2:5000/4gtv/218
 #EXTINF:-1 tvg-id="Mezzo-Live" tvg-name="Mezzo Live" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live.png" group-title="音乐时尚", Mezzo Live
 http://192.168.20.2:5000/litv/4gtv-4gtv083
@@ -257,6 +257,7 @@ https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8
 #EXTINF:-1  tvg-name="BBCWORLDNEWS" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164717897792_32.png" group-title="国际",BBC新闻
 #https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
+#https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="Foxlive" tvg-name="FOX NEWS NOW"  tvg-logo="https://live.fanmingming.com/tv/FoxLive.png" group-title="国际",Foxlive
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1  tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="国际",NHK World

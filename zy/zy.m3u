@@ -202,20 +202,14 @@ http://192.168.20.2:5000/itv/bestzb/5000000011000031111?server=192.168.20.2:8000
 #EXTINF:-1 tvg-id="七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png"  group-title="影视",SiTV七彩戏剧
 #http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000010/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000010&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 http://192.168.20.2:5000/itv/bestzb/5000000011000031116?server=192.168.20.2:8000
-#EXTINF:-1 tvg-id="CHC高清电影" tvg-name="CHC高清电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC3.jpg" group-title="影视",CHC高清电影
-https://pi.0472.org/chc/ym.m3u8
-#http://[2409:8087:4c0a:22:1::21]:6610/170000001115/UmaiCHAN6380764b172c9/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNS8qWmEGeaUedzcFVVumqf9cm8lJoOcrIZueLbqOJTuoPV%2FwBk6CoHYGFV14SkLW04&
+#EXTINF:-1 tvg-id="CHC1" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/CHC4.png" group-title="影视",CHC影迷电影
+http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="影视",CHC家庭影院
-https://pi.0472.org/chc/jt.m3u8
+http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
 #http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4&IA
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="影视",CHC动作电影
-https://pi.0472.org/chc/dz.m3u8
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="影视",CHC动作电影
-http://www.yao87.com:4022/udp/239.76.245.242:1234
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="影视",CHC动作电影
 http://119.98.133.130:4000/rtp/239.69.1.242:11094
-#EXTINF:-1 tvg-id="百事通" tvg-name="百事通" tvg-logo="https://tv.iill.top/logo/百事通.png" group-title="#EXTINF:-1 tvg-name="南国都市" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/南国都市.png" group-title="数字频道",南国都市
-https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de",百事通娱乐
+#EXTINF:-1 tvg-id="百事通" tvg-name="百事通" tvg-logo="https://tv.iill.top/logo/百事通.png" group-title="影视",百事通娱乐
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 #EXTINF:-1 tvg-id="海外电影" tvg-name="百事通" tvg-logo="https://tv.iill.top/logo/百事通.png" group-title="影视",百事通海外电影
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000003000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989

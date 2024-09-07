@@ -158,7 +158,6 @@ http://192.168.20.2:5000/itv/hnbblive/7745129417417101820?server=192.168.20.2:80
 #EXTINF:-1  tvg-id="上海外语"  tvg-logo="https://live.fanmingming.com/tv/上海外语.png" group-title="卫视",上海外语
 #http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000001/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000001&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 http://192.168.20.2:5000/itv/bestzb/5000000010000030951?server=192.168.20.2:8000
-
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://assets.livednow.com/logo/上海都市.png" group-title="卫视", 上海都市
 #http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000012/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000012&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 http://192.168.20.2:5000/itv/bestzb/5000000010000018926?server=192.168.20.2:8000
@@ -170,19 +169,15 @@ http://192.168.20.2:5000/itv/bestzb/5000000010000018926?server=192.168.20.2:8000
 #https://tv.iill.top/tv/fhxg
 #EXTINF:-1 tvg-id="無線新聞台" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png" group-title="卫视",無線新聞台
 https://tv.iill.top/tv/wxxw
+
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png"  group-title="卫视" ,翡翠台
-http://grandprix2023.asuscomm.com:8889/bysid/1.m3u8
-#https://tv.iill.top/tv/fct
+https://tv.iill.top/MyTV/J
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png"  group-title="卫视",明珠台
-https://tv.iill.top/tv/mzt
+https://tv.iill.top/MyTV/P
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB Plus.png"  group-title="卫视",TVB Plus
-https://tv.iill.top/tv/tvb
-#EXTINF:-1 tvg-id="港台電視-31" tvg-name="港台電視-31" tvg-logo="https://assets.livednow.com/logo/港台電視-31.png"  group-title="卫视",港台電視 31
-https://tv.iill.top/tv/rthk31
-#EXTINF:-1 tvg-id="港台電視-32" tvg-name="港台電視-32" tvg-logo="https://assets.livednow.com/logo/港台電視-32.png"  group-title="卫视",港台電視 32
-https://tv.iill.top/tv/rthk32
-#EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://assets.livednow.com/logo/千禧經典台.png"  group-title="卫视",千禧經典
-https://tv.iill.top/tv/qxjd
+https://tv.iill.top/MyTV/B
+#EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png"  group-title="卫视",黃金翡翠台
+https://tv.iill.top/MyTV/TVG
 
 
 #影视
@@ -235,7 +230,7 @@ https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="global fashion channel" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/bae62fe186091391d8d3369293b53dcc.jpg" group-title="音乐时尚",Global Fashion 
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 tvg-name="生活时尚"  tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="音乐时尚",SiTV生活时尚
-http://[2409:8087:5e08:24::12]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 
 
 #国际

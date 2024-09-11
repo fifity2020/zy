@@ -171,7 +171,7 @@ http://192.168.20.2:5000/itv/bestzb/5000000010000018926?server=192.168.20.2:8000
 https://tv.iill.top/tv/wxxw
 
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png"  group-title="卫视" ,翡翠台
-https://tv.iill.top/MyTV/J
+https://tv.iill.top/MyTV/JUHD
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png"  group-title="卫视",明珠台
 https://tv.iill.top/MyTV/P
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://assets.livednow.com/logo/TVB Plus.png"  group-title="卫视",TVB Plus

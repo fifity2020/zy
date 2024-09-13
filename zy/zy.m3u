@@ -26,10 +26,14 @@ http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000008/index.m3u8?
 #EXTINF:-1  tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="记录",CGTN记录
 #http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 http://192.168.20.2:5000/itv/hnbblive/7114647837765104058?server=192.168.20.2:8000
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="记录",LOUPE 4K
+http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-id="Clarity" tvg-name="Clarity"  tvg-logo="https://i.imgur.com/M87kbVk.png"  group-title="记录",Clarity
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 #EXTINF:-1  tvg-id="Love-Nature" tvg-name="LoveNrture" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="记录",Love Narture
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1  tvg-id="Love-Nature" tvg-name="LoveNrture" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="记录",Love Narture 4k
+https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1  tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://live.fanmingming.com/tv/BBCEarth.png" group-title="记录",BBC Earth
 http://192.168.20.2:5000/hami/OTT_LIVE_0000001510
 #EXTINF:-1 tvg-id="BBC Food"  tvg-name="Discovery-Asia" tvg-logo="https://live.fanmingming.com/tv/BBCEarth.png" group-title="记录",BBC Food
@@ -176,7 +180,7 @@ http://192.168.20.2:5000/itv/bestzb/5000000010000018926?server=192.168.20.2:8000
 #EXTINF:-1 tvg-name="华数" tvg-logo="https://tv.iill.top/logo/华数4K.png"  group-title="影视",华数4K
 #http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000014/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000014&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 http://192.168.20.2:5000/itv/wasusyt/6000000003000004748?server=192.168.20.2:8000
-#EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="影视",欢笑剧场4K
+#EXTINF:-1 tvg-id="欢笑剧场-4K" tvg-name="欢笑剧场-4K" tvg-logo="https://assets.livednow.com/logo/欢笑剧场-4K.png" group-title="影视",欢笑剧场4K
 #http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 http://192.168.20.2:5000/itv/bestzb/5000000007000010001?server=192.168.20.2:8000
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="影视",新视觉
@@ -189,10 +193,10 @@ http://192.168.20.2:5000/itv/bestzb/5000000011000031111?server=192.168.20.2:8000
 http://192.168.20.2:5000/itv/bestzb/5000000011000031116?server=192.168.20.2:8000
 #EXTINF:-1 tvg-id="CHC1" tvg-name="CHC影迷电影" tvg-logo="https://gitee.com/Black_crow/epglogo/raw/master/shuzi/CHC4.png" group-title="影视",CHC影迷电影
 http://218.76.32.193:9901/tsfile/live/1019_1.m3u8
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC2.jpg" group-title="影视",CHC家庭影院
+#EXTINF:-1 tvg-id="CHC-家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://assets.livednow.com/logo/CHC-家庭影院.png" group-title="影视",CHC家庭影院
 http://218.76.32.193:9901/tsfile/live/1018_1.m3u8
 #http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4&IA
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/CHC1.jpg" group-title="影视",CHC动作电影
+#EXTINF:-1 tvg-id="CHC-动作电影" tvg-name="CHC动作电影" tvg-logo="https://assets.livednow.com/logo/CHC-动作电影.png" group-title="影视",CHC动作电影
 http://218.76.32.193:9901/tsfile/live/1020_1.m3u8
 #EXTINF:-1 tvg-id="百事通" tvg-name="百事通" tvg-logo="https://tv.iill.top/logo/百事通.png" group-title="影视",百事通娱乐
 http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
@@ -219,7 +223,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mid
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="global fashion channel" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/bae62fe186091391d8d3369293b53dcc.jpg" group-title="音乐时尚",Global Fashion 
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
-#EXTINF:-1 tvg-name="生活时尚"  tvg-logo="https://live.fanmingming.com/tv/生活时尚.png" group-title="音乐时尚",SiTV生活时尚
+#EXTINF:-1 vg-id="SiTV-生活时尚" tvg-name="SiTV-生活时尚"  tvg-logo="https://assets.livednow.com/logo/SiTV-生活时尚.png" group-title="音乐时尚",SiTV生活时尚
 #http://[2409:8087:5e08:24::17]:6610/000000001000/2000000002000000006/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000002000000006&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
 http://192.168.20.2:5000/itv/bestzb/5000000002000019634?server=192.168.20.2:8000
 

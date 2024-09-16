@@ -31,12 +31,11 @@ http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 #EXTINF:-1  tvg-id="Love-Nature" tvg-name="LoveNrture" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="记录",Love Narture
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1  tvg-id="Love-Nature" tvg-name="LoveNrture" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="记录",Love Narture 4k
-https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
 #EXTINF:-1  tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://live.fanmingming.com/tv/BBCEarth.png" group-title="记录",BBC Earth
 http://192.168.20.2:5000/hami/OTT_LIVE_0000001510
-#EXTINF:-1 tvg-id="BBC Food"  tvg-name="Discovery-Asia" tvg-logo="https://live.fanmingming.com/tv/BBCEarth.png" group-title="记录",BBC Food
-#EXTINF:-1 tvg-id="咪咕直播" tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="体育",tvg-id="Discovery-Asia-TW"  tvg-name="BBC Food" tvg-logo="https://assets.livednow.com/logo/Discovery-Asia-TW.png" group-title="记录",Discovery Asia
+#EXTINF:-1 tvg-id="BBC Food"  tvg-name=BBC Food" tvg-logo="https://live.fanmingming.com/tv/BBCFood.png" group-title="记录",BBC Food
+
+#EXTINF:-1 tvg-id="Discovery-Asia-TW"  tvg-name="Discovery-Asia" tvg-logo="https://assets.livednow.com/logo/Discovery-Asia-TW.png" group-title="记录",Discovery Asia
 http://192.168.20.2:5000/hami/OTT_LIVE_0000001924
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="记录",亞洲旅遊台
 http://192.168.20.2:5000/litv/litv-longturn17

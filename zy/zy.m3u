@@ -20,7 +20,7 @@ http://192.168.20.2:5000/itv/wasusyt/6000000002000032052?server=192.168.20.2:800
 http://192.168.20.2:5000/itv/wasusyt/6000000002000032344?server=192.168.20.2:8000
 #EXTINF:-1  tvg-id="求索动物" tvg-name="求索动物" tvg-logo="https://live.fanmingming.com/tv/求索动物.png" group-title="记录",求索动物
 http://192.168.20.2:5000/itv/wasusyt/6000000002000010046?server=192.168.20.2:8000
-#EXTINF:-1  tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="记录"，求索生活
+#EXTINF:-1  tvg-id="求索生活" tvg-name="求索生活" tvg-logo="https://live.fanmingming.com/tv/求索生活.png" group-title="记录",求索生活
 http://192.168.20.2:5000/itv/wasusyt/6000000002000003382?server=192.168.20.2:8000
 #EXTINF:-1  tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="记录",CGTN记录
 #http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS

@@ -26,7 +26,7 @@ http://192.168.20.2:5000/itv/wasusyt/6000000002000003382?server=192.168.20.2:800
 #http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000528/index.m3u8?IAS
 http://192.168.20.2:5000/itv/hnbblive/7114647837765104058?server=192.168.20.2:8000
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="记录",LOUPE 4K
-http://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
+http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 #EXTINF:-1 tvg-id="Clarity" tvg-name="Clarity"  tvg-logo="https://i.imgur.com/M87kbVk.png"  group-title="记录",Clarity
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 #EXTINF:-1  tvg-id="Love-Nature" tvg-name="LoveNrture" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="记录",Love Narture

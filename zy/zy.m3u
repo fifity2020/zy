@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://assets.livednow.com/epg.xml,https://epg.pw/xmltv/epg_lite.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+#EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml,https://assets.livednow.com/epg.xml,https://epg.pw/xmltv/epg_lite.xml,https://github.com/iptv-pro/iptv-pro.github.io/blob/main/epg/epg.xml" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 
 #记录
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="记录",纯享 4K
@@ -258,7 +258,7 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mid
 https://fashiontv-fashiontv-5-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="global fashion channel" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/bae62fe186091391d8d3369293b53dcc.jpg" group-title="音乐时尚",Global Fashion 
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
-#EXTINF:-1 vg-id="SiTV-生活时尚" tvg-name="SiTV-生活时尚"  tvg-logo="https://assets.livednow.com/logo/SiTV-生活时尚.png" group-title="音乐时尚",SiTV生活时尚
+#EXTINF:-1 vg-id="生活时尚" tvg-name="SiTV-生活时尚"  tvg-logo="https://assets.livednow.com/logo/SiTV-生活时尚.png" group-title="音乐时尚",SiTV生活时尚
 http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002019/index.m3u8?IASHttpSessionId=
 
 #国际

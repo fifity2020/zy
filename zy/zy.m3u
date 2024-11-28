@@ -45,8 +45,8 @@ http://192.168.20.2:5687/4g-litv.php?id=4gtv-4gtv016
 #EXTINF:-1 tvg-id="Smart-知識台" tvg-name="Smart知識台" tvg-logo="https://assets.livednow.com/logo/Smart-知識台.png" group-title="记录",Smart 知識台
 http://192.168.20.2:5687/4g-litv.php?id=litv-longturn19
 #EXTINF:-1 tvg-id="History-歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://assets.livednow.com/logo/History-歷史頻道.png" group-title="记录", History 歷史頻道
-#http://192.168.20.2:5000/4gtv/214
-http://192.168.20.2:5687/4g-litv.php?id=4gtv-live026
+http://192.168.20.2:5000/4gtv/214
+#http://192.168.20.2:5687/4g-litv.php?id=4gtv-live026
 
 
 #央视

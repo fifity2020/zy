@@ -37,11 +37,11 @@ http://192.168.20.2:5000/hami/OTT_LIVE_0000002039
 #EXTINF:-1 tvg-id="Discovery-Asia-TW"  tvg-name="Discovery-Asia" tvg-logo="https://assets.livednow.com/logo/Discovery-Asia-TW.png" group-title="记录",Discovery Asia
 http://192.168.20.2:5000/hami/OTT_LIVE_0000001924
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="记录",亞洲旅遊台
-#http://192.168.20.2:5687/4g-litv.php?id=litv-longturn17
-http://192.168.20.2:5000/litv/litv-longturn17
+http://192.168.20.2:5687/litv.php?id=litv-longturn17
+#http://192.168.20.2:5000/litv/litv-longturn17
 #EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://assets.livednow.com/logo/視納華仁紀實頻道.png" group-title="记录",視納華仁紀實頻道
-#http://192.168.20.2:5687/4g-litv.php?id=4gtv-4gtv013
-http://192.168.20.2:5000/litv/4gtv-4gtv013
+http://192.168.20.2:5687/litv.php?id=4gtv-4gtv013
+#http://192.168.20.2:5000/litv/4gtv-4gtv013
 #EXTINF:-1 tvg-id="Globetrotter" tvg-name="Globetrotter環遊旅行家" tvg-logo="https://assets.livednow.com/logo/Globetrotter-環遊旅行家.png" group-title="记录",Globetrotter 環遊旅行家
 #http://192.168.20.2:5687/4g-litv.php?id=4gtv-4gtv016
 http://192.168.20.2:5000/litv/4gtv-4gtv016

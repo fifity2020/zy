@@ -3,6 +3,8 @@
 #记录
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="记录",纯享 4K
 http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010006/1.m3u8
+#EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="记录",纯享 4K
+http://192.168.20.2:35455/tptv/HD-20M-2160P-chunxiang4k.m3u8
 #EXTINF:-1 tvg-id="苏州4k" tvg-name="苏州4k" tvg-logo="https://live.fanmingming.com/tv/苏州4K.png" group-title="记录",苏州4K
 #http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1  tvg-id="上海纪实" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="记录",上海纪实
@@ -49,8 +51,8 @@ http://192.168.20.2:5687/litv.php?id=4gtv-4gtv016
 http://192.168.20.2:5687/litv.php?id=litv-longturn19
 #http://192.168.20.2:5000/4gtv/214
 #EXTINF:-1 tvg-id="History-歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://assets.livednow.com/logo/History-歷史頻道.png" group-title="记录", History 歷史頻道
-http://192.168.20.2:5000/4gtv/214
-#http://192.168.20.2:5687/litv.php?id=4gtv-live026
+#http://192.168.20.2:5000/4gtv/214
+http://192.168.20.2:5687/litv.php?id=4gtv-live026
 
 
 #央视

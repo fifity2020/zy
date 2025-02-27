@@ -40,12 +40,12 @@ http://192.168.20.2:8000/4gtv/250
 http://192.168.20.2:8000/4gtv/38
 #EXTINF:-1 tvg-id="Globetrotter" tvg-name="Globetrotter環遊旅行家" tvg-logo="https://assets.livednow.com/logo/Globetrotter-環遊旅行家.png" group-title="记录",Globetrotter 環遊旅行家
 http://192.168.20.2:5687/litv.php?id=4gtv-4gtv016
-
 #EXTINF:-1 tvg-id="Smart-知識台" tvg-name="Smart知識台" tvg-logo="https://assets.livednow.com/logo/Smart-知識台.png" group-title="记录",Smart 知識台
 http://192.168.20.2:8000/4gtv/297
 #EXTINF:-1 tvg-id="History-歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://assets.livednow.com/logo/History-歷史頻道.png" group-title="记录", History 歷史頻道
 http://192.168.20.2:8000/4gtv/214
-
+#EXTINF:-1 tvg-id="ZooMoo.sg" group-title="记录",ZooMoo Asia 
+https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
 
 #央视
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1
@@ -222,9 +222,11 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 #https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="FOX Live" tvg-name="FOX Live" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/FoxLive.png" group-title="国际",FOX Live Now
 #https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
 #EXTINF:-1  tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="国际",NHK World
 #https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
-#https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
+#EXTINF:-1  tvg-id="NHK Chinese" tvg-name="NHK Chinese" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="国际",NHK Chinese Vision
+https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 #EXTINF:-1  tvg-name="ABC NEWS 24"  tvg-logo="https://live.fanmingming.com/tv/abcaus.png" group-title="国际",ABC News Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
 

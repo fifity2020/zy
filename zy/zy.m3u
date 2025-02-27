@@ -23,32 +23,28 @@ http://192.168.20.2:5687/itv.php?channel-id=hnbblive&Contentid=20000000040000000
 #EXTINF:-1  tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://live.fanmingming.com/tv/CGTN纪录.png" group-title="记录",CGTN记录
 http://192.168.20.2:5687/itv.php?channel-id=hnbblive&Contentid=7114647837765104058&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="记录",LOUPE 4K
-#http://d2dw21aq0j0l5c.cloudfront.net/playlist.m3u8
 https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3u8
 #EXTINF:-1 tvg-id="Clarity" tvg-name="Clarity"  tvg-logo="https://i.imgur.com/M87kbVk.png"  group-title="记录",Clarity
 https://d6s2o8so4wk28.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2vzmnn0zl3exh-prod/amgclarity4k/playlist.m3u8
 #EXTINF:-1  tvg-id="Love-Nature" tvg-name="LoveNrture" tvg-logo="https://live.fanmingming.com/tv/LoveNature.png" group-title="记录",Love Narture
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1  tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://live.fanmingming.com/tv/BBCEarth.png" group-title="记录",BBC Earth
-http://192.168.20.2:5000/hami/OTT_LIVE_0000001510
+
 #EXTINF:-1 tvg-id="亞洲美食頻道" tvg-name="Asian Food Network 亞洲美食頻道" tvg-logo="https://assets.livednow.com/logo/亞洲美食頻道.png" group-title="记录", Asian Food Network 亞洲美食頻道
-http://192.168.20.2:5000/hami/OTT_LIVE_0000002039
+
 #EXTINF:-1 tvg-id="Discovery-Asia-TW"  tvg-name="Discovery-Asia" tvg-logo="https://assets.livednow.com/logo/Discovery-Asia-TW.png" group-title="记录",Discovery Asia
-http://192.168.20.2:5000/hami/OTT_LIVE_0000001924
+
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="记录",亞洲旅遊台
-http://192.168.20.2:5687/litv.php?id=litv-longturn17
-#http://192.168.20.2:5000/litv/litv-longturn17
+http://192.168.20.2:8000/4gtv/250
 #EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://assets.livednow.com/logo/視納華仁紀實頻道.png" group-title="记录",視納華仁紀實頻道
-http://192.168.20.2:5687/litv.php?id=4gtv-4gtv013
-#http://192.168.20.2:5000/litv/4gtv-4gtv013
+http://192.168.20.2:8000/4gtv/38
 #EXTINF:-1 tvg-id="Globetrotter" tvg-name="Globetrotter環遊旅行家" tvg-logo="https://assets.livednow.com/logo/Globetrotter-環遊旅行家.png" group-title="记录",Globetrotter 環遊旅行家
 http://192.168.20.2:5687/litv.php?id=4gtv-4gtv016
-#http://192.168.20.2:5000/litv/4gtv-4gtv016
+
 #EXTINF:-1 tvg-id="Smart-知識台" tvg-name="Smart知識台" tvg-logo="https://assets.livednow.com/logo/Smart-知識台.png" group-title="记录",Smart 知識台
-http://192.168.20.2:5687/litv.php?id=litv-longturn19
-#http://192.168.20.2:5000/4gtv/214
+http://192.168.20.2:8000/4gtv/297
 #EXTINF:-1 tvg-id="History-歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://assets.livednow.com/logo/History-歷史頻道.png" group-title="记录", History 歷史頻道
-http://192.168.20.2:5687/litv.php?id=4gtv-live026
+http://192.168.20.2:8000/4gtv/214
 
 
 #央视
@@ -199,11 +195,11 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce49274
 
 #音乐时尚
 #EXTINF:-1 tvg-id="Classica-古典樂" tvg-name="CLASSICA古典樂" tvg-logo="https://assets.livednow.com/logo/Classica-古典樂.png" group-title="音乐时尚",CLASSICA 古典樂
-http://192.168.20.2:5687/litv.php?id=4gtv-4gtv059
+http://192.168.20.2:8000/4gtv/80
 #EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="電影原聲台 CMusic" tvg-logo="https://assets.livednow.com/logo/電影原聲台CMusic.png" group-title="音乐时尚",電影原聲台 CMusic
-http://192.168.20.2:5000/4gtv/218
+http://192.168.20.2:8000/4gtv/218
 #EXTINF:-1 tvg-id="Mezzo-Live" tvg-name="Mezzo Live" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live.png" group-title="音乐时尚", Mezzo Live
-http://192.168.20.2:5687/litv.php?id=4gtv-4gtv083
+http://192.168.20.2:8000/4gtv/79
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vQuyyWO.png" group-title="音乐时尚",Fashion 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion" group-title="音乐时尚",FASHION MIDNITE

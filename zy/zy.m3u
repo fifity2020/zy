@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="记录",纯享 4K
 http://192.168.20.2:5687/itv.php?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=toShengfen&mode=1&$16M UHD
 #EXTINF:-1  tvg-id="上海纪实" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="记录",上海纪实
-http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000004000010282&livemode=1&stbId=toShengfen&mode
+http://192.168.20.2:35455/itv/1000000005000265021.m3u8?cdn=ystenlive
 #EXTINF:-1  tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/jinyingjishi.png" group-title="记录",金鹰纪实
 http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1  tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="记录",乐游
@@ -177,18 +177,18 @@ http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000011000031116
 http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=toShengfen&mode=1&$4M FHD
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.cn/tv/上海都市.png" group-title="影视",上海都市 4M HD bestzb
 http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-#EXTINF:-1 tvg-id="CHC1" tvg-name="CHC影迷电影" tvg-logo="https://live.fanmingming.com/tv/CHC影迷电影.png" group-title="影视",CHC影迷电影
-#[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002029/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-id="CHC-家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="影视",CHC家庭影院
-#http://[2409:8087:4c0a:22:1::22]:6610/170000001115/UmaiCHAN63807601b19dd/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUTrwI%2B%2BngB0lPRofcD8hTNRxu2SqX2RKsLT0S7AyQ8XopIVrD6IJGxdajeuKy4iZqZ4tkZuiEpwSRPszF6PIvg4&IA
-#EXTINF:-1 tvg-id="CHC-动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="影视",CHC动作电影
-#http://[2409:8087:3c02:0021:0000:0001:0000:100a]:6410/shandong_cabletv.live.zte.com////CHANNEL00002030/index.m3u8?IASHttpSessionId=
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="影视",CHC家庭影院
+https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="影视",CHC动作电影
+https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
+#EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="影视", amc電影台[litv]
+http://192.168.20.2:8000/4gtv/39
+#EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live157_mobile.png" group-title="影视", My Cinema Europe HD 我的歐洲電影[4gtv]
+http://192.168.20.2:8000/4gtv/176
 #EXTINF:-1 tvg-id="百事通" tvg-name="百事通" tvg-logo="https://tv.iill.top/logo/百事通.png" group-title="影视",百事通娱乐
-http://[2409:8087:5e08:24::17]:6610/000000001000/2000000004000000013/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000004000000013&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="海外电影" tvg-name="百事通" tvg-logo="https://tv.iill.top/logo/百事通.png" group-title="影视",百事通海外电影
-http://[2409:8087:5e08:24::17]:6610/000000001000/2000000003000000016/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000016&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
-#EXTINF:-1 tvg-id="国内电影" tvg-name="百事通" tvg-logo="https://tv.iill.top/logo/百事通.png" group-title="影视",百事通国内电影
-http://[2409:8087:5e08:24::17]:6610/000000001000/2000000003000000008/index.m3u8?stbId=3&livemode=1&HlsProfileId=&channel-id=hnbblive&Contentid=2000000003000000008&IASHttpSessionId=OTT19019320240419154124000281&yang-1989
+http://192.168.20.2:5687/itv.php?channel-id=hnbblive&Contentid=2000000004000000013&livemode=1&stbId=toShengfen&mode=1&$3M HD
+#EXTINF:-1 tvg-id="海外电影" tvg-name="百事通" tvg-logo="https://tv.iill.top/logo/百事通.png" group-title="影视",百事通影视
+http://192.168.20.2:5687/itv.php?channel-id=hnbblive&Contentid=2000000004000000002&livemode=1&stbId=toShengfen&mode=1&$3M HD
 #EXTINF:-1 tvg-id="海南视听" tvg-name="海南视听"  tvg-logo="https://live.fanmingming.com/tv/海南视听.png" group-title="影视" ,海南视听
 #EXTINF:-1 tvg-name="南国都市" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/南国都市.png" group-title="影视",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
@@ -208,7 +208,8 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_midnite_k1y_27049_mid
 https://fashiontv-fashiontv-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-name="global fashion channel" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/bae62fe186091391d8d3369293b53dcc.jpg" group-title="音乐时尚",Global Fashion 
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
-
+#EXTINF:-1 tvg-name="风尚音乐" tvg-logo="https://live.fanmingming.cn/tv/风尚音乐.png" group-title="音乐时尚",风尚音乐 3M FHD wasusyt
+http://192.168.20.2:5687/itv.php?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=toShengfen&mode=1&$3M HD
 #国际
 #EXTINF:-1  tvg-name="亚洲新闻台" tvg-logo="https://assets.livednow.com/logo/CNA-亞洲新聞台.png" group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8

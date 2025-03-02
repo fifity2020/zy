@@ -3,7 +3,7 @@
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://live.fanmingming.com/tv/纯享4K.png" group-title="记录",纯享 4K
 http://192.168.20.2:5687/itv.php?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=toShengfen&mode=1&$16M UHD
 #EXTINF:-1  tvg-id="上海纪实" tvg-name="上海纪实人文" tvg-logo="https://live.fanmingming.com/tv/纪实人文.png" group-title="记录",上海纪实
-http://192.168.20.2:35455/itv/1000000005000265021.m3u8?cdn=ystenlive
+http://192.168.20.2:5687/itv.php?channel-id=ystenlive&Contentid=1000000005000265021&livemode=1&stbId=toShengfen&mode=1&$6M FHD HEVC
 #EXTINF:-1  tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://live.fanmingming.com/tv/jinyingjishi.png" group-title="记录",金鹰纪实
 http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000011000031203&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1  tvg-id="乐游" tvg-name="乐游" tvg-logo="https://live.fanmingming.com/tv/乐游.png" group-title="记录",乐游
@@ -12,6 +12,9 @@ http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000006000040025
 http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000011000031204&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1 tvg-name="漫游世界" tvg-logo="https://live.fanmingming.cn/tv/漫游世界.png" group-title="记录",漫游世界 4M FHD wasusyt
 http://192.168.20.2:5687/itv.php?channel-id=wasusyt&Contentid=6000000003000028434&livemode=1&stbId=toShengfen&mode=1&$4M HD
+#EXTINF:-1 tvg-name="看天下精选" tvg-logo="https://live.fanmingming.cn/tv/看天下精选.png" group-title="记录",看天下精选 8M FHD best
+http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000011000288007&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+
 #EXTINF:-1 tvg-name="求索纪录" tvg-logo="https://live.fanmingming.cn/tv/求索纪录.png" group-title="记录",求索纪录 8M FHD hnbb
 http://192.168.20.2:5687/itv.php?channel-id=hnbblive&Contentid=2000000004000000010&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1 tvg-name="求索动物" tvg-logo="https://live.fanmingming.cn/tv/求索动物.png" group-title="记录",求索动物 8M FHD hnbb
@@ -71,7 +74,6 @@ http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000004000012827
 
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视频道",CCTV-13
 http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000005000001827&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视频道",CCTV-15
 http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV16 4M FHD ysten
@@ -80,8 +82,6 @@ http://192.168.20.2:5687/itv.php?channel-id=ystenlive&Contentid=1000000006000233
 http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=toShengfen&mode=1&$12M UHD HEVC
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17
 http://192.168.20.2:5687/itv.php?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 tvg-name="CGTN记录" tvg-logo="https://live.fanmingming.cn/tv/CGTN记录.png" group-title="央视频道",CGTN记录
-
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN
 
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN
@@ -181,6 +181,13 @@ http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000010000018926
 https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="影视",CHC动作电影
 https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
+#EXTINF:-1,tvg-id="BTV-重温经典" tvg-name="BTV-重温经典" tvg-logo="https://epg.v1.mk/logo/BTV-重温经典.png" group-title="影视",BTV-重温经典
+http://192.168.20.2:35455/bptv/10000100000000050000000003887494.m3u8
+#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.cn/tv/黑莓电影.png" group-title="影视",黑莓电影 4M FHD hnbb
+http://192.168.20.2:5687/itv.php?channel-id=hnbblive&Contentid=2000000003000000001&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+#EXTINF:-1 tvg-name="热播精选" tvg-logo="https://live.fanmingming.cn/tv/热播精选.png" group-title="影视",热播精选 4M HD hnbb
+http://192.168.20.2:5687/itv.php?channel-id=hnbblive&Contentid=2000000003000000016&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+
 #EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="影视", amc電影台[litv]
 http://192.168.20.2:8000/4gtv/39
 #EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live157_mobile.png" group-title="影视", My Cinema Europe HD 我的歐洲電影[4gtv]
@@ -189,6 +196,8 @@ http://192.168.20.2:8000/4gtv/176
 http://192.168.20.2:5687/itv.php?channel-id=hnbblive&Contentid=2000000004000000013&livemode=1&stbId=toShengfen&mode=1&$3M HD
 #EXTINF:-1 tvg-id="海外电影" tvg-name="百事通" tvg-logo="https://tv.iill.top/logo/百事通.png" group-title="影视",百事通影视
 http://192.168.20.2:5687/itv.php?channel-id=hnbblive&Contentid=2000000004000000002&livemode=1&stbId=toShengfen&mode=1&$3M HD
+#EXTINF:-1 tvg-name="全球大片" tvg-logo="https://live.fanmingming.cn/tv/全球大片.png" group-title="影视",全球大片 8M FHD best
+http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000011000288009&livemode=1&stbId=toShengfen&mode=1&$8M FHD
 #EXTINF:-1 tvg-id="海南视听" tvg-name="海南视听"  tvg-logo="https://live.fanmingming.com/tv/海南视听.png" group-title="影视" ,海南视听
 #EXTINF:-1 tvg-name="南国都市" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/南国都市.png" group-title="影视",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
@@ -230,5 +239,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 #EXTINF:-1  tvg-name="ABC NEWS 24"  tvg-logo="https://live.fanmingming.com/tv/abcaus.png" group-title="国际",ABC News Australia
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
-
-
+#体育
+#EXTINF:-1,tvg-id="北京体育休闲" tvg-name="北京体育休闲" tvg-logo="https://epg.v1.mk/logo/北京体育休闲.png" group-title="体育",北京体育休闲-4K-HLG
+http://192.168.20.2:35455/bptv/10000100000000050000000004270524.m3u8

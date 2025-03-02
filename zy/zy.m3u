@@ -47,8 +47,7 @@ http://192.168.20.2:5687/litv.php?id=4gtv-4gtv016
 http://192.168.20.2:8000/4gtv/297
 #EXTINF:-1 tvg-id="History-歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://assets.livednow.com/logo/History-歷史頻道.png" group-title="记录", History 歷史頻道
 http://192.168.20.2:8000/4gtv/214
-#EXTINF:-1 tvg-id="ZooMoo.sg" group-title="记录",ZooMoo Asia 
-https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8
+
 
 #央视
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1

@@ -226,16 +226,16 @@ http://192.168.20.2:5687/itv.php?channel-id=wasusyt&Contentid=552972909870383217
 #EXTINF:-1  tvg-name="亚洲新闻台" tvg-logo="https://assets.livednow.com/logo/CNA-亞洲新聞台.png" group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 #EXTINF:-1 tvg-name="CNN-國際新聞台" tvg-logo="https://assets.livednow.com/logo/CNN-國際新聞台.png" group-title="国际",CNN新闻
-#https://jmp2.uk/SamsungTVPlus/GBBD8000016N.m3u8
+https://stream1.freetv.fun/39c9454e706df0060b2cde0d4fdea09d93ffcf91fb43b08264a47673770e73f6.m3u8
+#https://stream1.freetv.fun/30e97794cd9e5ad16d9103560c86d9d9bc9a084a67f235e0f2941c0abe40ba62.m3u8
 #EXTINF:-1  tvg-name="BBC-News" tvg-logo="https://epg.pw/media/images/channel/2022/05/06/large/20220506164717897792_32.png" group-title="国际",BBC-News
-#https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
+https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #https://jmp2.uk/SamsungTVPlus/US4000033L.m3u8
 #https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
 #EXTINF:-1 tvg-id="FOX-NEWS" tvg-name="FOX-NEWS"  tvg-logo="https://live.fanmingming.com/tv/FoxLive.png" group-title="国际",FOX-NEWS
-#https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
 #EXTINF:-1 tvg-id="FOX Live" tvg-name="FOX Live" tvg-logo="https://github.com/fanmingming/live/blob/main/tv/FoxLive.png" group-title="国际",FOX Live Now
 #https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
-
 #EXTINF:-1  tvg-id="NHKWORLD" tvg-name="NHKWORLD" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="国际",NHK World
 #https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1  tvg-id="NHK Chinese" tvg-name="NHK Chinese" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png" group-title="国际",NHK Chinese Vision

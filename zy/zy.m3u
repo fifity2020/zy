@@ -38,15 +38,15 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="Discovery-Asia-TW"  tvg-name="Discovery-Asia" tvg-logo="https://assets.livednow.com/logo/Discovery-Asia-TW.png" group-title="记录",Discovery Asia
 
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="记录",亞洲旅遊台
-http://192.168.20.2:8000/4gtv/250
+https://tv.iill.top/litv/4gtv-4gtv076
 #EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://assets.livednow.com/logo/視納華仁紀實頻道.png" group-title="记录",視納華仁紀實頻道
-http://192.168.20.2:8000/4gtv/38
+https://tv.iill.top/litv/4gtv-4gtv013
 #EXTINF:-1 tvg-id="Globetrotter" tvg-name="Globetrotter環遊旅行家" tvg-logo="https://assets.livednow.com/logo/Globetrotter-環遊旅行家.png" group-title="记录",Globetrotter 環遊旅行家
-http://192.168.20.2:5687/litv.php?id=4gtv-4gtv016
+https://tv.iill.top/litv/4gtv-4gtv016
 #EXTINF:-1 tvg-id="Smart-知識台" tvg-name="Smart知識台" tvg-logo="https://assets.livednow.com/logo/Smart-知識台.png" group-title="记录",Smart 知識台
-http://192.168.20.2:8000/4gtv/297
+https://tv.iill.top/litv/litv-longturn19
 #EXTINF:-1 tvg-id="History-歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://assets.livednow.com/logo/History-歷史頻道.png" group-title="记录", History 歷史頻道
-http://192.168.20.2:8000/4gtv/214
+https://tv.iill.top/4gtv/214
 
 
 #央视

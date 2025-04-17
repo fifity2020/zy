@@ -163,51 +163,44 @@ http://192.168.20.2:35455/rptv/HD-10000k-1080P-fhhongkong5s.m3u8?license=cntv
 #影视
 
 #EXTINF:-1 tvg-name="华数" tvg-logo="https://tv.iill.top/logo/华数4K.png"  group-title="影视",华数4K
-http://192.168.20.2:5687/itv.php?channel-id=hnbblive&Contentid=2000000004000000014&livemode=1&stbId=toShengfen&mode=1&$16M UHD
+
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png" group-title="影视",欢笑剧场4K
-http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000007000010001&livemode=1&stbId=toShengfen&mode=1&$12M UHD HEVC
+
 #EXTINF:-1 tvg-id="新视觉" tvg-name="新视觉" tvg-logo="https://live.fanmingming.com/tv/新视觉.png" group-title="影视",新视觉
 #http://117.161.12.118/live/program/live/xsjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="SITV都市剧场" tvg-logo="https://live.fanmingming.com/tv/都市剧场.png" group-title="影视",SiTV都市剧场
-http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000002000004412&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+
 #EXTINF:-1 tvg-id="七彩戏剧" tvg-name="SITV七彩戏剧" tvg-logo="https://live.fanmingming.com/tv/七彩戏剧.png"  group-title="影视",SiTV七彩戏剧
-http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000011000031116&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+
 #EXTINF:-1 tvg-name="生活时尚" tvg-logo="https://live.fanmingming.cn/tv/生活时尚.png" group-title="影视",生活时尚 4M FHD best
-http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000002000019634&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+
 #EXTINF:-1 tvg-name="上海都市" tvg-logo="https://live.fanmingming.cn/tv/上海都市.png" group-title="影视",上海都市 4M HD bestzb
-http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000010000018926&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+
 #EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="影视",CHC家庭影院
 https://gdcucc.v1.mk/gdcucc/chcjtyy.m3u8
 #EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="影视",CHC动作电影
 https://gdcucc.v1.mk/gdcucc/chcdzdy.m3u8
 #EXTINF:-1,tvg-id="BTV-重温经典" tvg-name="BTV-重温经典" tvg-logo="https://epg.v1.mk/logo/BTV-重温经典.png" group-title="影视",BTV-重温经典
 http://192.168.20.2:35455/bptv/10000100000000050000000003887494.m3u8
-#EXTINF:-1 tvg-name="黑莓电影" tvg-logo="https://live.fanmingming.cn/tv/黑莓电影.png" group-title="影视",黑莓电影 4M FHD hnbb
-http://192.168.20.2:5687/itv.php?channel-id=hnbblive&Contentid=2000000003000000001&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-#EXTINF:-1 tvg-name="热播精选" tvg-logo="https://live.fanmingming.cn/tv/热播精选.png" group-title="影视",热播精选 4M HD hnbb
-http://192.168.20.2:5687/itv.php?channel-id=hnbblive&Contentid=2000000003000000016&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+
 
 #EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="影视", amc電影台[litv]
-http://192.168.20.2:8000/4gtv/39
+https://tv.iill.top/litv/4gtv-4gtv017
 #EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live157_mobile.png" group-title="影视", My Cinema Europe HD 我的歐洲電影[4gtv]
-http://192.168.20.2:8000/4gtv/176
-#EXTINF:-1 tvg-id="百事通" tvg-name="百事通" tvg-logo="https://tv.iill.top/logo/百事通.png" group-title="影视",百事通娱乐
-http://192.168.20.2:5687/itv.php?channel-id=hnbblive&Contentid=2000000004000000013&livemode=1&stbId=toShengfen&mode=1&$3M HD
-#EXTINF:-1 tvg-id="海外电影" tvg-name="百事通" tvg-logo="https://tv.iill.top/logo/百事通.png" group-title="影视",百事通影视
-http://192.168.20.2:5687/itv.php?channel-id=hnbblive&Contentid=2000000004000000002&livemode=1&stbId=toShengfen&mode=1&$3M HD
-#EXTINF:-1 tvg-name="全球大片" tvg-logo="https://live.fanmingming.cn/tv/全球大片.png" group-title="影视",全球大片 8M FHD best
-http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000011000288009&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+https://tv.iill.top/4gtv/176
+
+
 #EXTINF:-1 tvg-id="海南视听" tvg-name="海南视听"  tvg-logo="https://live.fanmingming.com/tv/海南视听.png" group-title="影视" ,海南视听
 #EXTINF:-1 tvg-name="南国都市" tvg-logo="https://mirror.ghproxy.com/raw.githubusercontent.com/suxuang/myIPTV/main/img/南国都市.png" group-title="影视",南国都市
 https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de
 
 #音乐时尚
 #EXTINF:-1 tvg-id="Classica-古典樂" tvg-name="CLASSICA古典樂" tvg-logo="https://assets.livednow.com/logo/Classica-古典樂.png" group-title="音乐时尚",CLASSICA 古典樂
-http://192.168.20.2:8000/4gtv/80
+https://tv.iill.top/litv/4gtv-4gtv059
 #EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="電影原聲台 CMusic" tvg-logo="https://assets.livednow.com/logo/電影原聲台CMusic.png" group-title="音乐时尚",電影原聲台 CMusic
-http://192.168.20.2:8000/4gtv/218
+https://tv.iill.top/4gtv/218
 #EXTINF:-1 tvg-id="Mezzo-Live" tvg-name="Mezzo Live" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live.png" group-title="音乐时尚", Mezzo Live
-http://192.168.20.2:8000/4gtv/79
+https://tv.iill.top/litv/4gtv-4gtv083
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vQuyyWO.png" group-title="音乐时尚",Fashion 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion" group-title="音乐时尚",FASHION MIDNITE
@@ -221,7 +214,7 @@ https://stream1.freetv.fun/d19bb027d41cab00a6c83b167269b6715be6e9d930c985c4e6fb5
 #EXTINF:-1 tvg-name="global fashion channel" tvg-logo="https://epg.pw/media/img/logo/2013/10/30/bae62fe186091391d8d3369293b53dcc.jpg" group-title="音乐时尚",Global Fashion 
 https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8
 #EXTINF:-1 tvg-name="风尚音乐" tvg-logo="https://live.fanmingming.cn/tv/风尚音乐.png" group-title="音乐时尚",风尚音乐 3M FHD wasusyt
-http://192.168.20.2:5687/itv.php?channel-id=wasusyt&Contentid=5529729098703832176&livemode=1&stbId=toShengfen&mode=1&$3M HD
+
 #国际
 #EXTINF:-1  tvg-name="亚洲新闻台" tvg-logo="https://assets.livednow.com/logo/CNA-亞洲新聞台.png" group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8

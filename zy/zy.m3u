@@ -38,15 +38,15 @@ https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="Discovery-Asia-TW"  tvg-name="Discovery-Asia" tvg-logo="https://assets.livednow.com/logo/Discovery-Asia-TW.png" group-title="记录",Discovery Asia
 
 #EXTINF:-1 tvg-id="亞洲旅遊台" tvg-name="亞洲旅遊台" tvg-logo="https://assets.livednow.com/logo/亞洲旅遊台.png" group-title="记录",亞洲旅遊台
-https://tv.iill.top/litv/4gtv-4gtv076
+http://192.168.20.2:50007/4gtv-4gtv076/index.m3u8
 #EXTINF:-1 tvg-id="視納華仁紀實頻道" tvg-name="視納華仁紀實頻道" tvg-logo="https://assets.livednow.com/logo/視納華仁紀實頻道.png" group-title="记录",視納華仁紀實頻道
-https://tv.iill.top/litv/4gtv-4gtv013
+http://192.168.20.2:50007/4gtv-4gtv013/index.m3u8
 #EXTINF:-1 tvg-id="Globetrotter" tvg-name="Globetrotter環遊旅行家" tvg-logo="https://assets.livednow.com/logo/Globetrotter-環遊旅行家.png" group-title="记录",Globetrotter 環遊旅行家
 https://tv.iill.top/litv/4gtv-4gtv016
 #EXTINF:-1 tvg-id="Smart-知識台" tvg-name="Smart知識台" tvg-logo="https://assets.livednow.com/logo/Smart-知識台.png" group-title="记录",Smart 知識台
-https://tv.iill.top/litv/litv-longturn19
+http://192.168.20.2:50007/litv-longturn19/index.m3u8
 #EXTINF:-1 tvg-id="History-歷史頻道" tvg-name="History 歷史頻道" tvg-logo="https://assets.livednow.com/logo/History-歷史頻道.png" group-title="记录", History 歷史頻道
-https://tv.iill.top/4gtv/214
+http://192.168.20.2:50007/4gtv-live026/index.m3u8
 
 
 #央视
@@ -185,9 +185,9 @@ http://192.168.20.2:35455/bptv/10000100000000050000000003887494.m3u8
 
 
 #EXTINF:-1 tvg-id="amc電影台" tvg-name="amc電影台" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-4gtv017new_mobile.png" group-title="影视", amc電影台[litv]
-https://tv.iill.top/litv/4gtv-4gtv017
+http://192.168.20.2:50007/4gtv-4gtv017/index.m3u8
 #EXTINF:-1 tvg-id="My Cinema Europe HD 我的歐洲電影" tvg-name="My Cinema Europe HD 我的歐洲電影" tvg-logo="https://4gtvimg2.4gtv.tv/4gtv-Image/Channel/mobile/logo_4gtv_4gtv-live157_mobile.png" group-title="影视", My Cinema Europe HD 我的歐洲電影[4gtv]
-https://tv.iill.top/4gtv/176
+http://192.168.20.2:50007/4gtv-live157/index.m3u8
 
 
 #EXTINF:-1 tvg-id="海南视听" tvg-name="海南视听"  tvg-logo="https://live.fanmingming.com/tv/海南视听.png" group-title="影视" ,海南视听

@@ -196,11 +196,11 @@ https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce49274
 
 #音乐时尚
 #EXTINF:-1 tvg-id="Classica-古典樂" tvg-name="CLASSICA古典樂" tvg-logo="https://assets.livednow.com/logo/Classica-古典樂.png" group-title="音乐时尚",CLASSICA 古典樂
-https://tv.iill.top/litv/4gtv-4gtv059
+http://192.168.20.2:50007/4gtv-4gtv059/index.m3u8
 #EXTINF:-1 tvg-id="電影原聲台CMusic" tvg-name="電影原聲台 CMusic" tvg-logo="https://assets.livednow.com/logo/電影原聲台CMusic.png" group-title="音乐时尚",電影原聲台 CMusic
-https://tv.iill.top/4gtv/218
+http://192.168.20.2:50007/4gtv-live031/index.m3u8
 #EXTINF:-1 tvg-id="Mezzo-Live" tvg-name="Mezzo Live" tvg-logo="https://assets.livednow.com/logo/Mezzo-Live.png" group-title="音乐时尚", Mezzo Live
-https://tv.iill.top/litv/4gtv-4gtv083
+http://192.168.20.2:50007/4gtv-4gtv083/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vQuyyWO.png" group-title="音乐时尚",Fashion 4K
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/auHH1Ig.png" group-title="Fashion" group-title="音乐时尚",FASHION MIDNITE

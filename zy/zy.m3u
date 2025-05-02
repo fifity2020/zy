@@ -51,36 +51,35 @@ http://192.168.20.2:50007/4gtv-live026/index.m3u8
 
 #央视
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视频道",CCTV-1
-http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000001000004953&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+http://192.168.20.2:35455/bptv/10000100000000050000000003864351.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视频道",CCTV-2
-http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000011000031101&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV3 8M FHD best
-http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000004000008883&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+http://192.168.20.2:35455/bptv/10000100000000050000000003870745.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视频道",CCTV3 
+http://192.168.20.2:35455/bptv/10000100000000050000000003870746.m3u8
 #EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视频道",CCTV-4
-http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000011000031102&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV5 8M FHD best
-http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000004000008885&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV5+ 8M FHD best
-http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000011000031127&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV6 8M FHD best
-http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000004000008886&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV8 8M FHD best
-http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000004000008888&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+http://192.168.20.2:35455/bptv/10000100000000050000000003870747.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视频道",CCTV5 
+http://192.168.20.2:35455/bptv/10000100000000050000000003870748.m3u8
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视频道",CCTV5+ 
+http://192.168.20.2:35455/bptv/10000100000000050000000003870759.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视频道",CCTV6
+http://192.168.20.2:35455/bptv/10000100000000050000000003870749.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视频道",CCTV8
+http://192.168.20.2:35455/bptv/10000100000000050000000003870838.m3u8
 #EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视频道",CCTV-9
-http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000010000018384&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+http://192.168.20.2:35455/bptv/10000100000000050000000003870752.m3u8
 #EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视频道",CCTV-10
-http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000004000012827&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+http://192.168.20.2:35455/bptv/10000100000000050000000003870753.m3u8
 
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视频道",CCTV-13
-http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000005000001827&livemode=1&stbId=toShengfen&mode=1&$4M FHD
+http://192.168.20.2:35455/bptv/10000100000000050000000004796248.m3u8
 #EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视频道",CCTV-15
-http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000011000031109&livemode=1&stbId=toShengfen&mode=1&$8M FHD
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV16 4M FHD ysten
-http://192.168.20.2:5687/itv.php?channel-id=ystenlive&Contentid=1000000006000233001&livemode=1&stbId=toShengfen&mode=1&$4M FHD
-#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV-16
-http://192.168.20.2:5687/itv.php?channel-id=bestzb&Contentid=5000000008000023254&livemode=1&stbId=toShengfen&mode=1&$12M UHD HEVC
+http://192.168.20.2:35455/bptv/10000100000000050000000003870757.m3u8
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视频道",CCTV16 
+http://192.168.20.2:35455/bptv/10000100000000050000000004972604.m3u8D
+
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视频道",CCTV-17
-http://192.168.20.2:5687/itv.php?channel-id=ystenlive&Contentid=1000000006000268004&livemode=1&stbId=toShengfen&mode=1&$8M FHD
+http://192.168.20.2:35455/bptv/10000100000000050000000003870758.m3u8
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN
 
 #EXTINF:-1 tvg-name="CGTN" tvg-logo="https://live.fanmingming.cn/tv/CGTN.png" group-title="央视频道",CGTN

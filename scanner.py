@@ -4,22 +4,13 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 # ================= 配置区 =================
 # 1. 源地址
 SOURCE_URLS = [
-    "http://192.168.20.2:1234",
-    "https://gh-proxy.org/https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg1",
-    "https://tv.iill.top/m3u/Gather",
-    "https://smart.946985.filegear-sg.me/sub.php?user=tg_haojr",
-    "https://www.stream-link.org/playlist.m3u?token=e841c0fa-f8f3-4bf5-94ee-b536af4fa29c",
-    "https://gptapi.passwdword.xyz/get.php?username=tg_uwswtrm1&password=gedixazfrvfb&type=m3u_plus"
+
+
 ]
 
 # 2. 私人频道列表 (锁定分组)
 MY_PRIVATE_CHANNELS = [
-    {"name": "FashionTV Paris L'Original (1080p)", "url": "https://edge-fast3.evrideo.tv/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8", "tvg_id": "FashionTV Paris L'Original (1080p)", "group": "音乐时尚", "logo": "https://live.fanmingming.cn/tv/FashionTV Paris L'Original (1080p).png"},
-    {"name": "FashionTV Secrets (1080p)", "url": "https://ssai.aniview.com/api/v1/hls/stream.m3u8?cb=%5BCACHEBUSTER%5D&AV_WIDTH=%5BADS.W%5D&AV_HEIGHT=%5BADS.H%5D&AV_APPNAME=%5BADS.APP_NAME%5D&AV_APPSTOREURL=%5BADS.APP_STORE_URL%5D&AV_APPPKGNAME=%5BADS.APP_BUNDLE%5D&AV_IDFA=%5BADS.IFA%5D&AV_IFA_TYPE=%5BADS.IFA_TYPE%5D&AV_CCPA=%5BADS.US_PRIVACY%5D&AV_GDPR=%5BADS.GDPR%5D&AV_CONSENT=%5BADS.GDPR_CONSENT%5D&AV_CONTENT_URL=&AV_CONTENT_TITLE=&AV_CONTENT_EPISODE=&AV_CONTENT_SERIES=&AV_CONTENT_SEASON=&AV_CONTENT_KEYWORDS=&AV_CONTENT_NETWORK=&AV_CONTENT_ID=%5BADS.VIDAA_ADS_CONTENTID%5D&AV_CONTENT_CHANNEL=&AV_CONTENT_CONTEXT=&AV_CONTENT_LENGTH=&AV_VAUTH=%5BADS.VAUTH%5D&AV_DNT=%5BADS.DNT%5D&Content_Id=%5BADS.ADS_CONTENTID%5D&AV_LANGUAGE=%5BADS.DEVICE_LANGUAGE%5D&AV_RTB_DEVICE_TYPE=%5BADS.DEVICE_TYPE%5D&AV_OSVERS=%5BADS.DEVICE_OSV%5D&AVS_SSAIID=67c0c39764ad6f7dab07aa0b&AV_CONTENT_LANGUAGE=en&AV_CONTENT_GENRE=fashion%20and%20lifestyle&AV_CONTENT_CAT=IAB7&AV_CONTENT_RATING=R&AV_CLIENT_SECTION=ftv_secrets&content_channel_name=ftv%20-fashiontv%20Secrets&content_livestream=1&AV_CONTENT_PROVIDER=FTV&ads.vidaa_ads_param=1191723366", "tvg_id": "FashionTV Secrets (1080p)", "group": "音乐时尚", "logo": "https://live.fanmingming.cn/tv/FashionTV Secrets (1080p).png"},
-    {"name": "凤凰中文", "url": "http://php.jdshipin.com/TVOD/iptv.php?id=fhzw", "tvg_id": "凤凰中文", "group": "卫视频道", "logo": "https://live.fanmingming.cn/tv/凤凰中文.png"},
-    {"name": "凤凰资讯", "url": "http://php.jdshipin.com/TVOD/iptv.php?id=fhzx", "tvg_id": "凤凰资讯", "group": "卫视频道", "logo": "https://live.fanmingming.cn/tv/凤凰资讯.png"},
-    {"name": "China Travel", "url": "https://amg01314-amg01314c7-distrotv-us-10219.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtnchinatravel-distrotvus/playlist.m3u8", "tvg_id": "China Travel", "group": "记录频道", "logo": "https://live.fanmingming.cn/tv/China Travel.png"},
-    {"name": "Discovering China", "url": "https://amg01314-amg01314c8-distrotv-us-10218.playouts.now.amagi.tv/playlist/amg01314-cgtn-cgtndiscoveringchina-distrotvus/playlist.m3u8", "tvg_id": "Discovering China", "group": "记录频道", "logo": "https://live.fanmingming.cn/tv/Discovering China.png"}
+   
 ]
 
 # 3. 代理配置
@@ -30,7 +21,7 @@ PROXY_DOMAINS = ["stream-link.org", "passwdword.xyz", "tv.iill.top"]
 GROUP_ORDER = ["记录频道", "央视频道", "卫视频道", "影视频道", "音乐时尚", "国际频道", "体育频道", "其他"]
 
 # 5. 扫描参数
-LAN_IP = "192.168.20.2"
+LAN_IP = "192.168.*.*"
 LOGO_BASE_URL = "https://epg.iill.top/logo/"
 MAX_WORKERS = 5
 SAVE_PATH = "/app/checked_all.m3u"

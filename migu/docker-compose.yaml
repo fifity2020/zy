@@ -1,0 +1,18 @@
+services:
+  migu-video:
+    image: develop767/migu_video:latest
+    container_name: migu_video
+    ports:
+      - "1234:1234"
+    environment:
+      - muserId=213288201    #（替换为你自己的userId）
+      - mtoken=nlps6A959A96457563CD312B   #（替换为你自己的token）
+      - token=nlps6A959A96457563CD312B  #（替换为你自己的token）
+      - mport=1234
+      - mhost=http://192.168.20.2:1234
+      - mrateType=4   #（2: 标清；3: 高清；4: 蓝光；7: 原画；9: 4k）
+      - menableHDR=true
+      - menableH265=true
+      - mupdateInterval=6
+      - menablePlayback=true   # 开启回放    
+    restart: always   
